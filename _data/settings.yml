@@ -1,53 +1,50 @@
 #-------------------------------
 # General Site Settings
-title: Network Science Lab @ CUK
+title: Artificial intelligence Digital twin lab
 logo: Logo_Wide.png
 #LabLogo.png
-description: Official website of the Network Science Lab at the Catholic University of Korea (NS Lab@CUK)
-author: NS Lab@CUK
-creator: NS Lab@CUK
-publisher: NS Lab@CUK
+description: Official website of the AI Digital Twin at Dong-A University of Korea (AIDT Lab@DAU)
+author: AIDT Lab@DAU
+creator: AIDT Lab@DAU
+publisher: AIDT Lab@DAU
 
 #-------------------------------
 # Author Settings
 author:
-  name: NS Lab@CUK
+  name: AIDT Lab@DAU
   image: 220908_2.jpg
   #logo_please.png
-  say-hello: <strong>Network Science Lab</strong>
-  bio: Network science is a field of study that aims to reveal structural patterns in real-world interaction networks, such as social networks, bibliographic networks, power grids, and others. The Network Science Lab (NS Lab; 네트워크과학연구실), part of the Dept. of AI at CUK, conducts extensive research on a wide range of theories, methodologies, and applications related to collection, representation, and analysis of networked data.
-  
-  #Network science is a research field about unveiling structural patterns in real-world interaction networks, e.g., social networks, bibliographic networks, power grids, etc. We study a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
-  #Network Science Lab, Dept. of Artificial Intelligence, The Catholic University of Korea studies a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
+  say-hello: <strong>Artificial intelligence Digital twin Lab</strong>
+  bio: The AI DT Lab at Dong A University focuses on advancing research in artificial intelligence, particularly in areas such as data analysis, machine learning, and computer vision. It aims to foster innovation and collaboration among students and researchers to solve real-world problems using AI technologies.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/NS_CUK
+twitter: 
 #facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://www.instagram.com/ns_cuk/ # Add your Instagram handle
+instagram:  # Add your Instagram handle
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
-github: https://github.com/NSLab-CUK/
-email: mailto:nslab.ai.cuk@gmail.com
-demopage: https://nslab.catholic.ac.kr/
-youtube: https://www.youtube.com/channel/UCxIbebomcnCapufjTmr8-ZQ
+github: https://github.com/AIDTLab-DAU
+email: mailto
+demopage: 
+youtube: 
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: ns_cuk # Add instagram username
+instagram-profile: # Add instagram username
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: G-3WYKVC20DN # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

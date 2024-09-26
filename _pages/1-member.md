@@ -6,12 +6,13 @@ image: 220908_2.jpg
 description: Members, alumni and collaborators of the AI Digital Twin Lab, Dong-A University of Korea
 toc: true
 ---
-{{ content | toc_only }}
+{% toc %}
 <div class='sticky-top'>
 	<h5>Table of Contents</h5>
 	<div id="table-of-contents">
     	* TOC
 		{:toc}
+		{{ content | toc_only }}
   	</div>
 </div>
 

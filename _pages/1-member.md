@@ -14,7 +14,7 @@ toc: true
   	</div>
 </div>
 
-* TOC
+
 {:toc}
 
 ***

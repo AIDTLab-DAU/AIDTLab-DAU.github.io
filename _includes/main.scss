@@ -116,8 +116,10 @@
 @import '4-layouts/tag-page';
 
 .sticky-top {
+    position: -webkit-sticky;
     position: sticky;
-    top: 100px;
+    top: 0;
     left: 0;
     align-self: flex-start;
+    display:inline-block;
   }

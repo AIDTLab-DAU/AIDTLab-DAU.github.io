@@ -1,18 +1,4 @@
 <head>
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != "dataLayer" ? "&l=" + l : "";
-      j.async = true;
-      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, "script", "dataLayer", "GTM-KQPZXW8T");
-  </script>
-  <!-- End Google Tag Manager -->
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -32,8 +18,7 @@
     rel="canonical"
     href="{{ page.url | replace:'index.html','' | absolute_url }}"
   />
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape
-  }}" href="{{ "/feed.xml" | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
   <!-- Fonts -->
   <link
@@ -77,23 +62,8 @@
 
   <style>
     {% capture include_to_scssify %}
-      {% include main.scss %}
+    {% include main.scss %}
     {% endcapture %}
     {{ include_to_scssify | scssify }}
   </style>
-
-  <!-- Google tag (gtag.js) -->
-  <script
-    async
-    src="https://www.googletagmanager.com/gtag/js?id=G-1MH93MRZ7X"
-  ></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
-
-    gtag("config", "G-1MH93MRZ7X");
-  </script>
 </head>

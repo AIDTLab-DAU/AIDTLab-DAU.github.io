@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nslab-cuk.github.io/sitemap.xml

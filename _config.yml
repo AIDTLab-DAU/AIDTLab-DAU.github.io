@@ -29,10 +29,10 @@ include:
 
 # Atom Feed
 author:
-  name: NS Lab@CUK
+  name: AIDT Lab@DAU
 
 logo: /images/Logo_Wide.png
-email: nslab.ai.cuk@gmail.com
+email: 
 
 feed:
   path: atom.xml
@@ -49,4 +49,4 @@ sass:
 analytics:
   provider: google
   google:
-    tracking_id: G-1MH93MRZ7X
+    tracking_id: G-3WYKVC20DN

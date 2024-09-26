@@ -3,7 +3,7 @@ layout: page
 title: Member
 permalink: /member/
 image: 220908_2.jpg
-description: Members, alumni and collaborators of the Network Science Lab at the Catholic University of Korea
+description: Members, alumni and collaborators of the AI Digital Twin Lab, Dong-A University of Korea
 ---
 
 

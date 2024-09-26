@@ -3,7 +3,7 @@ layout: page
 title: NS-CUK Open Source Projects
 permalink: /open-source-projects/
 image: CUK_4Seasons.jpg
-description: Open source projects run by members and collaborators of the Network Science Lab at the Catholic University of Korea
+description: Open source projects run by members and collaborators of the AI Digital Twin Lab, Dong-A University of Korea
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"

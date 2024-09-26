@@ -3,7 +3,7 @@ layout: page
 title: AI-CUK Joint Journal Club
 permalink: /joint-journal-club/
 image: CUK_4Seasons.jpg
-description: Archive of papers reviewed by members of the Network Science Lab at the Catholic University of Korea as part of the AI-CUK Joint Journal Club
+description: Archive of papers reviewed by members of the AI Digital Twin Lab, Dong-A University of Korea
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"

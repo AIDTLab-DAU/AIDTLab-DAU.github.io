@@ -3,7 +3,7 @@ layout: page
 title: NS-CUK Open Datasets
 permalink: /open-datasets/
 image: CUK_4Seasons.jpg
-description: Open datasets created by members and collaborators of the Network Science Lab at the Catholic University of Korea
+description: Open datasets created by members and collaborators of the AI Digital Twin Lab, Dong-A University of Korea
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"

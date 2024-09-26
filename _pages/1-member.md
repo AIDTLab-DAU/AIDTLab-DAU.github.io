@@ -10,7 +10,7 @@ toc: true
 <div class='sticky-top'>
 	<h5>Table of Contents</h5>
 	<div id="table-of-contents">
-    	{{ content | toc }}
+    	{{ :toc }}
   	</div>
 </div>
 

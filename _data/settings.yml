@@ -1,0 +1,55 @@
+#-------------------------------
+# General Site Settings
+title: Network Science Lab @ CUK
+logo: Logo_Wide.png
+#LabLogo.png
+description: Official website of the Network Science Lab at the Catholic University of Korea (NS Lab@CUK)
+author: NS Lab@CUK
+creator: NS Lab@CUK
+publisher: NS Lab@CUK
+
+#-------------------------------
+# Author Settings
+author:
+  name: NS Lab@CUK
+  image: 220908_2.jpg
+  #logo_please.png
+  say-hello: <strong>Network Science Lab</strong>
+  bio: Network science is a field of study that aims to reveal structural patterns in real-world interaction networks, such as social networks, bibliographic networks, power grids, and others. The Network Science Lab (NS Lab; 네트워크과학연구실), part of the Dept. of AI at CUK, conducts extensive research on a wide range of theories, methodologies, and applications related to collection, representation, and analysis of networked data.
+  
+  #Network science is a research field about unveiling structural patterns in real-world interaction networks, e.g., social networks, bibliographic networks, power grids, etc. We study a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
+  #Network Science Lab, Dept. of Artificial Intelligence, The Catholic University of Korea studies a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/NS_CUK
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://www.instagram.com/ns_cuk/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
+github: https://github.com/NSLab-CUK/
+email: mailto:nslab.ai.cuk@gmail.com
+demopage: https://nslab.catholic.ac.kr/
+youtube: https://www.youtube.com/channel/UCxIbebomcnCapufjTmr8-ZQ
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: ns_cuk # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e

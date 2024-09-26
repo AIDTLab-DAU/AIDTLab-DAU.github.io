@@ -1,0 +1,119 @@
+.page-title-box {
+  padding: 80px 0;
+  border-top: 1px solid $light-gray;
+
+  .page-title {
+    font-size: 57px;
+    line-height: 70px;
+    margin: 0;
+  }
+
+  @media only screen and (max-width: $mobile) {
+    padding: 40px 0;
+
+    .page-title {
+      font-size: 47px;
+      line-height: 53px;
+    }
+  }
+}
+
+.page__head {
+  
+  .page-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: $light-gray;
+    &:after {
+      content: "";
+      display: table;
+      width: 100%;
+      min-height: 300px;
+      padding-top: 50%;
+    }
+  }
+}
+
+.page {
+  margin: 80px auto;
+
+  img {
+  }
+
+  @media only screen and (max-width: $tablet) {
+    margin: 40px auto;
+  }
+}
+
+.page-box {
+  text-align: center;
+
+  .back-arrow {
+    a {
+      display: inline-block;
+      margin-left: 10px;
+      color: $dark;
+      font-weight: 700;
+      &:hover {
+        color: $black;
+      }
+    }
+  }
+}
+
+.gmap {
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    text-align:center;
+}
+
+.gmap iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.columnLeft {
+  float: left;
+}
+
+.columnRight {
+  float: right;
+}
+
+.left {
+  width: 80%;
+}
+
+.right {
+  width: 20%;
+}
+
+.youtube-wrapper {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.youtube-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+

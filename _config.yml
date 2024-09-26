@@ -1,0 +1,52 @@
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nslab-cuk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-toc
+  - jemoji
+
+paginate: 5
+paginate_path: "/page/:num"
+
+futrue: true
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Atom Feed
+author:
+  name: NS Lab@CUK
+
+logo: /images/Logo_Wide.png
+email: nslab.ai.cuk@gmail.com
+
+feed:
+  path: atom.xml
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+analytics:
+  provider: google
+  google:
+    tracking_id: G-1MH93MRZ7X

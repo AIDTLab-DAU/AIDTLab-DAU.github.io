@@ -6,7 +6,7 @@ image: 220908_2.jpg
 description: Members, alumni and collaborators of the AI Digital Twin Lab, Dong-A University of Korea
 toc: true
 ---
-{% toc %}
+{{ content | toc_only }}
 <div class='sticky-top'>
 	<h5>Table of Contents</h5>
 	<div id="table-of-contents">

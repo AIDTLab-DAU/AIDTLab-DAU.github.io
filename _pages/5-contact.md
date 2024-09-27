@@ -7,34 +7,36 @@ description: Contact and recruitment information for the AI Digital Twin Lab, Do
 ---
 
 ***
-### Address
+# Address
 
 <table >
   <tr>
-    <th>Prof.Lee</th>
-    <th>Prof.Lee</th>
+    <th>Prof.Soo-Yol Ok </th>
+    <th>Prof.Syk-Hwan Lee</th>
     <th>Laboratory & Office</th>
   </tr>
   <tr>
      <td>
 			<ul>
-				<li> room</li>
-				<li> [email](mailto:john@john.com)</li>
+				<li> S06-9999, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
+				<li><a href="mailto:sooyol@dau.ac.kr">sooyol@dau.ac.kr</a></li>
 			</ul>
 		</td>
     <td>
 			<ul>
-				<li> room</li>
-				<li> [email](mailto:john@john.com)</li>
+				<li> S06-0614, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
+				<li><a href="mailto:skylee@dau.ac.kr">skylee@dau.ac.kr</a></li>
 			</ul>
 		</td>
     <td>
 			<ul>
-				<li> room</li>
+				<li>S03-0213, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
 			</ul>
 		</td>
   </tr>
 </table>
+
+***
 
 <div class="gmap">
   <p align="center">
@@ -45,16 +47,3 @@ description: Contact and recruitment information for the AI Digital Twin Lab, Do
 <br>
 
 <p align="center"><a href="https://english.donga.ac.kr/english/Main.do"><img align="center" src="../images/DongASeunghakMap.png" style="width : 100%"></a></p>
-
-* S03-0213, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea
-  
-***
-
-### E-mails 
-
-* [John](mailto:john@john.com)
-
-***
-### Phones
-
-* [John](tel:2223334567)

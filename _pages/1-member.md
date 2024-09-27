@@ -2,7 +2,7 @@
 layout: page
 title: Member
 permalink: /member/
-image: 
+image: partof_LabMembers.jpeg
 description: Members, alumni and collaborators of the AI Digital Twin Lab, Dong-A University of Korea
 toc: true
 ---

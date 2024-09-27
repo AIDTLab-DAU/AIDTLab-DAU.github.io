@@ -7,8 +7,6 @@ description: Members, alumni and collaborators of the AI Digital Twin Lab, Dong-
 toc: true
 ---
 
-
-
 ***
 # Professors
 ***
@@ -20,37 +18,13 @@ toc: true
 Biography paragraph go here. Earlier in August, Foxconn announced the plan to expand its overseas investments, with the total amounting to roughly USD 840 million. Now the expansion plan seems to be more materialized, as the Taiwanese tech giant is reportedly evaluating an investment of around USD 1 billion to set up a smartphone display module assembly unit in Tamil Nadu, India, according to a report by The Economic Times, cited by Taiwanese media the Economic Daily News.
 
 ###### Research Experience
-
 * 
 
 ###### Education
-
 * 
 
 ###### Contact
-
 * 
-
-***
-# Post-Doctoral Researchers
-***
-
-###### [Phuc Vinh Bui](/member/phucbui) (Sep 2022 -- Present; On leaving)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Phuc.jpg"/></td>  
-		<td>
-			<ul>
-				<li> item0</li>
-				<li> item1</li>
-				<li> item2</li>
-				<li>Email: <a href="mailto:tesniere@catholic.ac.kr">tesniere@catholic.ac.kr</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
-
 
 ***
 # Researchers

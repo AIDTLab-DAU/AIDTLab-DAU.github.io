@@ -11,20 +11,49 @@ toc: true
 # Professors
 ***
 
-#### [Title.Name](/member/ojlee)
+#### [So-Yol Ok](/member/soyolok)
 
-<img align="left" src="/images/ojlee4.JPG" style="width : 180px; height : 240px; margin : 10px">
+<img align="left" src="../images/syok1.PNG" style="width : 180px; height : 240px; margin : 10px">
 
-Biography paragraph go here. Earlier in August, Foxconn announced the plan to expand its overseas investments, with the total amounting to roughly USD 840 million. Now the expansion plan seems to be more materialized, as the Taiwanese tech giant is reportedly evaluating an investment of around USD 1 billion to set up a smartphone display module assembly unit in Tamil Nadu, India, according to a report by The Economic Times, cited by Taiwanese media the Economic Daily News.
+Soo-Yol Ok received a BSc degree in industrial engineering from Donga University, Korea in 1994, and his MSc and Ph.D. in the Institute of Information Sciences and Electronics from Tsukuba University, Japan in 1998 and 2001 respectively. He worked at the National Institute of Information and Communications Technology (NICT), a national research institute in Japan, as a senior researcher from 2001 to 2003. From 2004 to 2019 he worked as an assistant, associate, and full professor in the Department of Game Engineering at the Junior College of Information and Communication, Tongmyong University. He established the Center for Fusion and Application of Super-computing for GPU-Based Accelerated Computing at Tongmyoung University in 2013 and served as the center's director until FY 2019. In FY2016, he established the Offshore Plant O&M Engineering Simulation Center supported by the Ministry of Trade, Industry, and Energy, where he operated as the center's director until FY2019. He also served as an expert committee member for the Busan Eco Delta Smart City National Model City Development Project underway by the Ministry of Land, Infrastructure and Transport from 2018 to 2021.
+
+He is currently working as a full professor in the Department of Computer Engineering in the College of Computer AI Engineering at Dong-A University. He also served as the Laboratory Director of the AI-Digital Twin-SW Demonstration Center at Dong-A University from 2022 to the present. He has many interests and ongoing research in digital twins, GPU-based supercomputing, and multiple inference artificial intelligence. He is the general manager of the project “Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea from 2022.
 
 ###### Research Experience
-* 
+* 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
+* 2004 - 2019: An Assistant, Associate, and Full Professor, Dept. of Game Engineering, Junior College of Information and Communication, Tongmyong University, Busan, South Korea
 
 ###### Education
-* 
+* 2001: Ph.D, Institute of Information Sciences and Electronics, Tsukuba University, Japan
+* 1998: M.S, Institute of Information Sciences and Electronics, Tsukuba University, Japan
+* 1994: B.S, Industrial Engineering, Dong-A University, Busan, South Korea
 
 ###### Contact
-* 
+* Email: [sooyol@dau.ac.kr](mailto:sooyol@dau.ac.kr)
+* Phone: +82
+
+#### [Suk-Hwan Lee](/member/sukhwanlee)
+
+<img align="left" src="../images/shlee1.PNG" style="width : 180px; height : 240px; margin : 10px">
+
+Suk-Hwan Lee received a B.S., an M.S., and a Ph.D. degree in Electrical Engineering from Kyungpook National University, Korea in 1999, 2001, and 2004 respectively. He worked as an assistant, associate, and full professor in the Department of Information Security at Tongmyong University from 2005 to 2019 and was the dean of the College of Software Engineering in 2019. Currently, he is a full professor in the Department of Computer Engineering at Dong-A University and has been the dean of the faculty of Computer & AI engineering at this since 2023. He has been researched in the field of multimedia security, image/video processing/compression and also digital twin platforms, AI-based computer vision, and AI security.             
+
+He received the Achievement Award from Korea-Japan CCS (Complex Communication Society) in 2019 and best papers from KMMS (Korea Multimedia Society) in 2018, 2019 and also best lecture award from Tongmyong University in 2018, and a President Achievement Award from Dong-A University in 2023.
+
+He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 and has worked as a chief editor of Korea Multimedia Society (KMMS) since 2021. He is a general manager of the project of "The Software Centered University" from 2023 and also a practice header of the project of "Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea.
+
+
+###### Research Experience
+* 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
+* 2015 - 2019: An Assistant, Associate, and Full Professor, Dept. of Information Security, Tongmyong University, Busan, South Korea
+###### Education
+* 2004: Ph.D, Electrical Engineering, Kyungpook National University, Deagu, South Korea
+* 2001: M.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
+* 1999: B.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
+
+###### Contact
+* Email: [skylee@dau.ac.kr](mailto:skylee@dau.ac.kr)
+* Phone: +82
 
 ***
 # Researchers
@@ -32,17 +61,53 @@ Biography paragraph go here. Earlier in August, Foxconn announced the plan to ex
 
 #### Ph.D
 
-###### [Phuc Vinh Bui](/member/phucbui) (Sep 2022 -- Present; On leaving)
+###### [Hyeon-Cheol Kim](/member/khc) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Phuc.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
 		<td>
 			<ul>
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:tesniere@catholic.ac.kr">tesniere@catholic.ac.kr</a></li>
+				<li>Email: <a href="mailto:tesniere@dau.ac.kr">tesniere@dau.ac.kr</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+#### Ph.D
+
+###### [Sang-Hoon Lee](/member/lsh) (Sep 2022 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td>
+			<ul>
+				<li> item0</li>
+				<li> item1</li>
+				<li> item2</li>
+				<li>Email: <a href="mailto:tesniere@dau.ac.kr">tesniere@dau.ac.kr</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+#### Ph.D
+
+###### [Phuoc-Dat Lam](/member/lpd) (Feb 2022 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pdlam1.jpg"/></td>  
+		<td>
+			<ul>
+				<li> Sep 2024 - Present: Ph.D, Dept. of Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Feb 2022 - August 2024: M.S, Dept. of Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Sep 2017 - August 2021: B.S, Dept. of Computer Science, Ho Chi Minh University of Education, Ho Chi Minh city, Viet Nam</li>
+				<li>Email: <a href="mailto:datlam10006@gmail.com">datlam10006@gmail.com</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -50,17 +115,34 @@ Biography paragraph go here. Earlier in August, Foxconn announced the plan to ex
 
 #### Master
 
-###### [Phuc Vinh Bui](/member/phucbui) (Sep 2022 -- Present; On leaving)
+###### [Beon-Hyeon Gu](/member/gbh) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Phuc.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/bhgu1.jpg"/></td>  
 		<td>
 			<ul>
 				<li> item0</li>
 				<li> item1</li>
-				<li> item2</li>
-				<li>Email: <a href="mailto:tesniere@catholic.ac.kr">tesniere@catholic.ac.kr</a></li>
+				<li> Website: <a href = "https://docs.9bon.org/">https://docs.9bon.org/</a></li>
+				<li> Email: <a href="mailto:bonhyeon.gu@9bon.org">bonhyeon.gu@9bon.org</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+#### Master
+
+###### [Hoang-Khanh Lam](/member/lhk) (March 2023 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/hklam1.jpg"/></td>  
+		<td>
+			<ul>
+				<li> Feb 2023 - Present: M.S, Dept. of Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Sep 2018 - August 2022: B.S, Dept. of Computer Science, Ho Chi Minh University of Education, Ho Chi Minh city, Viet Nam</li>
+				<li>Email: <a href="mailto:hoangkhanh9119@gmail.com">hoangkhanh9119@gmail.com</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -68,39 +150,18 @@ Biography paragraph go here. Earlier in August, Foxconn announced the plan to ex
 
 ***
 # Undergraduate Research Assistants
-***
 
-###### [Phuc Vinh Bui](/member/phucbui) (Sep 2022 -- Present; On leaving)
+###### [Jong-Sik Kim](/member/phucbui) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Phuc.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
 		<td>
 			<ul>
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:tesniere@catholic.ac.kr">tesniere@catholic.ac.kr</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
-
-***
-# Alumni
-***
-
-###### [Phuc Vinh Bui](/member/phucbui) (Sep 2022 -- Present; On leaving)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Phuc.jpg"/></td>  
-		<td>
-			<ul>
-				<li> item0</li>
-				<li> item1</li>
-				<li> item2</li>
-				<li>Email: <a href="mailto:tesniere@catholic.ac.kr">tesniere@catholic.ac.kr</a></li>
+				<li>Email: <a href="mailto:tesniere@dau.ac.kr">tesniere@dau.ac.kr</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -109,8 +170,4 @@ Biography paragraph go here. Earlier in August, Foxconn announced the plan to ex
 
 ***
 # Collaborators
-***
 
-* [Hyeon-Ju Jeon](https://higd963.github.io/), [Korea Institute of Atmospheric Prediction System](https://www.kiaps.org/front/main.do), Seoul, Korea 
-  <br>
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/higd963)

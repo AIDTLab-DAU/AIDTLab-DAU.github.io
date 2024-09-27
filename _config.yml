@@ -50,3 +50,7 @@ analytics:
   provider: google
   google:
     tracking_id: G-3WYKVC20DN
+
+exclude:
+  - .vscode/
+  - .github/

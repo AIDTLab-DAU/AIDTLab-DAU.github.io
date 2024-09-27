@@ -15,9 +15,11 @@ toc: true
 
 <img align="left" src="../images/syok1.png" style="width : 180px; height : 240px; margin : 10px">
 
+<div style="text-align: justify ">
 Soo-Yol Ok received a BSc degree in industrial engineering from Donga University, Korea in 1994, and his MSc and Ph.D. in the Institute of Information Sciences and Electronics from Tsukuba University, Japan in 1998 and 2001 respectively. He worked at the National Institute of Information and Communications Technology (NICT), a national research institute in Japan, as a senior researcher from 2001 to 2003. From 2004 to 2019 he worked as an assistant, associate, and full professor in the Department of Game Engineering at the Junior College of Information and Communication, Tongmyong University. He established the Center for Fusion and Application of Super-computing for GPU-Based Accelerated Computing at Tongmyoung University in 2013 and served as the center's director until FY 2019. In FY2016, he established the Offshore Plant O&M Engineering Simulation Center supported by the Ministry of Trade, Industry, and Energy, where he operated as the center's director until FY2019. He also served as an expert committee member for the Busan Eco Delta Smart City National Model City Development Project underway by the Ministry of Land, Infrastructure and Transport from 2018 to 2021.
 
 He is currently working as a full professor in the Department of Computer Engineering in the College of Computer AI Engineering at Dong-A University. He also served as the Laboratory Director of the AI-Digital Twin-SW Demonstration Center at Dong-A University from 2022 to the present. He has many interests and ongoing research in digital twins, GPU-based supercomputing, and multiple inference artificial intelligence. He is the general manager of the project “Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea from 2022.
+</div>
 
 ###### Research Experience
 * 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
@@ -36,12 +38,13 @@ He is currently working as a full professor in the Department of Computer Engine
 
 <img align="left" src="../images/shlee1.png" style="width : 180px; height : 240px; margin : 10px">
 
+<div style="text-align: justify ">
 Suk-Hwan Lee received a B.S., an M.S., and a Ph.D. degree in Electrical Engineering from Kyungpook National University, Korea in 1999, 2001, and 2004 respectively. He worked as an assistant, associate, and full professor in the Department of Information Security at Tongmyong University from 2005 to 2019 and was the dean of the College of Software Engineering in 2019. Currently, he is a full professor in the Department of Computer Engineering at Dong-A University and has been the dean of the faculty of Computer & AI engineering at this since 2023. He has been researched in the field of multimedia security, image/video processing/compression and also digital twin platforms, AI-based computer vision, and AI security.             
 
 He received the Achievement Award from Korea-Japan CCS (Complex Communication Society) in 2019 and best papers from KMMS (Korea Multimedia Society) in 2018, 2019 and also best lecture award from Tongmyong University in 2018, and a President Achievement Award from Dong-A University in 2023.
 
 He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 and has worked as a chief editor of Korea Multimedia Society (KMMS) since 2021. He is a general manager of the project of "The Software Centered University" from 2023 and also a practice header of the project of "Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea.
-
+</div>
 
 ###### Research Experience
 * 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
@@ -151,7 +154,7 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 ***
 # Undergraduate Research Assistants
 
-###### [Jong-Sik Kim](/member/phucbui) (Sep 2022 -- Present)
+###### [Jong-Sik Kim](/member/kjs) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">

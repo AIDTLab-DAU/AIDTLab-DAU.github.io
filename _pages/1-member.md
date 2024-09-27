@@ -13,7 +13,7 @@ toc: true
 
 #### [So-Yol Ok](/member/soyolok)
 
-<img align="left" src="../images/syok1.PNG" style="width : 180px; height : 240px; margin : 10px">
+<img align="left" src="../images/syok1.png" style="width : 180px; height : 240px; margin : 10px">
 
 Soo-Yol Ok received a BSc degree in industrial engineering from Donga University, Korea in 1994, and his MSc and Ph.D. in the Institute of Information Sciences and Electronics from Tsukuba University, Japan in 1998 and 2001 respectively. He worked at the National Institute of Information and Communications Technology (NICT), a national research institute in Japan, as a senior researcher from 2001 to 2003. From 2004 to 2019 he worked as an assistant, associate, and full professor in the Department of Game Engineering at the Junior College of Information and Communication, Tongmyong University. He established the Center for Fusion and Application of Super-computing for GPU-Based Accelerated Computing at Tongmyoung University in 2013 and served as the center's director until FY 2019. In FY2016, he established the Offshore Plant O&M Engineering Simulation Center supported by the Ministry of Trade, Industry, and Energy, where he operated as the center's director until FY2019. He also served as an expert committee member for the Busan Eco Delta Smart City National Model City Development Project underway by the Ministry of Land, Infrastructure and Transport from 2018 to 2021.
 
@@ -34,7 +34,7 @@ He is currently working as a full professor in the Department of Computer Engine
 
 #### [Suk-Hwan Lee](/member/sukhwanlee)
 
-<img align="left" src="../images/shlee1.PNG" style="width : 180px; height : 240px; margin : 10px">
+<img align="left" src="../images/shlee1.png" style="width : 180px; height : 240px; margin : 10px">
 
 Suk-Hwan Lee received a B.S., an M.S., and a Ph.D. degree in Electrical Engineering from Kyungpook National University, Korea in 1999, 2001, and 2004 respectively. He worked as an assistant, associate, and full professor in the Department of Information Security at Tongmyong University from 2005 to 2019 and was the dean of the College of Software Engineering in 2019. Currently, he is a full professor in the Department of Computer Engineering at Dong-A University and has been the dean of the faculty of Computer & AI engineering at this since 2023. He has been researched in the field of multimedia security, image/video processing/compression and also digital twin platforms, AI-based computer vision, and AI security.             
 

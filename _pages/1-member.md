@@ -7,9 +7,11 @@ description: Members, alumni and collaborators of the AI Digital Twin Lab, Dong-
 toc: true
 ---
 
+* TOC
+{:toc}
+
 ***
 # Professors
-***
 
 #### [So-Yol Ok](/member/soyolok)
 
@@ -49,6 +51,7 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 ###### Research Experience
 * 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
 * 2015 - 2019: An Assistant, Associate, and Full Professor, Dept. of Information Security, Tongmyong University, Busan, South Korea
+
 ###### Education
 * 2004: Ph.D, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 * 2001: M.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
@@ -60,9 +63,8 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 
 ***
 # Researchers
-***
 
-#### Ph.D
+## Ph.D
 
 ###### [Hyeon-Cheol Kim](/member/khc) (Sep 2022 -- Present)
 
@@ -74,13 +76,11 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:tesniere@dau.ac.kr">tesniere@dau.ac.kr</a></li>
+				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
 			</ul>
 		</td>
 	</tr>
 </table>
-
-#### Ph.D
 
 ###### [Sang-Hoon Lee](/member/lsh) (Sep 2022 -- Present)
 
@@ -92,13 +92,11 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:tesniere@dau.ac.kr">tesniere@dau.ac.kr</a></li>
+				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
 			</ul>
 		</td>
 	</tr>
 </table>
-
-#### Ph.D
 
 ###### [Phuoc-Dat Lam](/member/lpd) (Feb 2022 -- Present)
 
@@ -116,7 +114,23 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 	</tr>
 </table>
 
-#### Master
+###### [Hao-Xin Lyu](/member/lhx) (Sep 2024 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td>
+			<ul>
+				<li> item0</li>
+				<li> item1</li>
+				<li> item2</li>
+				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+## Master
 
 ###### [Beon-Hyeon Gu](/member/gbh) (Sep 2022 -- Present)
 
@@ -134,8 +148,6 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 	</tr>
 </table>
 
-#### Master
-
 ###### [Hoang-Khanh Lam](/member/lhk) (March 2023 -- Present)
 
 <table border="0">  
@@ -151,8 +163,24 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 	</tr>
 </table>
 
+###### [Xing-Yi Tao](/member/txy) (Sep 2024 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td>
+			<ul>
+				<li> item0</li>
+				<li> item1</li>
+				<li> item2</li>
+				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
 ***
-# Undergraduate Research Assistants
+## Undergraduate Research Assistants
 
 ###### [Jong-Sik Kim](/member/kjs) (Sep 2022 -- Present)
 
@@ -164,7 +192,7 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:tesniere@dau.ac.kr">tesniere@dau.ac.kr</a></li>
+				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
 			</ul>
 		</td>
 	</tr>

@@ -117,8 +117,7 @@
 
 .sticky-top {
     position: sticky;
-    top: 100px;
-    margin-left: -100%;
+    // top: 100px;
 }
 
 a {
@@ -127,4 +126,8 @@ a {
 
 .container {
     max-width: 1500px;
+}
+
+header {
+    width: 100%;
 }

@@ -33,7 +33,9 @@ He is currently working as a full professor in the Department of Computer Engine
 * 1994: B.S, Industrial Engineering, Dong-A University, Busan, South Korea
 
 ###### Contact
-* Email: [sooyol@dau.ac.kr](mailto:sooyol@dau.ac.kr)
+* <a href="mailto:sooyol@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/sooyol%40dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a>
 * Phone: +82
 
 #### [Suk-Hwan Lee](/member/sukhwanlee)
@@ -58,7 +60,9 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 * 1999: B.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 
 ###### Contact
-* Email: [skylee@dau.ac.kr](mailto:skylee@dau.ac.kr)
+* <a href="mailto:skylee@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/skylee@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a>
 * Phone: +82
 
 ***
@@ -76,7 +80,9 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -92,7 +98,9 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -110,6 +118,9 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> Sep 2017 - August 2021: B.S, Dept. of Computer Science, Ho Chi Minh University of Education, Ho Chi Minh city, Viet Nam</li>
 				<li> Research Field: Smart City Ontology Domain, Data Transformation</li>
 				<li>Email: <a href="mailto:datlam10006@gmail.com">datlam10006@gmail.com</a></li>
+				<li><a href="mailto:datlam10006@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/datlam10006@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -125,7 +136,9 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -143,7 +156,9 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> item0</li>
 				<li> item1</li>
 				<li> Website: <a href = "https://docs.9bon.org/">https://docs.9bon.org/</a></li>
-				<li> Email: <a href="mailto:bonhyeon.gu@9bon.org">bonhyeon.gu@9bon.org</a></li>
+				<li> <a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -158,7 +173,9 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 			<ul>
 				<li> Feb 2023 - Present: M.S, Dept. of Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Sep 2018 - August 2022: B.S, Dept. of Computer Science, Ho Chi Minh University of Education, Ho Chi Minh city, Viet Nam</li>
-				<li>Email: <a href="mailto:hoangkhanh9119@gmail.com">hoangkhanh9119@gmail.com</a></li>
+				<li><a href="mailto:hoangkhanh9119@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/hoangkhanh9119@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -174,7 +191,9 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -193,7 +212,9 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> item0</li>
 				<li> item1</li>
 				<li> item2</li>
-				<li>Email: <a href="mailto:abcde@dau.ac.kr">abcde@dau.ac.kr</a></li>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
 			</ul>
 		</td>
 	</tr>

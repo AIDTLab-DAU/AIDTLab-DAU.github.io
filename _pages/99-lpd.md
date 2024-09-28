@@ -2,7 +2,7 @@
 layout: page
 title: "Phuoc-Dat Lam, Ph.D"
 permalink: /member/lpd
-image: ../images/pdlam1.jpg
+image: ../images/pdlam1.png
 description: "Curriculum vitae of Phuoc-Dat Lam"
 toc: true
 ---

@@ -110,7 +110,7 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pdlam1.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pdlam1.png"/></td>  
 		<td>
 			<ul>
 				<li> Sep 2024 - Present: Ph.D, Dept. of Computer Engineering, Dong-A University, Busan, South Korea</li>

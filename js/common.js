@@ -101,5 +101,20 @@ $(document).ready(function() {
     }
   });
 
+  /* =======================
+  // On Scroll Sticky Header
+  ======================= */
+  window.onscroll = function() {HeaderSticky()};
+
+  var header = document.getElementById("HeaderSticky");
+  var sticky = header.offsetTop;
+
+  function HeaderSticky() {
+    if (window.scrollY > sticky) {
+      header.classList.add("sticky");
+    } else {
+      header.classList.remove("sticky");
+    }
+  }
 
 });

@@ -129,7 +129,13 @@ a {
 }
 
 header {
-    position: sticky;
+    position: relative;
     top: 0;
     width: 100%;
+    z-index: 1000;
+}
+
+header.sticky {
+    position: fixed;
+    top: 0;
 }

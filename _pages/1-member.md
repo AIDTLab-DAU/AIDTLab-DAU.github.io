@@ -144,7 +144,7 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 
 ## Master
 
-###### [Beon-Hyeon Gu](/member/gbh) (Sep 2022 -- Present)
+###### [Bon-Hyeon Gu](/member/gbh) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">

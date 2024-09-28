@@ -1,9 +1,13 @@
 ---
 layout: page
-title: 
+title: "Xing-Yi Tao, M.S"
 permalink: /member/txy
 image: 
+toc: true
 ---
+
+* TOC
+{:toc}
 
 Research Experience
 ============

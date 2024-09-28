@@ -3,11 +3,14 @@ layout: page
 title: "Phuoc-Dat Lam, Ph.D"
 permalink: /member/lpd
 image: ../images/pdlam1.jpg
+description: "Curriculum vitae of Phuoc-Dat Lam"
+toc: true
 ---
   
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0002-7893-5642) 
 
-* TOC {:toc}
+* TOC
+{:toc}
   
 Research Experience
 ============

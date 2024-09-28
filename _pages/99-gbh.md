@@ -1,9 +1,13 @@
 ---
 layout: page
-title: 
+title: "Bon-Hyeon Gu, M.S"
 permalink: /member/gbh
-image: 
+image: "../images.bhgu1.jpg"
+toc: true
 ---
+
+* TOC
+{:toc}
 
 Research Experience
 ============

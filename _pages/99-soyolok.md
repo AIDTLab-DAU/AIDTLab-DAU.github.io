@@ -1,9 +1,13 @@
 ---
 layout: page
-title: 
+title: "So-yol Ok, Professor"
 permalink: /member/soyolok
 image: 
+toc: true
 ---
+
+* TOC
+{:toc}
 
 Research Experience
 ============

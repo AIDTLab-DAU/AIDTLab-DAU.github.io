@@ -1,9 +1,13 @@
 ---
 layout: page
-title: 
+title: "Hyeon-Cheol Kim, Ph.D"
 permalink: /member/khc
 image: 
+toc: true
 ---
+
+* TOC
+{:toc}
 
 Research Experience
 ============

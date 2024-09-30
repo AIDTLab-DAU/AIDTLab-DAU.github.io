@@ -169,4 +169,16 @@ header {
         transition: right 0.5s cubic-bezier(0.7, 0.4, 0, 1);
         background: #fff;
     }
+
+    .logo{
+        position: absolute;
+        top: 15px;
+        left: 0px;
+    }
+
+    .nav-buttons{
+        position: absolute;
+        top: 15px;
+        left: inherit;
+    }
 }

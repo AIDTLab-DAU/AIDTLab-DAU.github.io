@@ -117,7 +117,6 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 				<li> Feb 2022 - August 2024: M.S, Dept. of Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Sep 2017 - August 2021: B.S, Dept. of Computer Science, Ho Chi Minh University of Education, Ho Chi Minh city, Viet Nam</li>
 				<li> Research Field: Smart City Ontology Domain, Data Transformation</li>
-				<li>Email: <a href="mailto:datlam10006@gmail.com">datlam10006@gmail.com</a></li>
 				<li><a href="mailto:datlam10006@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/datlam10006@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>

@@ -113,11 +113,10 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pdlam1.png"/></td>  
 		<td>
 			<ul>
-				<li> Sep 2024 - Present: Ph.D, Dept. of Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Feb 2022 - August 2024: M.S, Dept. of Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Sep 2017 - August 2021: B.S, Dept. of Computer Science, Ho Chi Minh University of Education, Ho Chi Minh city, Viet Nam</li>
+				<li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Feb 2022 - Aug 2024: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Sep 2017 - Aug 2021: B.S, Computer Science, Ho Chi Minh University of Education, HCMC, Viet Nam</li>
 				<li> Research Field: Smart City Ontology Domain, Data Transformation</li>
-				<li>Email: <a href="mailto:datlam10006@gmail.com">datlam10006@gmail.com</a></li>
 				<li><a href="mailto:datlam10006@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/datlam10006@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -171,8 +170,8 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/hklam1.jpg"/></td>  
 		<td>
 			<ul>
-				<li> Feb 2023 - Present: M.S, Dept. of Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Sep 2018 - August 2022: B.S, Dept. of Computer Science, Ho Chi Minh University of Education, Ho Chi Minh city, Viet Nam</li>
+				<li> Feb 2023 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Sep 2018 - Aug 2022: B.S, Computer Science, Ho Chi Minh University of Education, HCMC, Viet Nam</li>
 				<li><a href="mailto:hoangkhanh9119@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/hoangkhanh9119@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -220,7 +219,24 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 	</tr>
 </table>
 
+# Officer
+
+###### Ms. Kim
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td>
+			<ul>
+				<li><a href="mailto:voyage@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/voyage@dau.ac.kr
+-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
 
 ***
 # Collaborators
-
+* Prof. <a href="https://ieeexplore.ieee.org/author/37291154000">Ki-Ryong Kwon</a>, Pukyong National University, Busan, South Korea

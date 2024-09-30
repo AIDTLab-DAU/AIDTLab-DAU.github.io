@@ -2,7 +2,7 @@
 layout: page
 title: "Phuoc-Dat Lam, Ph.D"
 permalink: /member/lpd
-image: ../images/pdlam1.png
+image: 
 description: "Curriculum vitae of Phuoc-Dat Lam"
 toc: true
 ---
@@ -29,6 +29,14 @@ Education
 Awards & Grants
 ============
 * May 2023: Best Paper Award, The 2023 Korea Multimedia Society Spring Academic Conference (KMMS), Suncheon, Korea
+
+***
+
+Journal Publications
+============
+* Lam, Phuoc-Dat, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." Sensors 24, no. 12 (2024): 3761.
+
+* Lam, Phuoc-Dat, Jungkyu Han, Ki-Ryong Kwon, Soo-Yol Ok, and Suk-Hwan Lee. "Semantic 3D city model data visualization for smar t city digital twin." 멀티미디어학회논문지 26, no. 2 (2023): 116-130.
 
 ***
 

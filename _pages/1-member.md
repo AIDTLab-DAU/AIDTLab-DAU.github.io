@@ -180,6 +180,24 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 	</tr>
 </table>
 
+###### [Young-Hoon Jo](/member/jyh) (March 2023 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/yhjo1.png"/></td>  
+		<td>
+			<ul>
+				<li> item0</li>
+				<li> item1</li>
+				<li> item2</li>
+				<li><a href="mailto:pool1224@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/pool1224@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
 ###### [Xing-Yi Tao](/member/txy) (Sep 2024 -- Present)
 
 <table border="0">  

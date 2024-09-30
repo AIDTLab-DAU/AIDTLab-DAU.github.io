@@ -12,7 +12,7 @@ description: Contact and recruitment information for the AI Digital Twin Lab, Do
 <table >
   <tr>
     <th>Prof.Soo-Yol Ok </th>
-    <th>Prof.Syk-Hwan Lee</th>
+    <th>Prof.Suk-Hwan Lee</th>
     <th>Laboratory & Office</th>
   </tr>
   <tr>

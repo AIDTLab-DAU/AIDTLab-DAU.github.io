@@ -11,20 +11,49 @@ toc: true
 
 Research Experience
 ============
-
+*
 
 ***
 
 Education
 ============
+*
 
 ***
 
 Awards & Grants
 ============
+*
+
+***
+
+Journal Publications
+============
+*
+
+***
+
+Academic Activities
+============
+
+Membership
+------------
+*
+
+Conference Committee
+------------
+*
 
 ***
 
 Projects
 ============
+
+Principal Investigator
+------------
+*
+
+Participant
+------------
+*
 

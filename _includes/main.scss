@@ -115,27 +115,58 @@
 // 4.5 Tag Page
 @import '4-layouts/tag-page';
 
-.sticky-top {
-    position: sticky;
-    // top: 100px;
-}
+// .sticky-top {
+//     position: sticky;
+//     // top: 100px;
+// }
 
 a {
     color: #0450a7;
+}
+
+header {
+    position: relative;
+    height: 100px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
 }
 
 .container {
     max-width: 1500px;
 }
 
-header {
-    position: relative;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
+.affix_header {
+    top: 0px;
+    position: sticky;
+    background-color: whitesmoke;
+    box-shadow: 0 4px 2px -2px gray;
+    z-index: 10;
 }
 
-header.sticky {
-    position: fixed;
-    top: 0;
+.logo, .main-nav, .nav-buttons{
+    position: relative;
+    top: 15px;
+    left: 0;
+    transform: translate(0px, 0px);
+}
+
+@media only screen and (max-width: 992px) {
+    .main-nav {
+        position: fixed;
+        top: 0;
+        left: inherit;
+        right: -300px;
+        bottom: 0;
+        transform: none;
+        z-index: 100;
+        width: 300px;
+        height: 100vh;
+        padding: 40px 30px 30px;
+        transition: right 0.5s cubic-bezier(0.7, 0.4, 0, 1);
+        background: #fff;
+    }
 }

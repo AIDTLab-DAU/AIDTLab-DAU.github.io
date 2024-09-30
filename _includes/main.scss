@@ -154,7 +154,7 @@ header {
     transform: translate(0px, 0px);
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 992px){
     .main-nav {
         position: fixed;
         top: 0;
@@ -172,13 +172,14 @@ header {
 
     .logo{
         position: absolute;
-        top: 15px;
-        left: 0px;
+        top: 25px;
+        left: 10px;
     }
 
     .nav-buttons{
         position: absolute;
-        top: 15px;
+        top: 25px;
         left: inherit;
+        right: 10px;
     }
 }

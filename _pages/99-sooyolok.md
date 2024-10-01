@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "So-yol Ok, Professor"
+title: "Soo-yol Ok, Professor"
 permalink: /member/soyolok
 image: 
 toc: true

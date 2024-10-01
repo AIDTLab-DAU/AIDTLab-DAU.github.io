@@ -13,7 +13,7 @@ toc: true
 ***
 # Professors
 
-#### [So-Yol Ok](/member/soyolok)
+#### [Soo-Yol Ok](/member/sooyolok)
 
 <img align="left" src="../images/syok1.png" style="width : 180px; height : 240px; margin : 10px">
 
@@ -47,11 +47,11 @@ Suk-Hwan Lee received a B.S., an M.S., and a Ph.D. degree in Electrical Engineer
 
 He received the Achievement Award from Korea-Japan CCS (Complex Communication Society) in 2019 and best papers from KMMS (Korea Multimedia Society) in 2018, 2019 and also best lecture award from Tongmyong University in 2018, and a President Achievement Award from Dong-A University in 2023.
 
-He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 and has worked as a chief editor of Korea Multimedia Society (KMMS) since 2021. He is a general manager of the project of "The Software Centered University" from 2023 and also a practice header of the project of "Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea.
+He has worked as a board member of IEEE R10 Busan section since 2015 and has worked as a chief editor of Korea Multimedia Society (KMMS) since 2021. He is a general manager of the project of "The Software Centered University" from 2023 and also a practice header of the project of "Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea.
 </div>
 
 ###### Research Experience
-* 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
+* 2020 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
 * 2015 - 2019: An Assistant, Associate, and Full Professor, Dept. of Information Security, Tongmyong University, Busan, South Korea
 
 ###### Education
@@ -63,7 +63,7 @@ He has worked as a board member of IEEE R10 Busan (Changwon) section since 2015 
 * <a href="mailto:skylee@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/skylee@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a>
-* Phone: +82
+* Phone: +82-51-200-7764
 
 ***
 # Researchers

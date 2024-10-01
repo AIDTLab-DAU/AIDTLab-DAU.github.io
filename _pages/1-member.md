@@ -40,7 +40,7 @@ He is currently working as a full professor in the Department of Computer Engine
 
 #### [Suk-Hwan Lee](/member/sukhwanlee)
 
-<img align="left" src="../images/shlee1.png" style="width : 180px; height : 240px; margin : 10px">
+<img align="left" src="../images/shlee2.png" style="width : 180px; height : 240px; margin : 10px">
 
 <div style="text-align: justify ">
 Suk-Hwan Lee received a B.S., an M.S., and a Ph.D. degree in Electrical Engineering from Kyungpook National University, Korea in 1999, 2001, and 2004 respectively. He worked as an assistant, associate, and full professor in the Department of Information Security at Tongmyong University from 2005 to 2019 and was the dean of the College of Software Engineering in 2019. Currently, he is a full professor in the Department of Computer Engineering at Dong-A University and has been the dean of the faculty of Computer & AI engineering at this since 2023. He has been researched in the field of multimedia security, image/video processing/compression and also digital twin platforms, AI-based computer vision, and AI security.             

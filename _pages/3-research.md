@@ -10,15 +10,12 @@ toc_label: "Table of Contents"
 ---
 
 
-<<<<<<< HEAD
-
-=======
 <!-- ########################################### Start the xxxxx ########################################### -->
 
 <div class="article" style="width: max-content;">
   <div class="container">
     <div class="article__wrapper">
-        <a href="/research/digital_twin" class="article__image" style="background-image: url(/images/DongASeunghakView.png)"></a>
+        <a href="/research/digital_twin" class="article__image" style="background-image: url(/images/DongASeunghakView.png); width : 500px; height : 444px"></a>
         <div class="article__content ">
           <div class="article-tags">
             <div class="article-tags__box">
@@ -40,4 +37,3 @@ toc_label: "Table of Contents"
   </div>
 </div>
 <!-- ########################################### End the xxxxx ########################################### -->
->>>>>>> 7d82ab422d8a362f13f066c463d5f3a2405f0785

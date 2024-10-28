@@ -12,12 +12,12 @@ toc: true
 
 # Smart City Project 
 
-<!-- <div align="center">
+<div align="center">
     <video width="1000px" height="500px" title="Smart City" autoplays muted controls>
-      <source src="https://dongaackr-my.sharepoint.com/personal/2371049_donga_ac_kr/_layouts/15/embed.aspx?UniqueId=ede8ff0e-c716-4f0d-8e63-6ad99bae6e89&embed=%7B%22af%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" type="video/mp4">
+      <source src="https://drive.google.com/file/d/1xkj_Gaey-TR48zsXPO-bQRUIladyfJes/view?usp=drive_link" type="video/mp4">
     </video>
-</div> -->
-<div style="max-width: 1000px"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://dongaackr-my.sharepoint.com/personal/2371049_donga_ac_kr/_layouts/15/embed.aspx?UniqueId=ede8ff0e-c716-4f0d-8e63-6ad99bae6e89&embed=%7B%22af%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="1000" height="500" frameborder="0" scrolling="no" allowfullscreen title="SmartCity_v3.mp4" style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+</div>
+<!-- <div style="max-width: 1000px"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://dongaackr-my.sharepoint.com/personal/2371049_donga_ac_kr/_layouts/15/embed.aspx?UniqueId=ede8ff0e-c716-4f0d-8e63-6ad99bae6e89&embed=%7B%22af%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="1000" height="500" frameborder="0" scrolling="no" allowfullscreen title="SmartCity_v3.mp4" style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div> -->
 
 Service Platform
 --------------------

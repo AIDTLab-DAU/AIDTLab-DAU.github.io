@@ -187,11 +187,14 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/yhjo1.png"/></td>  
 		<td>
 			<ul>
-				<li> item0</li>
-				<li> item1</li>
-				<li> item2</li>
-				<li><a href="mailto:pool1224@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/pool1224@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li> Sep 2024 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Feb 2021 - Aug 2024: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Research Field: NeRF, 3D Reconstruction</li>
+				<li><a href="https://github.com/JOyagdol">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+</a></li>
+				<li><a href="mailto:joyagdol1224@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/joyagdol1224@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>

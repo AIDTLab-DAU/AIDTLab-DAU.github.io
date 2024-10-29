@@ -129,14 +129,14 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/hxlyu.jpg"/></td>  
 		<td>
 			<ul>
-				<li> item0</li>
-				<li> item1</li>
-				<li> item2</li>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea </li>
+				<li> Sep 2021 - Jun 2024: M.S, Mechanical Engineering, Dalian Polytechnic University, DaLian, China </li>
+				<li> Sep 2017 - Jun 2021: B.S, Mechanical Engineering, Qilu University of Technology, ShanDong, China</li>
+				<li><a href="mailto:lvhaoxin_99@163.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/lvhaoxin_99@163.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>
@@ -205,14 +205,13 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/xytao.png"/></td>  
 		<td>
 			<ul>
-				<li> item0</li>
-				<li> item1</li>
-				<li> item2</li>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li> Sep 2024 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
+				<li> Sep 2020 - Jul 2024: B.S, Information Management and Information System, Liaoning University of International Business, Liaoning, China</li>
+				<li><a href="mailto:13478437323@163.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/13478437323@163.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>

@@ -210,8 +210,8 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 			<ul>
 				<li> Sep 2024 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
 				<li> Sep 2020 - Jul 2024: B.S, Information Management and Information System, Liaoning University of International Business, Liaoning, China</li>
-				<li><a href="mailto:13478437323@163.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/13478437323@163.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li><a href="mailto: xingyitao62@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/ xingyitao62@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>

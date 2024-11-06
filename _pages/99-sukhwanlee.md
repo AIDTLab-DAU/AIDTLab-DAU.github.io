@@ -8,9 +8,9 @@ toc: true
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0003-4779-2888) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23323232?style=flat-square&logo=github&logoColor=white)](https://github.com/SukHwanLee)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://github.com/SukHwanLee)
-[![IEEE Xplore](https://img.shields.io/badge/%20-%230A70A3?style=flat-square&logo=ieee&logoColor=white&logoSize=auto)](https://github.com/SukHwanLee)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300D0AF?style=flat-square&logo=researchgate&logoColor=white)](https://github.com/SukHwanLee)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.co.kr/citations?hl=ko&user=8fZ6XOoAAAAJ)
+[![IEEE Xplore](https://img.shields.io/badge/%20-%230A70A3?style=flat-square&logo=ieee&logoColor=white&logoSize=auto)](https://ieeexplore.ieee.org/author/37293422800)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300D0AF?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Suk-Hwan-Lee)
 
 * TOC
 {:toc}

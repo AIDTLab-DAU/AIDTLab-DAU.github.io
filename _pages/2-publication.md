@@ -21,6 +21,8 @@ toc_label: "Table of Contents"
 
 * Lam, Phuoc-Dat, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." Sensors 24, no. 12 (2024): 3761. [https://doi.org/10.3390/s24123761](https://doi.org/10.3390/s24123761)
 
+* Kim, Hyeon-Cheol, Hoang-Khanh Lam, Suk-Hwan Lee, and Soo-Yol Ok. "Early Fire Detection System by Using Automatic Synthetic Dataset Generation Model Based on Digital Twins" Applied Sciences 14, no. 5 (2024): 1801. [https://doi.org/10.3390/app14051801](https://doi.org/10.3390/app14051801)
+
 ***
 
 # Conference Proceedings

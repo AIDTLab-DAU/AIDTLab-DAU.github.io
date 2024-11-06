@@ -13,8 +13,10 @@ toc: true
 # Smart City Project 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 70vh;">
-    <video width="640" height="480" src="../images/SmartCity_v3.mp4" type="video/mp4" controls autoplay playsinline muted>
-    </video>
+    <!-- <video width="640" height="480"  controls autoplay playsinline muted>
+      <source type="video/mp4" src="https://www.youtube.com/embed/1OZ2sgi1QDI?si=C-fDZwAMn8FLYKsg">
+    </video> -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HJqI0qVst9k?autoplay=1"  allow="autoplay"></iframe>
 </div>
 
 Service Platform

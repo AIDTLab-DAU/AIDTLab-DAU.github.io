@@ -88,16 +88,16 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Sang-Hoon Lee](/member/lsh) (Sep 2022 -- Present)
+###### [Sang-Hun Lee](/member/lsh) (Mar 2021 -- Present)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
 		<td>
 			<ul>
-				<li> item0</li>
-				<li> item1</li>
-				<li> item2</li>
+				<li> Mar 2023 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Mar 2021 - Feb 2023: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Mar 2014 - Feb 2021: B.S, Game Engineering, Tongmyong University, Busan, South Korea</li>
 				<li><a href="mailto:abc@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -221,16 +221,112 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 ***
 ## Undergraduate Research Assistants
 
-###### [Jong-Sik Kim](/member/kjs) (Sep 2022 -- Present)
+###### [Jeon-Sik Kim (김정식)](/member/PageNotFound)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JeonSik Kim.png"/></td>  
+		<td>
+			<ul>
+				<li>Research Field: Autonomous-Drone, Computer Vision</li>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
 
+###### [Chae-Young Yi (이채영)](/member/PageNotFound)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/ChaeYoung Yi.jpeg"/></td>  
+		<td>
+			<ul>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+###### [Ji-Heon Kim (김지헌)](/member/PageNotFound)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHeon Kim.jpeg"/></td>  
+		<td>
+			<ul>
+				<li>Research Field: Computer Vision(Anomaly Detection)</li>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+###### [Ji-Hwan Bae (배지환)](/member/PageNotFound)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHwan Bae.jpg"/></td>  
+		<td>
+			<ul>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+###### [Jong-Woo Sung (성종우)](/member/PageNotFound)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongWoo Sung.jpeg"/></td>  
+		<td>
+			<ul>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+###### [Hyeon-Jun Bea (배현준)](/member/PageNotFound)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/HyeonJun Bae.jpg"/></td>  
+		<td>
+			<ul>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+###### [Si-Woo Jang (장시우)](/member/PageNotFound)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/SiWoo Jang.jpg"/></td>  
+		<td>
+			<ul>
+				<li><a href="mailto:abc@dau.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+###### [Jong-Hyun Lee (이종현)](/member/PageNotFound)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
 		<td>
 			<ul>
-				<li> item0</li>
-				<li> item1</li>
-				<li> item2</li>
 				<li><a href="mailto:abc@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>

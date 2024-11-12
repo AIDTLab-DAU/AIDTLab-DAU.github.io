@@ -324,7 +324,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 ###### [Jong-Hyun Lee (이종현)](/member/PageNotFound)
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongHyun Lee.jpeg"/></td>  
 		<td>
 			<ul>
 				<li><a href="mailto:abc@dau.ac.kr">

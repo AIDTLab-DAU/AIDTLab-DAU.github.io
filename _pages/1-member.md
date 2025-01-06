@@ -74,14 +74,15 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/hckim1.jpg"/></td>  
 		<td>
 			<ul>
-				<li> item0</li>
-				<li> item1</li>
-				<li> item2</li>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li> Mar 2022 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Mar 2020 - Feb 2022: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Mar 2016 - Feb 2020: B.S, Game Engineering, Tongmyong University, Busan, South Korea</li>
+				<li> Research Field: Digital twin based simulation, AI edge device</li>
+				<li><a href="mailto:hckim0xdc@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/hckim0xdc@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>
@@ -135,6 +136,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea </li>
 				<li> Sep 2021 - Jun 2024: M.S, Mechanical Engineering, Dalian Polytechnic University, DaLian, China </li>
 				<li> Sep 2017 - Jun 2021: B.S, Mechanical Engineering, Qilu University of Technology, ShanDong, China</li>
+				<li> Research Field: Human Action Recognition</li>
 				<li><a href="mailto:lvhaoxin_99@163.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/lvhaoxin_99@163.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -149,14 +151,15 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/bhgu1.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/bhgu2.jpg"/></td>  
 		<td>
 			<ul>
-				<li> item0</li>
-				<li> item1</li>
-				<li> Website: <a href = "https://docs.9bon.org/">https://docs.9bon.org/</a></li>
-				<li> <a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li> Mar 2023 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Mar 2016 - Feb 2023: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Research Field: </li>
+				<li> Website: <a href = " https://bonhyeon.9bon.org/"> https://bonhyeon.9bon.org/</a></li>
+				<li> <a href="mailto:bonhyeon.gu@9bon.org">
+	<img alt="Static Badge" src="https://img.shields.io/badge/bonhyeon.gu@9bon.org-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>
@@ -242,6 +245,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/ChaeYoung Yi.jpeg"/></td>  
 		<td>
 			<ul>
+				<li>Research Field: Computer Vision(Anomaly Detection)</li>
 				<li><a href="mailto:abc@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -256,9 +260,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHeon Kim.jpeg"/></td>  
 		<td>
 			<ul>
-				<li>Research Field: Computer Vision(Anomaly Detection)</li>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li>Research Field: Computer Vision (Anomaly Detection, Audio Event Detection)</li>
+				<li><a href="mailto:2243790@donga.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/2243790@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>
@@ -271,8 +275,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHwan Bae.jpg"/></td>  
 		<td>
 			<ul>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li>Research Field: Computer Vision (Object Detection, nErf)</li>
+				<li><a href="mailto:qowlghks12345@naver.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/qowlghks12345@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>
@@ -285,8 +290,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongWoo Sung.jpeg"/></td>  
 		<td>
 			<ul>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li>Research Field: Natural Language Processing (Multi Modal)</li>
+				<li><a href="mailto:mtplanthehuman@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/mtplanthehuman@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>
@@ -299,8 +305,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/HyeonJun Bae.jpg"/></td>  
 		<td>
 			<ul>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li>Research Field: Natural Language Processing (Ontology)</li>
+				<li><a href="mailto:guli0624@naver.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/guli0624@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>
@@ -313,6 +320,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/SiWoo Jang.jpg"/></td>  
 		<td>
 			<ul>
+				<li>Research Field: Natural Language Processing</li>
 				<li><a href="mailto:abc@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -327,8 +335,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongHyun Lee.jpeg"/></td>  
 		<td>
 			<ul>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li>Research Field: Computer Vision (Object Detection, nErf)</li>
+				<li><a href="jh012403@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/jh012403@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>

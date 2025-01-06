@@ -175,6 +175,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 			<ul>
 				<li> Feb 2023 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Sep 2018 - Aug 2022: B.S, Computer Science, Ho Chi Minh University of Education, HCMC, Viet Nam</li>
+				<li> Reseach Field: Digital Twin on Simulation, Computer Vision</li>
 				<li><a href="mailto:hoangkhanh9119@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/hoangkhanh9119@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>

@@ -156,7 +156,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 			<ul>
 				<li> Mar 2023 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Mar 2016 - Feb 2023: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Research Field: </li>
+				<li> Research Field: Ontology, Semantic Web</li>
 				<li> Website: <a href = " https://bonhyeon.9bon.org/"> https://bonhyeon.9bon.org/</a></li>
 				<li> <a href="mailto:bonhyeon.gu@9bon.org">
 	<img alt="Static Badge" src="https://img.shields.io/badge/bonhyeon.gu@9bon.org-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">

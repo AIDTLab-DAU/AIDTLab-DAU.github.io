@@ -225,15 +225,15 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 ***
 ## Undergraduate Research Assistants
 
-###### [Jeon-Sik Kim (김정식)](/member/PageNotFound)
+###### [Jeong-Sik Kim (김정식)](/member/PageNotFound)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JeonSik Kim.png"/></td>  
 		<td>
 			<ul>
 				<li>Research Field: Autonomous-Drone, Computer Vision</li>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li><a href="mailto:2343783@donga.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/2343783@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>
@@ -321,9 +321,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/SiWoo Jang.jpg"/></td>  
 		<td>
 			<ul>
-				<li>Research Field: Natural Language Processing</li>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li>Research Field: Natural Language Processing(RLHF)</li>
+				<li><a href="mailto:jsw74092@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/jsw74092@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>

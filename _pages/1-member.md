@@ -70,7 +70,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 ## Ph.D
 
-###### [Hyeon-Cheol Kim](/member/khc) (Sep 2022 -- Present)
+###### [Hyeon-Cheol Kim](/member/khc) (Mar 2020 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -166,7 +166,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Hoang-Khanh Lam](/member/lhk) (March 2023 -- Present)
+###### [Hoang-Khanh Lam](/member/lhk) (Mar 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -184,7 +184,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Young-Hoon Jo](/member/jyh) (March 2023 -- Present)
+###### [Young-Hoon Jo](/member/jyh) (Mar 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">

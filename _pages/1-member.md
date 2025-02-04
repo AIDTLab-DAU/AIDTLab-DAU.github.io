@@ -107,7 +107,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Chang-Hun Park](/member/pch) (Feb 2022 -- Present)
+###### [Chang-Hun Park](/member/pch) (Feb 2024 -- Present)
 
 <table border="0">  
 	<tr valign="top">

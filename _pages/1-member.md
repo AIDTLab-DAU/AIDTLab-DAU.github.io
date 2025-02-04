@@ -107,14 +107,14 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Chang-Hun Park](/member/pch) (Feb 2024 -- Present)
+###### [Chang-Hun Park](/member/pch) (Feb 2025 -- Present)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pch.jpg"/></td>  
 		<td>
 			<ul>
-				<li> Feb 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Feb 2025 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Jan 2023 - Aug 2024: M.S, Computer Science, University of Illinois Urbana-Champaign, United States</li>
 				<li> Aug 2017 - Dec 2022: B.S, Mechanical Engineering, University of Illinois Urbana-Champaign, United States</li>
 				<li> Research Field: Machine Learning, Text Analysis</li>

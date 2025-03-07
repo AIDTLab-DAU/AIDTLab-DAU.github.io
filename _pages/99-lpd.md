@@ -38,7 +38,7 @@ Journal Publications
 ============
 * Lam, Phuoc-Dat, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." Sensors 24, no. 12 (2024): 3761.
 
-* Lam, Phuoc-Dat, Jungkyu Han, Ki-Ryong Kwon, Soo-Yol Ok, and Suk-Hwan Lee. "Semantic 3D city model data visualization for smar t city digital twin." 멀티미디어학회논문지 26, no. 2 (2023): 116-130.
+* Lam, Phuoc-Dat, Jungkyu Han, Ki-Ryong Kwon, Soo-Yol Ok, and Suk-Hwan Lee. "Semantic 3D city model data visualization for smart city digital twin." 멀티미디어학회논문지 26, no. 2 (2023): 116-130.
 
 ***
 

@@ -24,13 +24,13 @@ description: Contact and recruitment information for the AI Digital Twin Lab, Do
 		</td>
     <td>
 			<ul>
-				<li> S06-0614, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
+				<li> S06-614, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
 				<li><a href="mailto:skylee@dau.ac.kr">skylee@dau.ac.kr</a></li>
 			</ul>
 		</td>
     <td>
 			<ul>
-				<li>S03-0213, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
+				<li>S03-213, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
 			</ul>
 		</td>
   </tr>
@@ -45,5 +45,8 @@ description: Contact and recruitment information for the AI Digital Twin Lab, Do
 </div>
 
 <br>
+
+***
+# Seunghak Campus
 
 <p align="center"><a href="https://english.donga.ac.kr/english/Main.do"><img align="center" src="../images/DongASeunghakMap.png" style="width : 100%"></a></p>

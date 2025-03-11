@@ -2,18 +2,19 @@
 layout: page
 title: Member
 permalink: /member/
-image: partof_LabMembers.jpeg
+# image: partof_LabMembers.jpeg
 description: Members, alumni and collaborators of the AI Digital Twin Lab, Dong-A University of Korea
 toc: true
 ---
 
-* TOC
-{:toc}
+<!-- * TOC
+{:toc} -->
 
 ***
+
 # Professors
 
-#### [Soo-Yol Ok](/member/sooyolok)
+## [Soo-Yol Ok](/member/sooyolok)
 
 <img align="left" src="../images/syok1.png" style="width : 180px; height : 240px; margin : 10px">
 
@@ -23,22 +24,27 @@ Soo-Yol Ok received a BSc degree in industrial engineering from Donga University
 He is currently working as a full professor in the Department of Computer Engineering in the College of Computer AI Engineering at Dong-A University. He also served as the Laboratory Director of the AI-Digital Twin-SW Demonstration Center at Dong-A University from 2022 to the present. He has many interests and ongoing research in digital twins, GPU-based supercomputing, and multiple inference artificial intelligence. He is the general manager of the project “Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea from 2022.
 </div>
 
-###### Research Experience
+<br>
+
+### Research Experience
+
 * 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
 * 2004 - 2019: An Assistant, Associate, and Full Professor, Dept. of Game Engineering, Junior College of Information and Communication, Tongmyong University, Busan, South Korea
 
-###### Education
+### Education
+
 * 2001: Ph.D, Institute of Information Sciences and Electronics, Tsukuba University, Japan
 * 1998: M.S, Institute of Information Sciences and Electronics, Tsukuba University, Japan
 * 1994: B.S, Industrial Engineering, Dong-A University, Busan, South Korea
 
-###### Contact
+### Contact
+
 * <a href="mailto:sooyol@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/sooyol%40dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a>
 * Phone: +82
 
-#### [Suk-Hwan Lee](/member/sukhwanlee)
+## [Suk-Hwan Lee](/member/sukhwanlee)
 
 <img align="left" src="../images/shlee2.png" style="width : 180px; height : 240px; margin : 10px">
 
@@ -50,22 +56,28 @@ He received the Achievement Award from Korea-Japan CCS (Complex Communication So
 He has worked as a board member of IEEE R10 Busan section since 2015 and has worked as a chief editor of Korea Multimedia Society (KMMS) since 2021. He is a general manager of the project of "The Software Centered University" from 2023 and also a practice header of the project of "Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea.
 </div>
 
-###### Research Experience
+<br>
+
+### Research Experience
+
 * 2020 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
 * 2015 - 2019: An Assistant, Associate, and Full Professor, Dept. of Information Security, Tongmyong University, Busan, South Korea
 
-###### Education
+### Education
+
 * 2004: Ph.D, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 * 2001: M.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 * 1999: B.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 
-###### Contact
+### Contact
+
 * <a href="mailto:skylee@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/skylee@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a>
 * Phone: +82-51-200-7764
 
 ***
+
 # Researchers
 
 ## Ph.D
@@ -129,6 +141,25 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
+###### [Bon-Hyeon Gu](/member/gbh) (Sep 2022 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/bhgu2.jpg"/></td>  
+		<td>
+			<ul>
+				<li> Mar 2023 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Mar 2016 - Feb 2023: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Research Field: Ontology, Semantic Web</li>
+				<li> Website: <a href = " https://bonhyeon.9bon.org/"> https://bonhyeon.9bon.org/</a></li>
+				<li> <a href="mailto:bonhyeon.gu@9bon.org">
+	<img alt="Static Badge" src="https://img.shields.io/badge/bonhyeon.gu@9bon.org-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
 ###### [Phuoc-Dat Lam](/member/lpd) (Feb 2022 -- Present)
 
 <table border="0">  
@@ -169,25 +200,6 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 ## Master
 
-###### [Bon-Hyeon Gu](/member/gbh) (Sep 2022 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/bhgu2.jpg"/></td>  
-		<td>
-			<ul>
-				<li> Mar 2023 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Mar 2016 - Feb 2023: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Research Field: Ontology, Semantic Web</li>
-				<li> Website: <a href = " https://bonhyeon.9bon.org/"> https://bonhyeon.9bon.org/</a></li>
-				<li> <a href="mailto:bonhyeon.gu@9bon.org">
-	<img alt="Static Badge" src="https://img.shields.io/badge/bonhyeon.gu@9bon.org-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
-
 ###### [Young-Hoon Jo](/member/jyh) (Mar 2023 -- Present)
 
 <table border="0">  
@@ -227,9 +239,11 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 ***
+
 ## Undergraduate Research Assistants
 
 ###### [Jeong-Sik Kim (김정식)](/member/PageNotFound)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JeonSik Kim.png"/></td>  
@@ -245,6 +259,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 ###### [Chae-Young Yi (이채영)](/member/PageNotFound)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/ChaeYoung Yi.jpeg"/></td>  
@@ -260,6 +275,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 ###### [Ji-Heon Kim (김지헌)](/member/PageNotFound)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHeon Kim.jpeg"/></td>  
@@ -275,6 +291,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 ###### [Ji-Hwan Bae (배지환)](/member/PageNotFound)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHwan Bae.jpg"/></td>  
@@ -290,6 +307,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 ###### [Jong-Woo Sung (성종우)](/member/PageNotFound)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongWoo Sung.jpeg"/></td>  
@@ -305,6 +323,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 ###### [Hyeon-Jun Bea (배현준)](/member/PageNotFound)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/HyeonJun Bae.jpg"/></td>  
@@ -320,6 +339,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 ###### [Si-Woo Jang (장시우)](/member/PageNotFound)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/SiWoo Jang.jpg"/></td>  
@@ -335,6 +355,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 ###### [Jong-Hyun Lee (이종현)](/member/PageNotFound)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongHyun Lee.jpeg"/></td>  
@@ -368,9 +389,13 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 ***
+
 ## Almuni
+
 * <a href="/member/lhk">Hoang-Khanh Lam</a> (Mar 2023 -- August 2025, PhD course at ChungBuk National University)
 
 ***
-# Collaborators
-* Prof. <a href="https://ieeexplore.ieee.org/author/37291154000">Ki-Ryong Kwon</a>, Pukyong National University, Busan, South Korea
+
+<!-- # Collaborators
+
+* Prof. <a href="https://ieeexplore.ieee.org/author/37291154000">Ki-Ryong Kwon</a>, Pukyong National University, Busan, South Korea -->

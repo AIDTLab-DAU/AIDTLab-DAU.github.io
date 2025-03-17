@@ -10,6 +10,7 @@ toc_label: "Table of Contents"
 ---
 
 <h5>Table of Contents</h5>
+
 * TOC
 {:toc}
 
@@ -25,7 +26,9 @@ toc_label: "Table of Contents"
 * Kim, Hyeon-Cheol, Hoang-Khanh Lam, Suk-Hwan Lee, and Soo-Yol Ok. "Early Fire Detection System by Using Automatic Synthetic Dataset Generation Model Based on Digital Twins." Applied Sciences 14, no. 5 (2024): 1801. [https://doi.org/10.3390/app14051801](https://doi.org/10.3390/app14051801)
 
 ***
+
 # Domestic Journal
+
 ***
 * Bon-Hyeon Gu, Soo Yol Ok, and Suk-Hwan Lee. 2024. "A Digital Twin Ontology Based on Open Standards for Integrating Heterogeneous Smart City Metadata." Journal of Korea Multimedia Society, 27 (11), 1326-1337. 10.9717/kmms.2024.27.11.1326 [10.9717/kmms.2024.27.11.1326](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11991781&language=ko_KR&hasTopBanner=true)
   
@@ -41,6 +44,6 @@ toc_label: "Table of Contents"
 
 ***
 
-* Lam Phuoc-Dat, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." Sensors 24, no. 12 (2024): 3761. [https://doi.org/10.3390/s24123761](https://doi.org/10.3390/s24123761)
+* Lam, Phuoc-Dat, Hyeon-Cheol Kim, Bon-Hyeon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Integrating BIM into GIS Domains for Enhanced Interoperability in Smart Digital Cities: CityGML-Based Ontology." 2025 IEEE 5th International Conference on Digital Twins and Parallel Intelligence (DTPI). (Under review)
 
 ***

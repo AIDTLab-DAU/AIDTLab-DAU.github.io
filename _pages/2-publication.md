@@ -36,7 +36,7 @@ toc_label: "Table of Contents"
 
 * Hyeon-Cheol Kim, Suk-Hwan Lee, and Soo-Yol Ok. 2023. "Early Fire Detection System by Synthetic Dataset Automatic Generation Model Based on Digital Twin." Journal of Korea Multimedia Society, 26(8), 887-897. 10.9717/kmms.2023.26.8.887 [10.9717/kmms.2023.26.8.887](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11516289&language=ko_KR&hasTopBanner=true)
   
-* Phuoc-Dat Lam, Jungkyu Han, Ki-Ryong Kwon, Soo-Yol Ok, and Suk-Hwan Lee. 2023. "Semantic 3D City Model Data Visualization for Smar t City Digital Twin." Journal of Korea Multimedia Society 26 (2): 116-130. 10.9717/kmms.2023.26.2.116 [10.9717/kmms.2023.26.2.116](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11219438)
+* Phuoc-Dat Lam, Jungkyu Han, Ki-Ryong Kwon, Soo-Yol Ok, and Suk-Hwan Lee. 2023. "Semantic 3D City Model Data Visualization for Smart City Digital Twin." Journal of Korea Multimedia Society 26 (2): 116-130. 10.9717/kmms.2023.26.2.116 [10.9717/kmms.2023.26.2.116](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11219438)
 
 ***
 

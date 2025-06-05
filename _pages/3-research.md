@@ -20,7 +20,7 @@ toc_label: "Table of Contents"
         <div class="article__content ">
           <div class="article-tags">
             <div class="article-tags__box">
-                <a href="/tag/News" class="article__tag">Digital Twin</a>
+                <a class="article__tag">Digital Twin</a>
             </div>
           </div>
           <h2 class="article__title">
@@ -42,7 +42,7 @@ toc_label: "Table of Contents"
 ***
 
 <!-- ########################################### Start the 2022 ~ 2024 ########################################### -->
-# Mar 2022 ~ Dec 2024
+# Apr 2022 ~ Dec 2025
 
 <div class="article" style="width: max-content;">
   <div class="container">
@@ -51,7 +51,7 @@ toc_label: "Table of Contents"
         <div class="article__content ">
           <div class="article-tags">
             <div class="article-tags__box">
-                <a href="/tag/News" class="article__tag">Digital Twin</a>
+                <a class="article__tag">Digital Twin</a>
             </div>
           </div>
           <h2 class="article__title">
@@ -60,7 +60,7 @@ toc_label: "Table of Contents"
           <p class="article__excerpt" style="text-align: justify;">🌐The integration of Digital Twin technology in Busan's Eco Delta Smart City exemplifies a forward-thinking approach to urban development, aiming to enhance quality of life while promoting environmental sustainability.</p>
           <div class="article__footer">
             <div class="article__meta">
-              <span class="article__date"><time datetime="2024-09-30T00:00:00+09:00">2022 ~ 2024</time></span>
+              <span class="article__date"><time datetime="2022-04-1T00:00:00+09:00">April 1, 2022 ~ December 31, 2025</time></span>
             </div>
             <a href="/research/digital-twin-smart-city" class="read-more">Keep Reading <i class="ion ion-ios-arrow-forward"></i></a>
           </div>

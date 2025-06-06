@@ -57,3 +57,7 @@ City Data Management
   <img width="1000" data-action="zoom" src="../images/city-data-management-3dcitydb.png" alt="absolute">
   <em>3D City Data - City Database Management Solution.</em>
 </p>
+
+# Acknowledgement
+
+* This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIP) (No.2022-0-00622, Digital Twin Testbed Establishment).

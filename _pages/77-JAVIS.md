@@ -31,6 +31,11 @@ toc: true
   <em>Multi-Layered AI Framework for Real-Time Disaster Prediction and Smart City Resilience</em>
 </p>
 
+# Acknowledgement
+
+* This work was supported by the Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT).
+
+
 # Materials
 
 - [📄 2025 Digital Columbus Project - JAVIS - KOR](../researches/2025 Digital Columbus Project - JAVIS - KOR.pdf)

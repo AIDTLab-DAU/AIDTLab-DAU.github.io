@@ -170,7 +170,10 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Feb 2022 - Aug 2024: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Sep 2017 - Aug 2021: B.S, Computer Science, Ho Chi Minh University of Education, HCMC, Viet Nam</li>
-				<li> Research Field: Smart City Ontology Domain, Data Transformation</li>
+				<li> Research Field: Smart City Ontology Domain, Data Transformation, AI Agent</li>
+				<li><a href="https://github.com/Phuocdat10">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+</a></li>
 				<li><a href="mailto:datlam10006@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/datlam10006@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -274,22 +277,6 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Ji-Heon Kim (김지헌)](/member/PageNotFound)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHeon Kim.jpeg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Computer Vision (Anomaly Detection, Audio Event Detection)</li>
-				<li><a href="mailto:2243790@donga.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/2243790@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
-
 ###### [Ji-Hwan Bae (배지환)](/member/PageNotFound)
 
 <table border="0">  
@@ -369,6 +356,55 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		</td>
 	</tr>
 </table>
+
+###### [Ji-An Lee (이지안)](/member/PageNotFound)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td>
+			<ul>
+				<li>Research Field</li>
+				<li><a href="mailto:2344025@donga.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/2344025@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+###### [Bo-Ryeon Kim (김보련)](/member/PageNotFound)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Bo-Ryeon Kim.jpg"/></td>  
+		<td>
+			<ul>
+				<li>Research Field</li>
+				<li><a href="mailto:kimnbr0422@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/kimnbr0422@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+<!-- ###### [Ji-Heon Kim (김지헌)](/member/PageNotFound)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHeon Kim.jpeg"/></td>  
+		<td>
+			<ul>
+				<li>Research Field: Computer Vision (Anomaly Detection, Audio Event Detection)</li>
+				<li><a href="mailto:2243790@donga.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/2243790@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+ -->
 
 # Officer
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Digital Twin"
+title: "Digital Twin for Smart City"
 permalink: /research/digital-twin-smart-city
 toc: true
 ---
@@ -41,17 +41,14 @@ Service Platform
 City Data Management
 --------------------
 
-*
+* The City Database Management solution, based on 3DCityDB, imports CityGML data by reading XML schemas, converting them into schema-derived classes, and storing them in a structured database. 
+* An import worker pool resolves XLinks, processing CityGML objects into the database for efficient storage and retrieval. 
+* Once data is in 3DCityDB, it can be accessed through OGC Web Feature Service, enabling city applications to retrieve, display, and manipulate 3D city data like buildings, bridges, and transportation networks for various urban management needs.
 
 <p align="center">
   <img width="800" data-action="zoom" src="../images/CDM-data-conversion.png" alt="absolute">
   <em>3D City Data - Conversion Methodology.</em>
 </p>
-
-* The City Database Management solution, based on 3DCityDB, imports CityGML data by reading XML schemas, converting them into schema-derived classes, and storing them in a structured database. 
-* An import worker pool resolves XLinks, processing CityGML objects into the database for efficient storage and retrieval. 
-* Once data is in 3DCityDB, it can be accessed through OGC Web Feature Service, enabling city applications to retrieve, display, and manipulate 3D city data like buildings, bridges, and transportation networks for various urban management needs.
-
 
 <p align="center">
   <img width="1000" data-action="zoom" src="../images/city-data-management-3dcitydb.png" alt="absolute">

@@ -10,7 +10,13 @@ toc: true
 
 ***
 
-# Development of a hierarchical agentic AI - digital twin platform for complex disaster prediction and response 
+# Project Information 
+* A brief introduction about Project: Objectives, Content, Direction, etc. for long-term projects
+
+# Global Partners & Collaborations 
+* List of partners and collaborative university
+
+# Development of Agentic AI - Digital Twin platform for complex disaster prediction and response 
 
 <p align="center">
   <img width="1000" data-action="zoom" src="../images/JAVIS/disaster-impact-models.png" alt="absolute">

@@ -193,6 +193,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li> Sep 2021 - Jun 2024: M.S, Mechanical Engineering, Dalian Polytechnic University, DaLian, China </li>
 				<li> Sep 2017 - Jun 2021: B.S, Mechanical Engineering, Qilu University of Technology, ShanDong, China</li>
 				<li> Research Field: Human Action Recognition</li>
+				<li><a href="https://github.com/lhx0917">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+</a></li>
 				<li><a href="mailto:lvhaoxin_99@163.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/lvhaoxin_99@163.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>

@@ -93,6 +93,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li> Mar 2020 - Feb 2022: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Mar 2016 - Feb 2020: B.S, Game Engineering, Tongmyong University, Busan, South Korea</li>
 				<li> Research Field: Digital twin based simulation, AI edge device</li>
+				<li><a href="https://github.com/AINukeHere">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+</a></li>
 				<li><a href="mailto:hckim0xdc@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/hckim0xdc@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -111,6 +114,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li> Mar 2023 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Mar 2021 - Feb 2023: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Mar 2014 - Feb 2021: B.S, Game Engineering, Tongmyong University, Busan, South Korea</li>
+				<li><a href="https://github.com/monochromatics">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+</a></li>
 				<li><a href="mailto:abc@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -152,6 +158,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li> Mar 2016 - Feb 2023: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Research Field: Ontology, Semantic Web</li>
 				<li> Website: <a href = " https://bonhyeon.9bon.org/"> https://bonhyeon.9bon.org/</a></li>
+				<li><a href="https://github.com/BonhyeonGu">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+</a></li>
 				<li> <a href="mailto:bonhyeon.gu@9bon.org">
 	<img alt="Static Badge" src="https://img.shields.io/badge/bonhyeon.gu@9bon.org-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>

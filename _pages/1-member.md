@@ -117,8 +117,8 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/monochromatics">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li><a href="mailto:monochromatic5150@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/monochromatic5150@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>

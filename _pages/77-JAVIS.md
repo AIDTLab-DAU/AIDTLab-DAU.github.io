@@ -5,10 +5,7 @@ permalink: /research/JAVIS
 toc: true
 ---
 
-* TOC
-{:toc}
-
-***
+<br>
 
 # Project Information 
 * A brief introduction about Project: Objectives, Content, Direction, etc. for long-term projects

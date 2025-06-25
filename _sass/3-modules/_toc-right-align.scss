@@ -1,0 +1,49 @@
+/* TOC Refinements */
+.toc-wrapper {
+  width: 250px; /* Even narrower to match reference site */
+  margin-top: 0;
+  margin-right: 0;
+}
+
+.toc-title {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 1.1em;
+  border-radius: 10px 10px 0 0; /* Match the top border radius with the container */
+}
+
+.toc-list li a {
+  padding: 4px 8px;
+}
+
+/* Style active TOC link */
+.toc-list li a.active, .inline_toc li a.active {
+  font-weight: 600;
+  color: #0450a7;
+}
+
+/* Add subtle hover indicator */
+.toc-list li a:hover {
+  border-left: 2px solid #0450a7;
+  padding-left: 6px;
+}
+
+/* Clear fix for floating TOC */
+.page__content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Add proper spacing around content with TOC */
+.page__content {
+  overflow: visible;
+  padding-right: 200px; /* Make room for the TOC */
+}
+
+/* Responsive adjustments */
+@media only screen and (max-width: 768px) {
+  .page__content {
+    padding-right: 0;
+  }
+}

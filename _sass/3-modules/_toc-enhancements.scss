@@ -1,0 +1,43 @@
+/* Additional TOC refinements */
+
+/* Active state for TOC items when scrolling */
+.toc-list .active, .inline_toc .active {
+  background-color: #f5f9ff;
+}
+
+.toc-list .active a, .inline_toc .active a,
+.toc-list a.active, .inline_toc a.active {
+  font-weight: 700;
+  color: #0450a7; /* Brand color for active item */
+  border-left: 3px solid #0450a7; /* Left border indicator */
+  padding-left: 5px; /* Adjust padding to compensate for border */
+  background-color: #f0f7ff; /* Light blue background for better visibility */
+}
+
+/* Ensure TOC doesn't overlap footer */
+.toc-wrapper {
+  z-index: 999;
+}
+
+/* Smooth scrolling for TOC links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Create a scrollbar for TOC when it gets too tall */
+.toc-wrapper::-webkit-scrollbar {
+  width: 3px; /* Even thinner scrollbar */
+}
+
+.toc-wrapper::-webkit-scrollbar-track {
+  background: #f5f5f5;
+}
+
+.toc-wrapper::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.toc-wrapper::-webkit-scrollbar-thumb:hover {
+  background: #999;
+}

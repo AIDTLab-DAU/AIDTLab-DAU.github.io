@@ -95,8 +95,14 @@
 // 3.8 Instagram
 @import '3-modules/instagram';
 
-// 3.9 Instagram
+// 3.9 Footer
 @import '3-modules/footer';
+
+// 3.10 Table of Contents
+@import '3-modules/toc';
+@import '3-modules/toc-enhancements';
+@import '3-modules/toc-right-align';
+@import '3-modules/toc-position-fix';
 
 /* >>>>>>>>>>>>>> :: 4-Layouts <<<<<<<<<<<<<<< */
 
@@ -105,6 +111,7 @@
 
 // 4.2 Page
 @import '4-layouts/page';
+@import '4-layouts/page-toc';
 
 // 4.3 Article
 @import '4-layouts/article';

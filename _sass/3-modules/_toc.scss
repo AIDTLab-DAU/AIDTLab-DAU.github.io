@@ -1,0 +1,129 @@
+/* Table of Contents Styling */
+.toc-wrapper {
+  margin-bottom: 25px;
+  position: fixed; /* Keep fixed position to ensure it stays in view */
+  right: 1%; /* Position a percentage from right edge for better responsive behavior */
+  /* Initial top position will be set by JavaScript to align with Professors heading */
+  top: 210px; /* Starting position - will be adjusted by JS */
+  max-height: calc(100vh - 150px); /* Full height minus header and some spacing */
+  overflow-y: auto;
+  padding-right: 0;
+  width: 200px; /* Fixed width for TOC */
+  z-index: 100; /* Ensure it's above content but below header */
+  will-change: transform; /* Performance optimization for smoother scrolling */
+  font-size: 14px; /* Base font size (increased by 2px) */
+}
+
+.inline_toc {
+  position: relative; /* Changed from sticky to relative */
+  background-color: #ffffff;
+  border: 1px solid #efefef;
+  border-radius: 10px; /* More rounded corners */
+  width: 100%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  overflow: hidden; /* Ensures the header respects the border radius */
+}
+
+.toc-title {
+  font-size: 1.1em;
+  font-weight: 700;
+  padding: 10px 12px;
+  color: #fff;
+  background-color: #0450a7; /* Blue header background to match site branding */
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+.toc-list, .inline_toc ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.toc-list ul, .inline_toc ul ul {
+  padding-left: 0;
+}
+
+.toc-list li, .inline_toc li {
+  margin: 0;
+  font-size: 15px; /* Increased font size (+2px) */
+  line-height: 1.4;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.toc-list li:last-child, .inline_toc li:last-child {
+  border-bottom: none;
+}
+
+/* Style for H1 headings in TOC */
+.toc-list > li > a {
+  font-weight: bold;
+  font-size: 14px;
+  color: #333;
+}
+
+/* Style for H2 headings in TOC */
+.toc-list > li > ul > li > a {
+  font-weight: normal;
+  padding-left: 12px !important;
+}
+
+/* Style for H3 headings in TOC */
+.toc-list > li > ul > li > ul > li > a {
+  font-style: italic;
+  padding-left: 20px !important;
+}
+
+.toc-list a, .inline_toc a {
+  color: #555;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  display: block;
+  padding: 5px 8px; /* Smaller padding */
+}
+
+.toc-list a:hover, .inline_toc a:hover {
+  color: #0450a7; /* Brand color on hover */
+  background-color: #f8f9fa;
+  text-decoration: none;
+}
+
+.toc-list ul li a, .inline_toc ul ul li a {
+  padding-left: 16px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 12px; /* Increased size for nested items (+2px) */
+  color: #777;
+}
+
+/* Remove bullet points for cleaner look */
+.toc-list ul > li::before, .inline_toc ul > li::before {
+  content: none;
+}
+
+/* Responsive TOC styling */
+@media only screen and (max-width: 1100px) {
+  /* For medium screens, adjust TOC position */
+  .toc-wrapper {
+    right: 0.5%;
+    width: 180px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .toc-wrapper {
+    position: static; /* Switch back to normal flow on mobile */
+    margin-bottom: 30px;
+    max-height: none;
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    right: auto;
+  }
+  
+  .inline_toc {
+    border: 1px solid #efefef;
+  }
+}

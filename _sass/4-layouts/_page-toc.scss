@@ -1,0 +1,43 @@
+/* Additional page layout adjustments for TOC */
+.page__content {
+  min-height: 500px; /* Ensure enough space for content */
+  clear: right; /* Clear right floats */
+}
+
+.page__content::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Adjust spacing for pages with TOC */
+.page__content {
+  padding-top: 10px;
+  position: relative; /* Ensure proper positioning context */
+  width: 100%; /* Ensure original width is maintained */
+  box-sizing: border-box; /* Include padding in the width calculation */
+}
+
+/* Add position */
+.page {
+  position: relative; /* Ensure positioning context for TOC */
+}
+
+/* Adjust TOC positioning without affecting main content */
+.toc-wrapper {
+  position: fixed; /* Keep fixed to stay in viewport */
+  pointer-events: auto; /* Ensure it's clickable */
+}
+
+/* Responsive adjustment */
+@media only screen and (max-width: 768px) {
+  .toc-wrapper {
+    position: static;
+    float: none;
+    width: 100%;
+  }
+  
+  .page__content {
+    padding-right: 0;
+  }
+}

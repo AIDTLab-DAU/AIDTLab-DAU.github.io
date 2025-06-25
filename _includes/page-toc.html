@@ -1,0 +1,8 @@
+{% if page.toc %}
+<div class="toc-wrapper">
+  <div class="inline_toc">
+    <div class="toc-title">Table of Contents</div>
+    {% include toc.html html=content sanitize=true class="toc-list" id="my_toc" h_min=2 h_max=4 %}
+  </div>
+</div>
+{% endif %}

@@ -45,8 +45,16 @@ layout: default
   <div class="row">
     <!-- begin post -->
     <article class="post {{ no-image }} col col-8 col-t-10 col-m-12">
-
+      
       <div class="post__content">
+        {% if page.toc %}
+        <div class="toc-wrapper">
+          <div class="inline_toc">
+            <div class="toc-title">CONTENTS</div>
+            {% include toc.html html=content sanitize=true class="toc-list" id="my_toc" h_min=1 h_max=3 %}
+          </div>
+        </div>
+        {% endif %}
         {{ content }}
       </div>
 

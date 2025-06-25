@@ -1,0 +1,64 @@
+/* Additional adjustments for TOC positioning */
+.header {
+  z-index: 1000; /* Ensure header is above TOC when scrolling */
+}
+
+/* Ensure TOC doesn't overlap with other content */
+.page__content {
+  position: relative; /* Changed from sticky to relative */
+  overflow: visible;
+  /* Remove the right margin to restore original width */
+}
+
+/* Improve TOC appearance when scrolling */
+.toc-wrapper::-webkit-scrollbar {
+  width: 3px;
+}
+
+.toc-wrapper::-webkit-scrollbar-track {
+  background: #f5f5f5;
+  border-radius: 3px;
+}
+
+.toc-wrapper::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+
+/* Position TOC on different screen sizes */
+@media only screen and (min-width: 1500px) {
+  .toc-wrapper {
+    right: calc(50% - 700px); /* Position relative to center for large screens */
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1499px) {
+  .toc-wrapper {
+    right: 2%; /* Position from right edge for medium-large screens */
+  }
+}
+
+/* Ensure the TOC sticks properly based on header height */
+@media only screen and (min-width: 992px) {
+  .toc-wrapper {
+    top: 100px; /* Desktop header height */
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .toc-wrapper {
+    top: 90px; /* Tablet header height */
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .toc-wrapper {
+    top: 70px; /* Mobile header height */
+    right: 0; /* Remove offset for mobile */
+  }
+}
+
+/* Fix for affix header overlap */
+.affix_header + .container .toc-wrapper {
+  top: 100px; /* Adjust based on your header height */
+}

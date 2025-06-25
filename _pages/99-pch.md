@@ -7,8 +7,10 @@ description: "Curriculum vitae of Changhun Park"
 toc: true
 ---
   
-[![LinkedIn](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://www.linkedin.com/in/chang-hun-park-26a47914b/) 
-[![Github](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://github.com/chp2) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-39A6CE?style=flat-square&logo=linksys&logoColor=White)](https://www.linkedin.com/in/chang-hun-park-26a47914b/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0008-2360-7426) 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=oM_I8qkAAAAJ)
+[![Research ID](https://img.shields.io/badge/Research%20ID-gray?style=flat-square)](https://researchid.co/james9260)
 
 * TOC
 {:toc}
@@ -16,6 +18,8 @@ toc: true
 Research Experience
 ============
 * Feb 2025 - Present: Research student, AI Digital Twin Lab, Dong-A University, Busan, South Korea
+* Jun 2022 - Jul 2022: Health Care Engineering Systems Center, UIUC, Champaign IL
+* May 2021 - Dec 2021: Earthsense, Inc., Champaign IL
 
 ***
 
@@ -29,9 +33,31 @@ Education
 
 Work Experience
 ============
+* Smart City Lab Research Center, Dong-A University, Busan, South Korea
+    <div>
+        <ul>
+            <li>Contributing to the development of an autonomous container-lashing robot for maritime logistics, designed to operate reliably under adverse weather conditions.</li>
+            <li>Developed precise robotic arm movement algorithms on ROS and in robotic language.</li>
+            <li>Applied NVIDIA Isaac Sim and USD Composer to simulate robot behavior in digital twin environments for validation.</li>
+        </ul>
+    </div>
 * Robotics UI Developer Intern: Health Care Engineering Systems Center, UIUC, Champaign IL
+    <div>
+        <ul>
+            <li>Supported the development of a soft robotic telemedicine system for elderly care, enabling remote diagnostics through an intuitive user interface.</li>
+            <li>Redesigned robotic arm mechanism with 4 additional DOF for improving articulation and expanding workspace coverage.</li>
+            <li>Collaborated with physicians to align design features with clinical use cases.</li>
+            <li>Contributed to early-stage hardware validation for safety and usability.</li>
+        </ul>
+    </div>
 * Robotics Engineer Intern: Earthsense Inc., UIUC, Champaign IL
-* Laboratory Assistant, UIUC, Champaign IL
+    <div>
+        <ul>
+            <li>Designed vibration-damping suspension components for autonomous agricultural robots, improving field durability by 20%.</li>
+            <li>Performed FEA and tolerance analysis on system components to ensure structural integrity and functionality in rugged terrain environments.</li>
+            <li>Performed on-site testing and root cause analysis to improve system accuracy and reduce maintenance cost.</li>
+        </ul>
+    </div>
 
 ***
 

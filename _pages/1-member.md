@@ -260,7 +260,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 ## Undergraduate Research Assistants
 
-###### [Jeong-Sik Kim (김정식)](/member/PageNotFound)
+###### [Jeong-Sik Kim (김정식)](/member/kjs)
 
 <table border="0">  
 	<tr valign="top">
@@ -276,7 +276,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Chae-Young Yi (이채영)](/member/PageNotFound)
+###### [Chae-Young Yi (이채영)](/member/ycy)
 
 <table border="0">  
 	<tr valign="top">
@@ -284,15 +284,15 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td>
 			<ul>
 				<li>Research Field: Computer Vision(Anomaly Detection)</li>
-				<li><a href="mailto:abc@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/abc@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				<li><a href="mailto:2243487@donga.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/2243487@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
 			</ul>
 		</td>
 	</tr>
 </table>
 
-###### [Ji-Hwan Bae (배지환)](/member/PageNotFound)
+###### [Ji-Hwan Bae (배지환)](/member/bjw)
 
 <table border="0">  
 	<tr valign="top">
@@ -308,7 +308,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Jong-Woo Sung (성종우)](/member/PageNotFound)
+###### [Jong-Woo Sung (성종우)](/member/jswoo)
 
 <table border="0">  
 	<tr valign="top">
@@ -324,7 +324,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Hyeon-Jun Bea (배현준)](/member/PageNotFound)
+###### [Hyeon-Jun Bea (배현준)](/member/bhj)
 
 <table border="0">  
 	<tr valign="top">
@@ -340,7 +340,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Si-Woo Jang (장시우)](/member/PageNotFound)
+###### [Si-Woo Jang (장시우)](/member/jsw)
 
 <table border="0">  
 	<tr valign="top">
@@ -356,7 +356,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Jong-Hyun Lee (이종현)](/member/PageNotFound)
+###### [Jong-Hyun Lee (이종현)](/member/ljh)
 
 <table border="0">  
 	<tr valign="top">
@@ -372,14 +372,14 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Ji-An Lee (이지안)](/member/PageNotFound)
+###### [Ji-An Lee (이지안)](/member/lja)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-An Lee.jpg"/></td>  
 		<td>
 			<ul>
-				<li>Research Field</li>
+				<li>Research Field: Autonomous Driving, Emergency Medical Services, and Mntal Health.</li>
 				<li><a href="mailto:2344025@donga.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/2344025@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
@@ -388,14 +388,14 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Bo-Ryeon Kim (김보련)](/member/PageNotFound)
+###### [Bo-Ryeon Kim (김보련)](/member/kbr)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Bo-Ryeon Kim.jpg"/></td>  
 		<td>
 			<ul>
-				<li>Research Field</li>
+				<li>Research Field: AI-based System Development</li>
 				<li><a href="mailto:kimnbr0422@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/kimnbr0422@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>

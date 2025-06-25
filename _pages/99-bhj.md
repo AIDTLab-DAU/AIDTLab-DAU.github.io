@@ -9,9 +9,6 @@ toc: true
 
 [![Static Badge](https://img.shields.io/badge/CV-2AFFDA?logo=readdotcv&color=White)](../members/UnderGrad/Bea-Hyeon-Jun.pdf)
 
-* TOC
-{:toc}
-
 # Research Experience
  
 * Jun 2023 - Present: Research Assistant, AI Digital Twin Lab, Dong-A University, Busan, South Korea

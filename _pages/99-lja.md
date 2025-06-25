@@ -9,8 +9,7 @@ toc: true
 
 [![Static Badge](https://img.shields.io/badge/CV-2AFFDA?logo=readdotcv&color=White)](../members/UnderGrad/Lee-Ji-An.pdf)
 
-* TOC
-{:toc}
+<br>
 
 # Research Experience
  

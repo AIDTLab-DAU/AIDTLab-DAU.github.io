@@ -3,6 +3,12 @@ layout: page
 title: Lecture
 permalink: /lecture/
 image: 
+description: Content related to teaching activities and course materials from AI Digital Twin Lab, Dong-A University of Korea
+toc: true
+---t: page
+title: Lecture
+permalink: /lecture/
+image: 
 description: Regular (or special) lectures led or managed by the AI Digital Twin Lab, Dong-A University of Korea
 toc: true
 toc_sticky: true
@@ -24,14 +30,14 @@ toc_label: "Table of Contents"
 
 # Graduate Courses
 
-##### Vision Transformer
+## Vision Transformer
 - [📄 DeiT - Data-efficient Image Transformers ](../lectures/Vision Transformer/DeiT (Data-efficient Image Transformers).pdf)
 - [📄 Swin Transformer](../lectures/Vision Transformer/Swin Transformer.pdf)
 - [📄 The Illustrated Transformer](../lectures/Vision Transformer/The Illustrated Transformer.pdf)
 - [📄 Transformer](../lectures/Vision Transformer/Transformer.pdf)
 - [📄 ViT - Vision Transformer ](../lectures/Vision Transformer/Vision Transformer - ViT.pdf)
 
-##### Generative Image
+## Generative Image
 - [📄 Generative Model - 01 StyleGAN](../lectures/Generative Image Model/Generative Model - 01 StyleGAN.pdf)
 - [📄 Generative Model - 02 Diffusion Models Overview - Lil'Long](../lectures/Generative Image Model/Generative Model - 02 Diffusion Models Overview - Lil'Long.pdf)
 - [📄 Generative Model - 03 DDPM - Denosing Diffusion Probabilistic Model](../lectures/Generative Image Model/Generative Model - 03 DDPM Denosing Diffusion Probabilistic Model.pdf)
@@ -47,13 +53,13 @@ toc_label: "Table of Contents"
 - [📄 LLM-Alternatives to Transformer Rev1.0 (From 1.6 Ver)](../lectures/Generative Image Model/LLM-Alternatives to Transformer Rev1.0 (From 1.6 Ver).pdf)
 - [📄 OXENAI-ArXivDive- Road to Sora Paper Reading List - 2024](../lectures/Generative Image Model/OXENAI-ArXivDive- Road to Sora Paper Reading List - 2024.pdf)
 
-##### Object Detection
+## Object Detection
 - [📄 Object Detection Model - DETR](../lectures/Object Detection Model/Object Detection Model - DETR.pdf)
 - [📄 Object Detection Model - EfficientDet](../lectures/Object Detection Model/Object Detection Model - EfficientDet.pdf)
 - [📄 Object Detection Model - Yolo v1](../lectures/Object Detection Model/Object Detection Model - Yolo v1.pdf)
 - [📄 Object Detection Model - Yolo v2-v4](../lectures/Object Detection Model/Object Detection Model - Yolo v2-v4.pdf)
 
-##### Convolutional Neural Network Classification
+## Convolutional Neural Network Classification
 - [📄 Part1 - Overview Best CNN Architecture](../lectures/CNN Classification Model/Part1 - Overview Best CNN Architecture.pdf)
 - [📄 Part2 - EfficientNet V1,V2](../lectures/CNN Classification Model/Part2 - EfficientNet V1,V2.pdf)
 - [📄 Part3 - Meta Pseudo Lables](../lectures/CNN Classification Model/Part3 - Meta Pseudo Lables.pdf)

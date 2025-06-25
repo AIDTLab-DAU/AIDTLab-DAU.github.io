@@ -11,8 +11,7 @@ toc: true
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=wr_3pWAAAAAJ)
 [![Research ID](https://img.shields.io/badge/Research%20ID-gray?style=flat-square)](https://www.researchid.co/rid93915)
 
-* TOC
-{:toc}
+<br>
   
 # Research Experience
  

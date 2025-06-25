@@ -10,8 +10,7 @@ toc: true
 [![Static Badge](https://img.shields.io/badge/CV-2AFFDA?logo=readdotcv&color=White)](../members/UnderGrad/Kim-Jeong-Sik.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-%23323232?style=flat-square&logo=github&logoColor=white)](https://github.com/jsk4074)
 
-* TOC
-{:toc}
+<br>
 
 # Research Experience
  

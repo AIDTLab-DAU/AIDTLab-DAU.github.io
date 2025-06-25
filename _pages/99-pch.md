@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Chang Hun Park, Ph.D"
+title: "Chang-Hun Park, Ph.D"
 permalink: /member/pch
 image: 
-description: "Curriculum vitae of Changhun Park"
+description: "Curriculum vitae of Chang-hun Park"
 toc: true
 ---
   
@@ -12,8 +12,7 @@ toc: true
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=oM_I8qkAAAAJ)
 [![Research ID](https://img.shields.io/badge/Research%20ID-gray?style=flat-square)](https://researchid.co/james9260)
 
-* TOC
-{:toc}
+<br>
   
 # Research Experience
 

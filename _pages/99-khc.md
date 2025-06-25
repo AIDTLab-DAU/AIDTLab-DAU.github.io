@@ -3,6 +3,7 @@ layout: page
 title: "Hyeon-Cheol Kim, Ph.D"
 permalink: /member/khc
 image: 
+description: "Curriculum vitae of Hyeon-Cheol Kim"
 toc: true
 ---
 
@@ -10,8 +11,7 @@ toc: true
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=SzBWb88AAAAJ&hl=ko)
 [![Research ID](https://img.shields.io/badge/Research%20ID-gray?style=flat-square)](https://www.researchid.co/rid110093)
 
-* TOC
-{:toc}
+<br>
 
 # Research Experience
 
@@ -28,6 +28,7 @@ toc: true
 ***
 
 # Awards & Grants
+
 ## University Award
 
 * 2019: Grand Award, SW Convergence Contest, Tongmyong University

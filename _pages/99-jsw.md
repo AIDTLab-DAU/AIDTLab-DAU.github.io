@@ -9,8 +9,7 @@ toc: true
 
 [![Static Badge](https://img.shields.io/badge/CV-2AFFDA?logo=readdotcv&color=White)](../members/UnderGrad/Jang-Si-Woo.pdf)
 
-* TOC
-{:toc}
+<br>
 
 # Research Experience
  

@@ -6,25 +6,23 @@ image:
 toc: true
 ---
 
-* TOC
-{:toc}
+<br>
 
-Research Experience
-============
+# Research Experience
 
 
 ***
 
-Education
-============
+# Education
+
 
 ***
 
-Awards & Grants
-============
+# Awards & Grants
+
 
 ***
 
-Projects
-============
+# Projects
+
 

@@ -12,11 +12,9 @@ toc: true
 [![IEEE Xplore](https://img.shields.io/badge/%20-%230A70A3?style=flat-square&logo=ieee&logoColor=white&logoSize=auto)](https://ieeexplore.ieee.org/author/37293422800)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300D0AF?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Suk-Hwan-Lee)
 
-* TOC
-{:toc}
 
-Research Experience
-============
+# Research Experience
+
 * 2020 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University
 * 2023 – Present : Chief of Center, SW Innovation Center, Dong-A University
 * 2005 - 2019: Assistant, Associate, and Full Professor, Dept. of Information Security, Tongmyong University
@@ -24,27 +22,26 @@ Research Experience
 
 ***
 
-Education
-============
+# Education
+
 * 2004: Ph.D, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 * 2001: M.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 * 1999: B.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 
 ***
 
-Awards & Grants
-============
+# Awards & Grants
 
-University Award
-------------
+## University Award
+
 * 2023: Outstanding Teacher Award, Dong-A University
 * 2019: Best Lecture Award, Tongmyong University
 * 2018, 2012: National Project Award, Tongmyong University
 * 2017: Outstanding Teacher Award (Research), Tongmyong University
 * 2011: Outstanding Teacher Award (Industrial Cooperation), Tongmyong University
 
-Research Award
-------------
+## Research Award
+
 * 2023, 2022, 2016, 2015: Academic Achievement Award, Korea Multimedia 
 * 2019: Academic Achievement Award, IEICE NOLTA Society
 * 2018, 2012: Best Paper Award, Korea Multimedia Society
@@ -52,17 +49,16 @@ Research Award
 
 ***
 
-Academic Activities
-====================
+# Academic Activities
 
-Membership
-------------
+## Membership
+
 * IEEE, KMMS (Korea Multimedia Society)
 * IEIE (The Institute of Electronics and Information Engineers)
 * KIISC (Korea Institute of Information Security & Cryptology)
 
-Society Committee
-------------
+## Society Committee
+
 * 2020–Current: Vice-presidential executive & Journal Editor-in-Chief, KMMS
 * 2018–2019: Board Member, KIISC
 * 2012–2018: Board Member, IEEK Computer Society
@@ -74,11 +70,10 @@ Society Committee
 
 ***
 
-Projects (R&D, Education)
-=========================
+# Projects (R&D, Education)
 
-Principal Investigator
-----------------------
+## Principal Investigator
+
 * 2023–2030: SW Centered University Project, Ministry of Science and ICT
 * 2022–2025: Digital Twin Testbed Platform (Digital Twin City Lab Project), Ministry of Science and ICT
 * 2020–2023: DNN Model Watermarking and Authentication Techniques for AI Safety, Ministry of Science and ICT
@@ -91,8 +86,8 @@ Principal Investigator
 * 2006–2007: Development of Information Hiding Technology to Protect Intellectual Rights of 3D Game Content and Videos Serviced on Converged Broadcasting Networks, SKT
 * 2005–2006: 3D Computer Animation Content Protection System, National Research Foundation
 
-Cooperation & Participant
--------------------------
+## Cooperation & Participant
+
 * 2021–Present: AI & Digital Twin Platform Practical ICC Center
 * 2021–2025: Training for Advanced Software Engineer, IITP/MSIT
 * 2021–2022: Smart Campus Challenge Project (Digital Twin Platform for Smart Fire Protection Safety Management based on 5G-AIoT Multi-Sensors), Ministry of Land, Infrastructure and Transport
@@ -106,8 +101,8 @@ Cooperation & Participant
 * 2007–2010: BB21 Project, Development of High-Definition Video Protection and Context-Aware Adaptive Authentication S/W Technology on Heterogeneous Devices, Busan Metropolitan City
 * 2005–2008: Hardware Development of a Content Protection System for Tracking Illegal Copying and Distribution of Camera Phones, Ministry of Education and Science
 
-SCIE Journal Publications
-=========================
+# SCIE Journal Publications
+
 - Phuoc-Dat Lam, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, Suk-Hwan Lee, “Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization,” Sensors, 24(12), 3761, Jun 2024.
 - Kyeong-Hwan Moon, Soo-Yol Ok, Suk-Hwan Lee, “SupCon-MPL-DP: Supervised Contrastive Learning with Meta Pseudo Labels for Deepfake Image Detection,” Applied Sciences, 14(8), 3249, 2024.
 - Hyeon-Cheol Kim, Hoang-Khanh Lam, Suk-Hwan Lee, Soo-Yol Ok, “Early Fire Detection System by Using Automatic Synthetic Dataset Generation Model Based on Digital Twins,” Applied Sciences, 14(8), 3249, 2024.
@@ -180,8 +175,10 @@ SCIE Journal Publications
 - Suk-Hwan Lee, Seong-Geun Kwon, Kuhn-Il Lee, et al., “Postprocessing algorithm in block-coded images using the adaptive filters along the pattern of neighborhood blocks,” IEICE Trans. on Information and Systems, Vol.E85-D No.12, pp.1967-1974, Dec. 2002.
 - Jong-Won Lee, Suk-Hwan Lee, Kuhn-Il Lee, “Complex EGI based 3D Mesh watermarking,” IEICE Trans. on Fundamental, Vol. E88-A, No. 6, pp. 1512-1519, June, 2005.
 
-IEEE Conference
-=========================
+***
+
+# IEEE Conference
+
 - Anh-Thuan Tran, Hoanh-Su Le, Suk-Hwan Lee, Ki-Ryong Kwon, “PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Semantic Segmentation,” Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pp. 3556-3565, Jan. 2024.
 - Md Mamunur Rashid, Suk-Hwan Lee, Ki-Ryong Kwon, et al., “Ensuring Privacy and Security of IoT Networks Utilizing Blockchain and Federated Learning,” 10th International Conference on Future Internet of Things and Cloud (FiCloud), 2023.
 - Van–Nhan Tran, Suk–Hwan Lee, Ki–Ryong Kwon, et al., “Learning Face Forgery Detection in Unseen Domain with Generalization Deepfake Detector, IEEE International Conference on Consumer Electronics (ICCE), 2023.
@@ -214,9 +211,11 @@ IEEE Conference
 - Ki-Ryong Kwon, Suk-Hwan Lee, et al., “3D CAD Drawing Watermarking Based on Three Components,” International Conference on Image Processing (ICIP), 2006.
 - Ki-Ryong Kwon, Suk-hwan Lee, et al., “The Watermarking for 3D CAD Drawing using Line, ARC, 3DFACE Components,” IEEE International Conference on Multimedia and Expo, 2006.
 - Tae-Kyue Kim, Suk-Hwan Lee, Duk-Gyoo Kim, et al., “Fast Auto-Focus Control Algorithm Using the VCM Hysteresis Compensation in the Mobile Phone Camera,” EEE International Conference on Acoustics Speech and Signal Processing Proceedings (ICASSP), 2006.
-  
-International Patents
-=========================
+
+***
+
+# International Patents
+
 - SukHwan Lee, EungJoo Lee, “Method Of Hashing Vector Data Based On Multi-Scale Curvature For Vector Content Authentication,” Application Granted, US11115190B2, United States, 2021.
 - SukHwan Lee, DeokJin Song, JaeWan Cho, “Reversible DNA Information Hiding Method Based On Prediction Error Expansion and Histogram Shifting,” USA Patent Applications, US 15/905121, 2018.
 - Seong-Geun Kwon, Soon-Jin Kim, Ki-Ryong Kwon, Suk-Hwan Lee, “Method and apparatus for 3-dimensional image processing in communication device,” European Patent Application, EU 11152984.8, 2011.

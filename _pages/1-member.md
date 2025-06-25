@@ -7,14 +7,11 @@ description: Members, alumni and collaborators of the AI Digital Twin Lab, Dong-
 toc: true
 ---
 
-<!-- * TOC
-{:toc} -->
-
 ***
 
-# Professors
+# Supervisors
 
-## [Soo-Yol Ok](/member/sooyolok)
+### [Soo-Yol Ok](/member/sooyolok)
 
 <img align="left" src="../images/syok1.png" style="width : 180px; height : 240px; margin : 10px">
 
@@ -26,25 +23,27 @@ He is currently working as a full professor in the Department of Computer Engine
 
 <br>
 
-### Research Experience
+##### Research Experience
 
 * 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
 * 2004 - 2019: An Assistant, Associate, and Full Professor, Dept. of Game Engineering, Junior College of Information and Communication, Tongmyong University, Busan, South Korea
 
-### Education
+##### Education
 
 * 2001: Ph.D, Institute of Information Sciences and Electronics, Tsukuba University, Japan
 * 1998: M.S, Institute of Information Sciences and Electronics, Tsukuba University, Japan
 * 1994: B.S, Industrial Engineering, Dong-A University, Busan, South Korea
 
-### Contact
+##### Contact
 
 * <a href="mailto:sooyol@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/sooyol%40dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a>
 * Phone: +82
 
-## [Suk-Hwan Lee](/member/sukhwanlee)
+<br>
+
+### [Suk-Hwan Lee](/member/sukhwanlee)
 
 <img align="left" src="../images/shlee2.png" style="width : 180px; height : 240px; margin : 10px">
 
@@ -58,18 +57,18 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 <br>
 
-### Research Experience
+##### Research Experience
 
 * 2020 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
 * 2015 - 2019: An Assistant, Associate, and Full Professor, Dept. of Information Security, Tongmyong University, Busan, South Korea
 
-### Education
+##### Education
 
 * 2004: Ph.D, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 * 2001: M.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 * 1999: B.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 
-### Contact
+##### Contact
 
 * <a href="mailto:skylee@dau.ac.kr">
 	<img alt="Static Badge" src="https://img.shields.io/badge/skylee@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
@@ -78,9 +77,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 ***
 
-# Researchers
+## Researchers
 
-## Ph.D
+### Ph.D
 
 ###### [Hyeon-Cheol Kim](/member/khc) (Mar 2020 -- Present)
 
@@ -213,7 +212,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-## Master
+### Master
 
 ###### [Young-Hoon Jo](/member/jyh) (Mar 2023 -- Present)
 
@@ -258,7 +257,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 ***
 
-## Undergraduate Research Assistants
+### Undergraduate Research Assistants
 
 ###### [Jeong-Sik Kim (김정식)](/member/kjs)
 
@@ -421,7 +420,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
  -->
 
-# Officer
+## Officer
 
 ###### Ms. Kim
 

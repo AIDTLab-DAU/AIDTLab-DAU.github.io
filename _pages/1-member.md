@@ -445,7 +445,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
         <td>
           <ul>
-            <li>Research Field: Model Content Protocol</li>
+            <li>Research Field: Model Context Protocol</li>
             <li><a href="mailto:jameshoon@donga.ac.kr">
       <img alt="Static Badge" src="https://img.shields.io/badge/jameshoon@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
     </a></li>

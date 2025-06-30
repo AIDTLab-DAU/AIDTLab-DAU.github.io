@@ -259,149 +259,202 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 ### Undergraduate Research Assistants
 
-###### [Jeong-Sik Kim (김정식)](/member/kjs)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="width: 48%;">
+    <!-- Column 1: Students 1-6 -->
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JeonSik Kim.png"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Autonomous-Drone, Computer Vision</li>
-				<li><a href="mailto:2343783@donga.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/2343783@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
+    <a href="/member/kjs">
+		<b>Jeong-Sik Kim (김정식)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JeonSik Kim.png"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Autonomous-Drone, Computer Vision</li>
+            <li><a href="mailto:2343783@donga.ac.kr">
+      <img alt="Static Badge" src="https://img.shields.io/badge/2343783@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 
-###### [Chae-Young Yi (이채영)](/member/ycy)
+	<a href="/member/ycy">
+		<b>Chae-Young Yi (이채영)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/ChaeYoung Yi.jpeg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Computer Vision(Anomaly Detection)</li>
+            <li><a href="mailto:2243487@donga.ac.kr">
+      <img alt="Static Badge" src="https://img.shields.io/badge/2243487@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/ChaeYoung Yi.jpeg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Computer Vision(Anomaly Detection)</li>
-				<li><a href="mailto:2243487@donga.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/2243487@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
+	<a href="/member/bjw">
+		<b>Ji-Hwan Bae (배지환)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHwan Bae.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Computer Vision (Object Detection, nErf)</li>
+            <li><a href="mailto:qowlghks12345@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/qowlghks12345@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 
-###### [Ji-Hwan Bae (배지환)](/member/bjw)
+	<a href="/member/jswoo">
+		<b>Jong-Woo Sung (성종우)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongWoo Sung.jpeg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Natural Language Processing (Multi Modal)</li>
+            <li><a href="mailto:mtplanthehuman@gmail.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/mtplanthehuman@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHwan Bae.jpg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Computer Vision (Object Detection, nErf)</li>
-				<li><a href="mailto:qowlghks12345@naver.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/qowlghks12345@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
+	<a href="/member/bhj">
+		<b>Hyeon-Jun Bea (배현준)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/HyeonJun Bae.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Natural Language Processing (Ontology)</li>
+            <li><a href="mailto:guli0624@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/guli0624@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 
-###### [Jong-Woo Sung (성종우)](/member/jswoo)
+	<a href="/member/jsw">
+		<b>Si-Woo Jang (장시우)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/SiWoo Jang.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Natural Language Processing(RLHF)</li>
+            <li><a href="mailto:jsw74092@gmail.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/jsw74092@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <div style="width: 48%;">
+    <!-- Column 2: Students 7-11 -->
+    
+	<a href="/member/ljh">
+		<b>Jong-Hyun Lee (이종현)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongHyun Lee.jpeg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Computer Vision (Object Detection, nErf)</li>
+            <li><a href="jh012403@gmail.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/jh012403@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongWoo Sung.jpeg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Natural Language Processing (Multi Modal)</li>
-				<li><a href="mailto:mtplanthehuman@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/mtplanthehuman@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
+	<a href="/member/lja">
+		<b>Ji-An Lee (이지안)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-An Lee.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Autonomous Driving, Emergency Medical Services, and Mntal Health.</li>
+            <li><a href="mailto:2344025@donga.ac.kr">
+      <img alt="Static Badge" src="https://img.shields.io/badge/2344025@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 
-###### [Hyeon-Jun Bea (배현준)](/member/bhj)
+	<a href="/member/kbr">
+		<b>Bo-Ryeon Kim (김보련)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Bo-Ryeon Kim.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: AI-based System Development</li>
+            <li><a href="mailto:kimnbr0422@gmail.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/kimnbr0422@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/HyeonJun Bae.jpg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Natural Language Processing (Ontology)</li>
-				<li><a href="mailto:guli0624@naver.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/guli0624@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
+	<a href="/member/kar">
+		<b>Ah-Reum Kim (김아름)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ah-Reum Kim.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Large language model</li>
+            <li><a href="mailto:2444277@donga.ac.kr">
+      <img alt="Static Badge" src="https://img.shields.io/badge/2444277@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 
-###### [Si-Woo Jang (장시우)](/member/jsw)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/SiWoo Jang.jpg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Natural Language Processing(RLHF)</li>
-				<li><a href="mailto:jsw74092@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/jsw74092@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
-
-###### [Jong-Hyun Lee (이종현)](/member/ljh)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongHyun Lee.jpeg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Computer Vision (Object Detection, nErf)</li>
-				<li><a href="jh012403@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/jh012403@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
-
-###### [Ji-An Lee (이지안)](/member/lja)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-An Lee.jpg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Autonomous Driving, Emergency Medical Services, and Mntal Health.</li>
-				<li><a href="mailto:2344025@donga.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/2344025@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
-
-###### [Bo-Ryeon Kim (김보련)](/member/kbr)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Bo-Ryeon Kim.jpg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: AI-based System Development</li>
-				<li><a href="mailto:kimnbr0422@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/kimnbr0422@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
-			</ul>
-		</td>
-	</tr>
-</table>
+	<a href="/member/ljhoon">
+		<b>Ji-Hoon Lee (이지훈)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Model Content Protocol</li>
+            <li><a href="mailto:jameshoon@donga.ac.kr">
+      <img alt="Static Badge" src="https://img.shields.io/badge/jameshoon@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 <!-- ###### [Ji-Heon Kim (김지헌)](/member/PageNotFound)
 

@@ -442,7 +442,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</a>
     <table border="0">  
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-Hoon Lee.jpg"/></td>  
         <td>
           <ul>
             <li>Research Field: Model Context Protocol</li>

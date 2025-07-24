@@ -33,6 +33,7 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 }
 
 .col {
+  flex-direction: column;
   padding-left: $base-spacing-unit;
   padding-right: $base-spacing-unit;
 }

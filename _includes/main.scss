@@ -104,6 +104,11 @@
 @import '3-modules/toc-right-align';
 @import '3-modules/toc-position-fix';
 
+// 3.11 Homepage Sections
+@import '3-modules/homepage-about';
+@import '3-modules/homepage-recruit';
+@import '3-modules/homepage-news';
+
 /* >>>>>>>>>>>>>> :: 4-Layouts <<<<<<<<<<<<<<< */
 
 // 4.1 Page-home
@@ -112,6 +117,7 @@
 // 4.2 Page
 @import '4-layouts/page';
 @import '4-layouts/page-toc';
+@import '4-layouts/news-page';
 
 // 4.3 Article
 @import '4-layouts/article';

@@ -1,0 +1,183 @@
+/* Homepage Recruit Section Styles */
+.homepage-recruit {
+  padding: 80px 0;
+  background: #fff;
+  
+  .section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: #333;
+    position: relative;
+    
+    &::after {
+      content: '';
+      display: block;
+      width: 60px;
+      height: 4px;
+      background: linear-gradient(90deg, #0450a7, #0366d6);
+      margin: 1rem auto 0;
+      border-radius: 2px;
+    }
+  }
+  
+  .recruit-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .recruit-description {
+    text-align: center;
+    margin-bottom: 4rem;
+    
+    p {
+      font-size: 1.2rem;
+      line-height: 1.8;
+      color: #555;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+  }
+  
+  .recruit-positions {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-bottom: 4rem;
+    
+    .position-card {
+      background: #fff;
+      border: 1px solid #e9ecef;
+      border-radius: 12px;
+      padding: 2rem;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+      transition: all 0.3s ease;
+      
+      &:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+        border-color: #0450a7;
+      }
+      
+      h3 {
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: #0450a7;
+        margin-bottom: 1rem;
+      }
+      
+      p {
+        font-size: 1rem;
+        color: #666;
+        margin-bottom: 1.5rem;
+        line-height: 1.6;
+      }
+      
+      ul {
+        list-style: none;
+        padding: 0;
+        
+        li {
+          position: relative;
+          padding-left: 1.5rem;
+          margin-bottom: 0.5rem;
+          color: #555;
+          
+          &::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: #28a745;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+  }
+  
+  .recruit-contact {
+    text-align: center;
+    
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 2rem;
+      color: #555;
+      
+      a {
+        color: #0450a7;
+        text-decoration: none;
+        font-weight: 500;
+        
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+    
+    .recruit-btn {
+      display: inline-block;
+      background: linear-gradient(135deg, #0450a7, #0366d6);
+      color: white;
+      padding: 1rem 2rem;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.1rem;
+      transition: all 0.3s ease;
+      border: none;
+      cursor: pointer;
+      
+      &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(4, 80, 167, 0.3);
+        text-decoration: none;
+        color: white;
+      }
+    }
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .homepage-recruit {
+    padding: 60px 0;
+    
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: 2rem;
+    }
+    
+    .recruit-description p {
+      font-size: 1.1rem;
+    }
+    
+    .recruit-positions {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+      margin-bottom: 3rem;
+      
+      .position-card {
+        padding: 1.5rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .homepage-recruit {
+    .recruit-positions .position-card {
+      padding: 1rem;
+      
+      h3 {
+        font-size: 1.3rem;
+      }
+    }
+    
+    .recruit-btn {
+      padding: 0.8rem 1.5rem;
+      font-size: 1rem;
+    }
+  }
+}

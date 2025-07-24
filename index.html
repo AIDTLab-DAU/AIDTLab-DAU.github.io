@@ -4,25 +4,9 @@ image: 220908_2.jpg
 title: AI Digital Twin Lab at DongA University, Busan, Korea
 description: Explore AI Digital Twin at Dong-A University (AIDT Lab@DAU). Cutting-edge research in AI, digital twins, and smart technologies driving future innovation.
 ---
-{% include hero.html %}
 
-<div class="container">
-	<div class="row">
-		<div class="col col-12">
-			{% if site.posts.size > 0 %}
-				<h4 class="lates-title">Latest Posts</h4>
-			{% endif %}
-		</div>
-	</div>
-</div>
+{% include homepage-about.html %}
 
-<div class="container">
-	<div class="row">
-	{% if site.posts.size > 0 %}
-		{% for post in paginator.posts %}
-			{% include article-content.html %}
-		{% endfor %}
-	{% endif %}
-	</div>
-</div>
-{% include pagination.html %}  
+{% include homepage-recruit.html %}
+
+{% include homepage-news.html %}  

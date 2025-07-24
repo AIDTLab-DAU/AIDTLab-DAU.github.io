@@ -1,0 +1,177 @@
+/* Homepage About Section Styles */
+.homepage-about {
+  padding: 80px 0;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  
+  .section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: #333;
+    position: relative;
+    
+    &::after {
+      content: '';
+      display: block;
+      width: 60px;
+      height: 4px;
+      background: linear-gradient(90deg, #0450a7, #0366d6);
+      margin: 1rem auto 0;
+      border-radius: 2px;
+    }
+  }
+  
+  .about-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .about-layout {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    text-align: left;
+  }
+  
+  .about-text {
+    flex: 1;
+    
+    .section-title {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+  }
+  
+  .about-image {
+    flex: 0 0 45%;
+    
+    .image-slideshow {
+      position: relative;
+      width: 100%;
+      height: 400px;
+      overflow: hidden;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      
+      .slide {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+        
+        &.active {
+          opacity: 1;
+        }
+        
+        .campus-image {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          transition: transform 0.3s ease;
+          
+          &:hover {
+            transform: scale(1.02);
+          }
+        }
+      }
+    }
+  }
+  
+  .about-description {
+    margin-bottom: 4rem;
+    
+    p {
+      font-size: 1.2rem;
+      line-height: 1.8;
+      color: #555;
+      margin-bottom: 1.5rem;
+      text-align: justify;
+      
+      strong {
+        color: #0450a7;
+        font-weight: 600;
+      }
+    }
+  }
+  
+  .about-stats {
+    display: flex;
+    justify-content: flex-start;
+    gap: 3rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    
+    .stat-item {
+      text-align: center;
+      
+      .stat-number {
+        display: block;
+        font-size: 3rem;
+        font-weight: 700;
+        color: #0450a7;
+        line-height: 1;
+        margin-bottom: 0.5rem;
+      }
+      
+      .stat-label {
+        font-size: 1rem;
+        color: #666;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+    }
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .homepage-about {
+    padding: 60px 0;
+    
+    .about-layout {
+      flex-direction: column;
+      gap: 2rem;
+      text-align: center;
+    }
+    
+    .about-text .section-title {
+      text-align: center;
+    }
+    
+    .about-image {
+      flex: none;
+    }
+    
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: 2rem;
+    }
+    
+    .about-description p {
+      font-size: 1.1rem;
+    }
+    
+    .about-stats {
+      justify-content: center;
+      gap: 2rem;
+      
+      .stat-item .stat-number {
+        font-size: 2.5rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .homepage-about {
+    .about-stats {
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+  }
+}

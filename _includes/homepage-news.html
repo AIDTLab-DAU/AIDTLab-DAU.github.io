@@ -6,6 +6,14 @@
         <h2 class="section-title">Lab News & Activities</h2>
       </div>
     </div>
+
+    <!-- News Container with Events List -->
+    <div class="news-container">
+      <div class="news-events-list" id="newsEventsList">
+        <!-- Events will be dynamically populated here -->
+      </div>
+    </div>
+    
     <div class="news-grid">
         <div class="news-card">
           <div class="news-card__image">
@@ -81,3 +89,94 @@
     </div>
   </div>
 </section>
+
+<script>
+// Simple Vertical Auto-Scrolling News Ticker
+document.addEventListener('DOMContentLoaded', function() {
+  // News events data
+  const newsEvents = [
+    { date: '2025.07.23', text: '🏆 AWARD Researcher Jo Young-Hoon won the Best Student Paper Award at MITA 2025' },
+    { date: '2025.07.15', text: '🏙️ CONFERENCE Smart City - AI Convergence Strategy Forum participation' },
+    { date: '2025.06.30', text: '🙋 WELCOME Ji-Hoon and Ah-Reum joined our lab as undergraduate students!' },
+    { date: '2025.04.04', text: '🙋 WELCOME Ji-An and Bo-Ryeon joined our lab as undergraduate students!' },
+    { date: '2025.04.01', text: '🎯 PROJECT Dong-A University selected for Digital Columbus Project by MSIT' },
+    { date: '2025.02.17', text: '🎓 GRADUATION Mr. Khanh and Mr. Gu completed their M.S. program. Congratulations!' },
+    { date: '2022.04.01', text: '🎯 PROJECT Digital Twin Testbed Platform (Digital Twin City Lab Project) by MSIT' }
+  ];
+
+  const ticker = document.getElementById('newsEventsList');
+  let currentIndex = 0;
+  let isAnimating = false;
+  let tickerInterval;
+
+  // Create news item element
+  function createNewsItem(event) {
+    const item = document.createElement('div');
+    item.className = 'news-ticker-item';
+    item.innerHTML = `
+      <span class="news-date">${event.date}</span>
+      <span class="news-title">${event.text}</span>
+    `;
+    return item;
+  }
+
+  // Initialize ticker with first item
+  function initTicker() {
+    ticker.innerHTML = '';
+    const firstItem = createNewsItem(newsEvents[currentIndex]);
+    ticker.appendChild(firstItem);
+  }
+
+  // Smooth vertical slide to next item
+  function slideToNext() {
+    if (isAnimating) return;
+    isAnimating = true;
+
+    const currentItem = ticker.querySelector('.news-ticker-item');
+    const nextIndex = (currentIndex + 1) % newsEvents.length;
+    const nextItem = createNewsItem(newsEvents[nextIndex]);
+
+    // Position next item below the container
+    nextItem.style.transform = 'translateY(100%)';
+    nextItem.style.opacity = '1';
+    ticker.appendChild(nextItem);
+
+    // Animate current item up and out
+    currentItem.style.transform = 'translateY(-100%)';
+    currentItem.style.opacity = '0';
+
+    // Animate next item up into view
+    setTimeout(() => {
+      nextItem.style.transform = 'translateY(0)';
+    }, 50);
+
+    // Clean up after animation
+    setTimeout(() => {
+      if (currentItem.parentNode) {
+        currentItem.remove();
+      }
+      isAnimating = false;
+    }, 500);
+
+    currentIndex = nextIndex;
+  }
+
+  // Start ticker
+  function startTicker() {
+    tickerInterval = setInterval(slideToNext, 3000);
+  }
+
+  // Stop ticker
+  function stopTicker() {
+    clearInterval(tickerInterval);
+  }
+
+  // Initialize
+  initTicker();
+  startTicker();
+
+  // Pause on hover
+  ticker.addEventListener('mouseenter', stopTicker);
+  ticker.addEventListener('mouseleave', startTicker);
+});
+</script>

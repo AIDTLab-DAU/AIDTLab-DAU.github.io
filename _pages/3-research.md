@@ -59,12 +59,12 @@ toc: false
                 <div class="download-links">
                   <a href="../researches/2025 Digital Columbus Project - JAVIS - KOR.pdf" class="download-btn korean" target="_blank">
                     <span class="btn-icon">📄</span>
-                    <span class="btn-text">Korean (KOR)</span>
+                    <span class="btn-text">Korean</span>
                     <span class="btn-format">PDF</span>
                   </a>
                   <a href="../researches/2025 Digital Columbus Project - JAVIS - ENG.pdf" class="download-btn english" target="_blank">
                     <span class="btn-icon">📄</span>
-                    <span class="btn-text">English (ENG)</span>
+                    <span class="btn-text">English</span>
                     <span class="btn-format">PDF</span>
                   </a>
                 </div>

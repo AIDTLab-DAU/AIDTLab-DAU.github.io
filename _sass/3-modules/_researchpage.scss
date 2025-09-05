@@ -33,35 +33,20 @@
       display: flex;
       align-items: flex-start;
       margin-bottom: 2rem;
-      gap: 2rem;
+      gap: 3rem;
       position: relative;
       
-      // Add vertical line between year and project cards
+      // Add vertical line through milestones
       &::before {
         content: '';
         position: absolute;
-        left: calc(80px + 1.8rem); // Position with more space from year for better balance
+        left: 40px; // Center the line through the milestone circles
         top: 0;
         bottom: -3rem; // Extend to next section
-        width: 2px;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        width: 4px; // Double the width as requested
+        background: linear-gradient(135deg, #0450a7, #0366d6); // Homepage gradient colors
         z-index: 1;
-        border-radius: 1px; // Slightly rounded edges for softer look
-      }
-      
-      // Add circular milestone for each year
-      &::after {
-        content: '';
-        position: absolute;
-        left: calc(80px + 1.8rem - 6px); // Center the circle on the line
-        top: 2.5rem; // Align with the moved year position
-        width: 14px;
-        height: 14px;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        border: 3px solid #ffffff; // White border
-        border-radius: 50%; // Make it circular
-        z-index: 3;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); // Subtle shadow
+        border-radius: 2px; // Slightly rounded edges for softer look
       }
       
       // Remove line from last item
@@ -70,17 +55,25 @@
       }
       
       .year-label {
-        font-size: 2.5rem;
-        font-weight: 300;
-        color: #666666;
+        position: relative;
+        width: 80px;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: #ffffff;
+        background: linear-gradient(135deg, #0450a7, #0366d6); // Homepage gradient colors
+        border-radius: 50%; // Make it circular
+        border: 4px solid #ffffff; // White border
+        box-shadow: 0 4px 12px rgba(4, 80, 167, 0.3); // Blue shadow matching the gradient
+        z-index: 3;
         min-width: 80px;
-        text-align: left;
-        position: sticky;
-        top: 2rem;
-        line-height: 1.2;
+        flex-shrink: 0;
+        margin-top: 0; // Remove margin to align with project card header
+        align-self: flex-start; // Ensure it aligns to the top of the flex container
         letter-spacing: -0.02em;
-        z-index: 2;
-        margin-top: 1.5rem; // Move year down to align with project title
       }
       
       .project-card {

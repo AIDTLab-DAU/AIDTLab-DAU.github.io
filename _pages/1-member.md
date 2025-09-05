@@ -280,23 +280,6 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/ycy">
-		<b>Chae-Young Yi (이채영)</b> 
-	</a>
-    <table border="0">  
-      <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/ChaeYoung Yi.jpeg"/></td>  
-        <td>
-          <ul>
-            <li>Research Field: Computer Vision(Anomaly Detection)</li>
-            <li><a href="mailto:2243487@donga.ac.kr">
-      <img alt="Static Badge" src="https://img.shields.io/badge/2243487@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
-          </ul>
-        </td>
-      </tr>
-    </table>
-
 	<a href="/member/bjw">
 		<b>Ji-Hwan Bae (배지환)</b> 
 	</a>
@@ -472,6 +455,24 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
  -->
+
+
+<!-- <a href="/member/ycy">
+	<b>Chae-Young Yi (이채영)</b> 
+</a>
+<table border="0">  
+	<tr valign="top">
+	<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/ChaeYoung Yi.jpeg"/></td>  
+	<td>
+		<ul>
+		<li>Research Field: Computer Vision(Anomaly Detection)</li>
+		<li><a href="mailto:2243487@donga.ac.kr">
+	<img alt="Static Badge" src="https://img.shields.io/badge/2243487@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+		</ul>
+	</td>
+	</tr>
+</table> -->
 
 ## Officer
 

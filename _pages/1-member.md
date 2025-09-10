@@ -95,9 +95,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/AINukeHere">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto:hckim0xdc@gmail.com">
+				<!-- <li><a href="mailto:hckim0xdc@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/hckim0xdc@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
+</a></li> -->
 			</ul>
 		</td>
 	</tr>
@@ -116,9 +116,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/monochromatics">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto:monochromatic5150@gmail.com">
+				<!-- <li><a href="mailto:monochromatic5150@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/monochromatic5150@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
+</a></li> -->
 			</ul>
 		</td>
 	</tr>
@@ -138,9 +138,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/chp2">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto:changhunpark0211@gmail.com">
+				<!-- <li><a href="mailto:changhunpark0211@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/changhunpark0211@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
+</a></li> -->
 			</ul>
 		</td>
 	</tr>
@@ -160,9 +160,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/BonhyeonGu">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li> <a href="mailto:bonhyeon.gu@9bon.org">
+				<!-- <li> <a href="mailto:bonhyeon.gu@9bon.org">
 	<img alt="Static Badge" src="https://img.shields.io/badge/bonhyeon.gu@9bon.org-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
+</a></li> -->
 			</ul>
 		</td>
 	</tr>
@@ -182,9 +182,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/Phuocdat10">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto:datlam10006@gmail.com">
+				<!-- <li><a href="mailto:datlam10006@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/datlam10006@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
+</a></li> -->
 			</ul>
 		</td>
 	</tr>
@@ -204,9 +204,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/lhx0917">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto:lvhaoxin_99@163.com">
+				<!-- <li><a href="mailto:lvhaoxin_99@163.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/lvhaoxin_99@163.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
+</a></li> -->
 			</ul>
 		</td>
 	</tr>
@@ -227,9 +227,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/JOyagdol">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto:joyagdol1224@gmail.com">
+				<!-- <li><a href="mailto:joyagdol1224@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/joyagdol1224@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
+</a></li> -->
 			</ul>
 		</td>
 	</tr>
@@ -247,9 +247,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/Taoxingyi">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto: xingyitao62@gmail.com">
+				<!-- <li><a href="mailto: xingyitao62@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/ xingyitao62@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li>
+</a></li> -->
 			</ul>
 		</td>
 	</tr>
@@ -272,9 +272,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Autonomous-Drone, Computer Vision</li>
-            <li><a href="mailto:2343783@donga.ac.kr">
+            <!-- <li><a href="mailto:2343783@donga.ac.kr">
       <img alt="Static Badge" src="https://img.shields.io/badge/2343783@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>
@@ -289,9 +289,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Computer Vision (Object Detection, nErf)</li>
-            <li><a href="mailto:qowlghks12345@naver.com">
+            <!-- <li><a href="mailto:qowlghks12345@naver.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/qowlghks12345@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>
@@ -306,9 +306,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Natural Language Processing (Multi Modal)</li>
-            <li><a href="mailto:mtplanthehuman@gmail.com">
+            <!-- <li><a href="mailto:mtplanthehuman@gmail.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/mtplanthehuman@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>
@@ -323,9 +323,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Natural Language Processing (Ontology)</li>
-            <li><a href="mailto:guli0624@naver.com">
+            <!-- <li><a href="mailto:guli0624@naver.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/guli0624@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>
@@ -340,9 +340,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Natural Language Processing(RLHF)</li>
-            <li><a href="mailto:jsw74092@gmail.com">
+            <!-- <li><a href="mailto:jsw74092@gmail.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/jsw74092@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>
@@ -361,9 +361,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Computer Vision (Object Detection, nErf)</li>
-            <li><a href="jh012403@gmail.com">
+            <!-- <li><a href="jh012403@gmail.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/jh012403@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>
@@ -378,9 +378,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Autonomous Driving, Emergency Medical Services, and Mntal Health.</li>
-            <li><a href="mailto:2344025@donga.ac.kr">
+            <!-- <li><a href="mailto:2344025@donga.ac.kr">
       <img alt="Static Badge" src="https://img.shields.io/badge/2344025@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>
@@ -395,9 +395,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: AI-based System Development</li>
-            <li><a href="mailto:kimnbr0422@gmail.com">
+            <!-- <li><a href="mailto:kimnbr0422@gmail.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/kimnbr0422@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>
@@ -412,9 +412,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Large Language Models</li>
-            <li><a href="mailto:2444277@donga.ac.kr">
+            <!-- <li><a href="mailto:2444277@donga.ac.kr">
       <img alt="Static Badge" src="https://img.shields.io/badge/2444277@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>
@@ -429,9 +429,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Model Context Protocol</li>
-            <li><a href="mailto:jameshoon@donga.ac.kr">
+            <!-- <li><a href="mailto:jameshoon@donga.ac.kr">
       <img alt="Static Badge" src="https://img.shields.io/badge/jameshoon@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li>
+    </a></li> -->
           </ul>
         </td>
       </tr>

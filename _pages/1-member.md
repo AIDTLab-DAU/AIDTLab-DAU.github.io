@@ -92,12 +92,14 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li> Mar 2020 - Feb 2022: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Mar 2016 - Feb 2020: B.S, Game Engineering, Tongmyong University, Busan, South Korea</li>
 				<li> Research Field: Digital twin based simulation, AI edge device</li>
-				<li><a href="https://github.com/AINukeHere">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
-</a></li>
+				<li>
+					<a href="https://github.com/AINukeHere" target="_blank">
+						<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+					</a>
+				</li>
 				<!-- <li><a href="mailto:hckim0xdc@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/hckim0xdc@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li> -->
+					<img alt="Static Badge" src="https://img.shields.io/badge/hckim0xdc@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+				</a></li> -->
 			</ul>
 		</td>
 	</tr>
@@ -347,11 +349,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         </td>
       </tr>
     </table>
-  </div>
-  
-  <div style="width: 48%;">
-    <!-- Column 2: Students 7-11 -->
-    
+	
 	<a href="/member/ljh">
 		<b>Jong-Hyun Lee (이종현)</b> 
 	</a>
@@ -368,7 +366,11 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         </td>
       </tr>
     </table>
-
+  </div>
+  
+  <div style="width: 48%;">
+    <!-- Column 2: Students 7-11 -->
+    
 	<a href="/member/lja">
 		<b>Ji-An Lee (이지안)</b> 
 	</a>
@@ -431,6 +433,23 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
             <li>Research Field: Model Context Protocol</li>
             <!-- <li><a href="mailto:jameshoon@donga.ac.kr">
       <img alt="Static Badge" src="https://img.shields.io/badge/jameshoon@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li> -->
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+	<a href="/member/jhseol">
+		<b>Jae-Hyeon Seol (설재현)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Jea-Hyeon Seol.jpg"/></td>  
+        <td>
+          <ul>
+		  	<li>Research Field: Internet of Things</li>
+            <!-- <li><a href="mailto:qkstm03@donga.ac.kr">
+      <img alt="Static Badge" src="https://img.shields.io/badge/qkstm03@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
     </a></li> -->
           </ul>
         </td>

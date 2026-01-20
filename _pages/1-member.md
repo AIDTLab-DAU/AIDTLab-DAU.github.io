@@ -316,11 +316,6 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-  </div>
-  
-  <div style="width: 48%;">
-    <!-- Column 2: Students 7-11 -->
-    
 	<a href="/member/lja">
 		<b>Ji-An Lee (이지안)</b> 
 	</a>
@@ -337,6 +332,11 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         </td>
       </tr>
     </table>
+
+  </div>
+  
+  <div style="width: 48%;">
+    <!-- Column 2: Students 7-11 -->
 
 	<a href="/member/kbr">
 		<b>Bo-Ryeon Kim (김보련)</b> 
@@ -366,6 +366,23 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
             <li>Research Field: Large Language Models</li>
             <!-- <li><a href="mailto:2444277@donga.ac.kr">
       <img alt="Static Badge" src="https://img.shields.io/badge/2444277@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li> -->
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+	<a href="/member/hjk">
+		<b>Hae-Jin Kim (김해진)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Hae-Jin Kim.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Agentic AI</li>
+            <!-- <li><a href="mailto:hjkim_kr@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
     </a></li> -->
           </ul>
         </td>

@@ -126,27 +126,6 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Chang-Hun Park](/member/pch) (Feb 2025 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pch.jpg"/></td>  
-		<td>
-			<ul>
-				<li> Feb 2025 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Jan 2023 - Aug 2024: M.S, Computer Science, University of Illinois Urbana-Champaign, United States</li>
-				<li> Aug 2017 - Dec 2022: B.S, Mechanical Engineering, University of Illinois Urbana-Champaign, United States</li>
-				<li> Research Field: Machine Learning, Text Analysis</li>
-				<li><a href="https://github.com/chp2">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
-</a></li>
-				<!-- <li><a href="mailto:changhunpark0211@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/changhunpark0211@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li> -->
-			</ul>
-		</td>
-	</tr>
-</table>
 
 ###### [Bon-Hyeon Gu](/member/gbh) (Sep 2022 -- Present)
 
@@ -174,7 +153,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pdlam2.jpg"/></td>  
 		<td>
 			<ul>
 				<li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
@@ -256,6 +235,28 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		</td>
 	</tr>
 </table>
+
+<!-- ###### [Chang-Hun Park](/member/pch) (Feb 2025 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pch.jpg"/></td>  
+		<td>
+			<ul>
+				<li> Feb 2025 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Jan 2023 - Aug 2024: M.S, Computer Science, University of Illinois Urbana-Champaign, United States</li>
+				<li> Aug 2017 - Dec 2022: B.S, Mechanical Engineering, University of Illinois Urbana-Champaign, United States</li>
+				<li> Research Field: Machine Learning, Text Analysis</li>
+				<li><a href="https://github.com/chp2">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+</a></li>
+				<!-- <li><a href="mailto:changhunpark0211@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/changhunpark0211@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table> -->
 
 ***
 

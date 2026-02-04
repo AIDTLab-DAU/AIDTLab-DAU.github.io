@@ -1,79 +1,156 @@
-<!-- News Section -->
+<!-- ============================================ -->
+<!-- NEWS SECTION - Homepage Lab News & Activities -->
+<!-- Displays recent lab news, awards, and events -->
+<!-- ============================================ -->
 <section class="homepage-news" id="news">
   <div class="container">
+    <!-- Section Title -->
     <div class="row">
       <div class="col col-12">
         <h2 class="section-title">Lab News & Activities</h2>
       </div>
     </div>
 
-    <!-- News Container with Events List -->
+    <!-- Auto-Scrolling News Ticker Container -->
+    <!-- Displays brief event updates with vertical auto-scroll -->
     <div class="news-container">
       <div class="news-events-list" id="newsEventsList">
-        <!-- Events will be dynamically populated here -->
+        <!-- Events will be dynamically populated here by JavaScript -->
       </div>
     </div>
     
+    <!-- ===================================== -->
+    <!-- NEWS CARDS GRID -->
+    <!-- Detailed news articles with images -->
+    <!-- ===================================== -->
     <div class="news-grid">
+      
+
+      <!-- News Card #6: Best Paper Award -->
       <div class="news-card">
-          <div class="news-card__image">
-            <div class="image-slider">
-              <!-- Slides -->
-              <div class="slide active">
-                <img src="{{ site.baseurl }}/images/homepage/SBS_8544 복사.jpg" alt="2025 SW 지산학 썸머 페스티벌">
-              </div>
-              <div class="slide">
-                <img src="{{ site.baseurl }}/images/homepage/SBS_8515 복사.jpg" alt="2025 SW 지산학 썸머 페스티벌">
-              </div>
-              <div class="slide">
-                <img src="{{ site.baseurl }}/images/homepage/SBS_8521 복사.jpg" alt="2025 SW 지산학 썸머 페스티벌">
-              </div>
-              
-              <!-- Slide Indicators -->
-              <div class="slide-indicators">
-                <span class="indicator active"></span>
-                <span class="indicator"></span>
-                <span class="indicator"></span>
-              </div>
+        <div class="news-card__image">
+          <!-- Image Slider Container -->
+          <div class="image-slider">
+            <!-- Slide Images -->
+            <div class="slide active">
+              <img src="{{ site.baseurl }}/images/homepage/news-eu-horizontal-project2.png" alt="동아대학교, EU ‘호라이즌 유럽’ 국제 공동연구 과제 선정">
+            </div>
+            <div class="slide">
+              <img src="{{ site.baseurl }}/images/homepage/news-eu-horizontal-project1.jpg" alt="동아대학교, EU ‘호라이즌 유럽’ 국제 공동연구 과제 선정">
             </div>
             
-          </div>
-          <div class="news-card__content">
-            <div class="news-card__meta">
-              <span class="news-card__tag">📰 NEWS</span>
-              <span class="news-card__date">2025.08.20</span>
+            <!-- Navigation Indicators -->
+            <div class="slide-indicators">
+              <span class="indicator active"></span>
+              <span class="indicator"></span>
+              <span class="indicator"></span>
             </div>
-            <h3 class="news-card__title">
-              동아대-부산시, ‘2025 SW 지산학 썸머 페스티벌’ 개최
-            </h3>
-            <a href="https://dhnews.co.kr/news/view/1065580942685568">Link</a>
-            <p class="news-card__excerpt">
-              동아대학교 소프트웨어혁신센터는 부산광역시와 함께, 과기정통부 및 정보통신기획평가원이 지원하는 ‘SW 중심대학 사업’의 일환으로 2025 SW 지산학 썸머 페스티벌을 8월 20일부터 22일까지 BEXCO 컨벤션홀에서 개최했다. 이 행사에는 전국 대학생 대상 소프트웨어 성과 공유 포럼, 의료 AI·SW 융합 해커톤 ‘CODE MEDI’, 중등 교사 대상 AI·SW 연수 프로그램, 지자체 협력형 스마트시티·디지털트윈 전문가 교육 등 4개 핵심 프로그램이 포함됐다. 
-            </p>
           </div>
         </div>
+        <div class="news-card__content">
+          <div class="news-card__meta">
+            <span class="news-card__tag">📰 NEWS</span>
+            <span class="news-card__date">2026.02.02</span>
+          </div>
+          <h3 class="news-card__title">
+            동아대학교, EU ‘호라이즌 유럽’ 국제 공동연구 과제 선정
+          </h3>
+          <!-- Action Buttons -->
+          <div class="news-card__actions">
+            <a href="https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20250819.99099005309" class="news-btn news-btn--link" target="_blank" rel="noopener noreferrer">
+              <span class="news-btn__icon">🔗</span>
+              <span>Read Article</span>
+            </a>
+            <a href="https://www.youtube.com/watch?v=OWsWes_IXCM" class="news-btn news-btn--video" target="_blank" rel="noopener noreferrer">
+              <span class="news-btn__icon">▶️</span>
+              <span>Watch Video</span>
+            </a>
+          </div>
+          <p class="news-card__excerpt">
+            동아대학교 AI·디지털트윈·SW 실증센터가 유럽연합(EU)의 최대 연구혁신 프로그램인 ‘호라이즌 유럽(Horizon Europe)’ 국제 공동연구 과제에 선정되며, 국내 대학으로서는 드물게 다자간 국제 연구 프로젝트를 주도하는 성과를 거두었다.
+
+동아대학교는 ‘에너지빌더(EnergyBuilder)’ 프로젝트의 국내 주관 기관으로서, 건물의 설계 및 운영 단계에서 에너지 효율을 극대화하는 디지털 트윈 기반 에너지 최적화 플랫폼을 개발할 예정이다. 본 과제는 EU의 친환경 에너지 전환 전략의 일환으로, 인공지능과 디지털 트윈, 가상발전소 기술을 활용해 건물을 에너지를 생산·저장·거래하는 ‘프로슈머’로 전환하는 것을 목표로 한다.
+
+향후 부산 에코델타 스마트빌리지를 비롯한 유럽 내 리빙랩에서 실증이 진행되며, 이를 통해 동아대학교의 기술력과 국제 연구 경쟁력이 한층 강화될 것으로 기대된다.
+          </p>
+        </div>
+      </div> 
+
+
+      <!-- News Card #5: SW Summer Festival -->
+      <!-- Features multi-image slider with 3 photos -->
+      <div class="news-card">
+        <div class="news-card__image">
+          <!-- Image Slider Container -->
+          <div class="image-slider">
+            <!-- Slide Images -->
+            <div class="slide active">
+              <img src="{{ site.baseurl }}/images/homepage/SBS_8544 복사.jpg" alt="2025 SW 지산학 썸머 페스티벌">
+            </div>
+            <div class="slide">
+              <img src="{{ site.baseurl }}/images/homepage/SBS_8515 복사.jpg" alt="2025 SW 지산학 썸머 페스티벌">
+            </div>
+            <div class="slide">
+              <img src="{{ site.baseurl }}/images/homepage/SBS_8521 복사.jpg" alt="2025 SW 지산학 썸머 페스티벌">
+            </div>
+            
+            <!-- Navigation Indicators -->
+            <div class="slide-indicators">
+              <span class="indicator active"></span>
+              <span class="indicator"></span>
+              <span class="indicator"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card Content -->
+        <div class="news-card__content">
+          <div class="news-card__meta">
+            <span class="news-card__tag">📰 NEWS</span>
+            <span class="news-card__date">2025.08.20</span>
+          </div>
+          <h3 class="news-card__title">
+            동아대-부산시, ‘2025 SW 지산학 썸머 페스티벌’ 개최
+          </h3>
+          <!-- Action Buttons -->
+          <div class="news-card__actions">
+            <a href="https://dhnews.co.kr/news/view/1065580942685568" class="news-btn news-btn--link" target="_blank" rel="noopener noreferrer">
+              <span class="news-btn__icon">🔗</span>
+              <span>Read Article</span>
+            </a>
+          </div>
+          <p class="news-card__excerpt">
+            동아대학교 소프트웨어혁신센터는 부산광역시와 함께, 과기정통부 및 정보통신기획평가원이 지원하는 ‘SW 중심대학 사업’의 일환으로 2025 SW 지산학 썸머 페스티벌을 8월 20일부터 22일까지 BEXCO 컨벤션홀에서 개최했다. 이 행사에는 전국 대학생 대상 소프트웨어 성과 공유 포럼, 의료 AI·SW 융합 해커톤 ‘CODE MEDI’, 중등 교사 대상 AI·SW 연수 프로그램, 지자체 협력형 스마트시티·디지털트윈 전문가 교육 등 4개 핵심 프로그램이 포함됐다. 
+          </p>
+        </div>
+      </div>
+
+      <!-- News Card #4: Best Paper Award -->
+      <div class="news-card">
+        <div class="news-card__image">
+          <img src="{{ site.baseurl }}/images/homepage/mita2025-best-paper-award.jpg" alt="MITA 2025 Best Paper Award">
+        </div>
+        <div class="news-card__content">
+          <div class="news-card__meta">
+            <span class="news-card__tag">🏆 AWARD</span>
+            <span class="news-card__date">2025.07.23</span>
+          </div>
+          <h3 class="news-card__title">
+            MITA 2025 - Best Student Paper Award
+          </h3>
+          <p class="news-card__excerpt">
+            Researcher Jo Young-Hoon won the Best Student Paper Award at the 2025 MITA conference for his outstanding research on Point Cloud Preprocessing 3D Gaussian Splatting Initialization Method. His work was recognized for its innovative approach and significant contributions to the field.
+          </p>
+        </div>
+      </div>
+
+      <!-- News Card #3: Smart City Forum -->
+      <!-- Features multi-image slider with 2 photos -->
       <div class="news-card">
           <div class="news-card__image">
-            <img src="{{ site.baseurl }}/images/homepage/mita2025-best-paper-award.jpg" alt="MITA 2025 Best Paper Award">
-          </div>
-          <div class="news-card__content">
-            <div class="news-card__meta">
-              <span class="news-card__tag">🏆 AWARD</span>
-              <span class="news-card__date">2025.07.23</span>
-            </div>
-            <h3 class="news-card__title">
-              MITA 2025 - Best Student Paper Award
-            </h3>
-            <p class="news-card__excerpt">
-              Researcher Jo Young-Hoon won the Best Student Paper Award at the 2025 MITA conference for his outstanding research on Point Cloud Preprocessing 3D Gaussian Splatting Initialization Method. His work was recognized for its innovative approach and significant contributions to the field.
-            </p>
-          </div>
-        </div>
-        <!-- Sample News Cards -->
-        <div class="news-card">
-          <div class="news-card__image">
+            <!-- Image Slider Container -->
             <div class="image-slider">
-              <!-- Slides -->
+              <!-- Slide Images -->
               <div class="slide active">
                 <img src="{{ site.baseurl }}/images/homepage/news-smartcitylab-demoday.jpg" alt="Lab Research Group">
               </div>
@@ -81,15 +158,16 @@
                 <img src="{{ site.baseurl }}/images/homepage/news-smartcitylab-demoday2.jpg" alt="Lab Research Group">
               </div>
               
-              <!-- Slide Indicators -->
+              <!-- Navigation Indicators -->
               <div class="slide-indicators">
                 <span class="indicator active"></span>
                 <span class="indicator"></span>
                 <span class="indicator"></span>
               </div>
             </div>
-            
           </div>
+          
+          <!-- Card Content -->
           <div class="news-card__content">
             <div class="news-card__meta">
               <span class="news-card__tag">📰 NEWS</span>
@@ -103,6 +181,9 @@
             </p>
           </div>
         </div>
+
+        <!-- News Card #2: Digital Columbus Project -->
+        <!-- Features multi-image slider with 2 photos -->
         <div class="news-card">
           <div class="news-card__image">
             <img src="{{ site.baseurl }}/images/homepage/news-digital-columbus-project.jpg" alt="Digital Comlumbus Project">
@@ -115,13 +196,22 @@
             <h3 class="news-card__title">
               동아대, 과기정통부 ‘디지털 콜럼버스 프로젝트’ 선정
             </h3>
-            <a href="https://www.donga.ac.kr/kor/CMS/Board/Board.do?mCode=MN044&mode=view&mgr_seq=54&board_seq=8394371">Link</a>
+            <!-- Action Buttons -->
+            <div class="news-card__actions">
+              <a href="https://www.donga.ac.kr/kor/CMS/Board/Board.do?mCode=MN044&mode=view&mgr_seq=54&board_seq=8394371" class="news-btn news-btn--link" target="_blank" rel="noopener noreferrer">
+                <span class="news-btn__icon">🔗</span>
+                <span>Read Article</span>
+              </a>
+            </div>
             <p class="news-card__excerpt">
               동아대학교가 과학기술정보통신부 주관 ‘디지털 콜럼버스 프로젝트’ 재난안전 분야에 선정되어, 오는 2032년까지 8년간 약 34억 원의 연구비를 지원받아 AI·디지털트윈 기반의 복합재난 예측 및 예방 기술을 개발합니다.
-옥수열 교수의 인솔 아래 AI·디지털트윈·SW실증센터와 ESG지역혁신연구소는 스마트시티, 산업단지, 해안복합도시 등 다양한 환경에 적용할 수 있는 자율·실시간 복합재난 대응 플랫폼을 구축해, 국내외 재난안전 관리의 글로벌 리더로 도약하고자 합니다
+옥수열 교수의 인솔 아래 AI·디지털트윈·SW실증센터와 ESG지역혁신연구소는 스마트시티, 산업단지, 해안복합도시 등 다양한 환경에 적용할 수 있는 자율·실시간 복합재난 대응 플랫폼을 구축해, 국내외 재난안전 관리의 글로벌 리더로 도약하고자 합니다.
             </p>
           </div>
         </div>
+        
+        <!-- News Card #1: Graduation -->
+        <!-- Features multi-image slider with 2 photos -->
         <div class="news-card">
           <div class="news-card__image">
             <img src="{{ site.baseurl }}/images/homepage/news-MrKhanh-MrGu-graduation.jpg" alt="Mr. Khanh and Mr. Gu Graduation">
@@ -139,14 +229,24 @@
             </p>
           </div>
         </div>
-    </div>
-  </div>
-</section>
 
+    </div> <!-- End: news-grid -->
+  </div> <!-- End: container -->
+</section> <!-- End: homepage-news -->
+
+<!-- ============================================ -->
+<!-- JAVASCRIPT: News Ticker Functionality -->
+<!-- Auto-scrolling vertical news ticker -->
+<!-- ============================================ -->
 <script>
-// Simple Vertical Auto-Scrolling News Ticker
+// =====================================
+// NEWS TICKER INITIALIZATION
+// Handles vertical auto-scrolling of news events
+// =====================================
 document.addEventListener('DOMContentLoaded', function() {
-  // News events data
+  
+  // ===== News Events Data =====
+  // Array of lab news/events for ticker display
   const newsEvents = [
     { date: '2025.07.23', text: '🏆 AWARD Researcher Jo Young-Hoon won the Best Student Paper Award at MITA 2025' },
     { date: '2025.07.15', text: '🏙️ CONFERENCE Smart City - AI Convergence Strategy Forum participation' },
@@ -157,12 +257,16 @@ document.addEventListener('DOMContentLoaded', function() {
     { date: '2022.04.01', text: '🎯 PROJECT Digital Twin Testbed Platform (Digital Twin City Lab Project) by MSIT' }
   ];
 
+  // ===== Ticker State Variables =====
   const ticker = document.getElementById('newsEventsList');
-  let currentIndex = 0;
-  let isAnimating = false;
-  let tickerInterval;
+  let currentIndex = 0;      // Current displayed event index
+  let isAnimating = false;   // Animation lock flag
+  let tickerInterval;        // Auto-scroll interval reference
 
-  // Create news item element
+  // ===== Function: Create News Item Element =====
+  // Generates a DOM element for a news event
+  // @param {Object} event - News event with date and text
+  // @return {HTMLElement} - Formatted news ticker item
   function createNewsItem(event) {
     const item = document.createElement('div');
     item.className = 'news-ticker-item';
@@ -173,23 +277,28 @@ document.addEventListener('DOMContentLoaded', function() {
     return item;
   }
 
-  // Initialize ticker with first item
+  // ===== Function: Initialize Ticker =====
+  // Sets up the ticker with the first news item
   function initTicker() {
     ticker.innerHTML = '';
     const firstItem = createNewsItem(newsEvents[currentIndex]);
     ticker.appendChild(firstItem);
   }
 
-  // Smooth vertical slide to next item
+  // ===== Function: Slide To Next Item =====
+  // Animates transition from current to next news item
+  // Uses vertical slide animation with fade effect
   function slideToNext() {
+    // Prevent overlapping animations
     if (isAnimating) return;
     isAnimating = true;
 
+    // Get current and next items
     const currentItem = ticker.querySelector('.news-ticker-item');
     const nextIndex = (currentIndex + 1) % newsEvents.length;
     const nextItem = createNewsItem(newsEvents[nextIndex]);
 
-    // Position next item below the container
+    // Position next item below the viewport
     nextItem.style.transform = 'translateY(100%)';
     nextItem.style.opacity = '1';
     ticker.appendChild(nextItem);
@@ -214,21 +323,24 @@ document.addEventListener('DOMContentLoaded', function() {
     currentIndex = nextIndex;
   }
 
-  // Start ticker
+  // ===== Function: Start Auto-Scroll =====
+  // Begins automatic ticker rotation (3s interval)
   function startTicker() {
     tickerInterval = setInterval(slideToNext, 3000);
   }
 
-  // Stop ticker
+  // ===== Function: Stop Auto-Scroll =====
+  // Pauses automatic ticker rotation
   function stopTicker() {
     clearInterval(tickerInterval);
   }
 
-  // Initialize
+  // ===== Initialization & Event Listeners =====
+  // Start ticker and set up hover controls
   initTicker();
   startTicker();
 
-  // Pause on hover
+  // Pause ticker when user hovers (for reading)
   ticker.addEventListener('mouseenter', stopTicker);
   ticker.addEventListener('mouseleave', startTicker);
 });

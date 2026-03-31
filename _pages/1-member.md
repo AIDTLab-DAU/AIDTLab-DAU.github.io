@@ -153,7 +153,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pdlam2.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pdlam2.png"/></td>  
 		<td>
 			<ul>
 				<li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
@@ -339,40 +339,6 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
   <div style="width: 48%;">
     <!-- Column 2: Students 7-11 -->
 
-	<a href="/member/lja">
-		<b>Ji-An Lee (이지안)</b> 
-	</a>
-    <table border="0">  
-      <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-An Lee.jpg"/></td>  
-        <td>
-          <ul>
-            <li>Research Field: Autonomous Driving, Emergency Medical Services, and Mntal Health.</li>
-            <!-- <li><a href="mailto:2344025@donga.ac.kr">
-      <img alt="Static Badge" src="https://img.shields.io/badge/2344025@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li> -->
-          </ul>
-        </td>
-      </tr>
-    </table>
-
-	<a href="/member/kbr">
-		<b>Bo-Ryeon Kim (김보련)</b> 
-	</a>
-    <table border="0">  
-      <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Bo-Ryeon Kim.jpg"/></td>  
-        <td>
-          <ul>
-            <li>Research Field: AI-based System Development</li>
-            <!-- <li><a href="mailto:kimnbr0422@gmail.com">
-      <img alt="Static Badge" src="https://img.shields.io/badge/kimnbr0422@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li> -->
-          </ul>
-        </td>
-      </tr>
-    </table>
-
 	<a href="/member/kar">
 		<b>Ah-Reum Kim (김아름)</b> 
 	</a>
@@ -399,6 +365,23 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: Agentic AI</li>
+            <!-- <li><a href="mailto:hjkim_kr@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li> -->
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+	<a href="/member/kyj">
+		<b>Ye-Jun Kim (김예준)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ye-Jun Kim.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Digital Twin Agentic AI</li>
             <!-- <li><a href="mailto:hjkim_kr@naver.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
     </a></li> -->
@@ -513,6 +496,39 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table> -->
 
+<!-- <a href="/member/lja">
+		<b>Ji-An Lee (이지안)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-An Lee.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Autonomous Driving, Emergency Medical Services, and Mntal Health.</li>
+            <li><a href="mailto:2344025@donga.ac.kr">
+      <img alt="Static Badge" src="https://img.shields.io/badge/2344025@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+<a href="/member/kbr">
+	<b>Bo-Ryeon Kim (김보련)</b> 
+</a>
+<table border="0">  
+	<tr valign="top">
+	<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Bo-Ryeon Kim.jpg"/></td>  
+	<td>
+		<ul>
+		<li>Research Field: AI-based System Development</li>
+		<li><a href="mailto:kimnbr0422@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/kimnbr0422@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+		</ul>
+	</td>
+	</tr>
+</table> -->
 ## Officer
 
 ###### Ms. Kim

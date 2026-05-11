@@ -31,6 +31,14 @@ toc: true
 
 # Conference Proceedings
 
+* LYU, HAOXIN, Suk-Hwan Lee, and Soo-Yol Ok."Improving Skeleton-based Action Recognition via Semantic Disentanglement and Feature Compensation." 2026년도 한국멀티미디어학회 학술발표대회 논문집 제29권 1호, 대전, 한국, 2026 - Online Presentation
+
+* Lam, Phuoc-Dat, Soo-Yol Ok, and Suk-Hwan Lee. "Hybrid Retrieval-Augmented Multi-Agent Framework for Semantic and Spatial Reasoning in CityGML-based Digital Twins." 2026년도 한국멀티미디어학회 학술발표대회 논문집 제29권 1호, 대전, 한국, 2026 - Online Presentation
+
+* Gu, Bon-Hyeon, Hoang-Khanh Lam, Tae-Kook Kim, Soo-Yol Ok, and Suk-Hwan Lee. “Observation-Metadata-Centric Digital Twin Ontology for Heterogeneous MultiSensor Data in Smart Cities.” IEEE Internet of Things Journal 13, no. 9 (2026): 18893-18908. https://doi.org/10.1109/JIOT.2026.3661277
+
+* Jo, Young-Hoon, Suk-Hwan Lee, and Soo-Yol Ok. “CityGML-Based 3D Scene Graph Representation for Smart Cities” The 2025 International Symposium on Nonlinear Theory and Its Applications (NOLTA2025), Okinawa, Japan, 2025 - Oral Presentation
+
 * Jo, Young-Hoon, Ji-Hwan Bae, Suk-Hwan Lee, and Soo-Yol Ok. "Point Cloud Preprocessing 3D Gaussian Splatting Initialization Method." The 21th International Conference on Multimedia Information Technology and Applications(MITA2025), Jeju Island, South Korea, 2025 - Oral Presentation
 
 * Kim, Jeong-Sik, Jong-Woo Sung, Hyoen-Jun Bae, and Suk-Hwan Lee. "Latent Perturbation and Text-to-Audio Synthesis for Metadata-Free Anomalous Sound Detection." The 21th International Conference on Multimedia Information Technology and Applications(MITA2025), Jeju Island, South Korea, 2025 - Oral Presentation

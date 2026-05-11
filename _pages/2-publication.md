@@ -9,6 +9,8 @@ toc: true
 
 # International Journal
 
+* Gu, Bon-Hyeon, Hoang-Khanh Lam, Tae-Kook Kim, Soo-Yol Ok, and Suk-Hwan Lee. “Observation-Metadata-Centric Digital Twin Ontology for Heterogeneous MultiSensor Data in Smart Cities.” IEEE Internet of Things Journal 13, no. 9 (2026): 18893-18908. [https://doi.org/10.1109/JIOT.2026.3661277](https://doi.org/10.1109/JIOT.2026.3661277)
+
 * Lam, Hoang-Khanh, Phuoc-Dat Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City Visualization with MoE-Based Personal Thermal Comfort Analysis." Sensors 25, no. 3 (2025): 705. [https://doi.org/10.3390/s25030705](https://doi.org/10.3390/s25030705)
 
 * Lam, Phuoc-Dat, Bon-Hyeon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." Sensors 24, no. 12 (2024): 3761. [https://doi.org/10.3390/s24123761](https://doi.org/10.3390/s24123761)
@@ -34,8 +36,6 @@ toc: true
 * LYU, HAOXIN, Suk-Hwan Lee, and Soo-Yol Ok."Improving Skeleton-based Action Recognition via Semantic Disentanglement and Feature Compensation." 2026년도 한국멀티미디어학회 학술발표대회 논문집 제29권 1호, 대전, 한국, 2026 - Online Presentation
 
 * Lam, Phuoc-Dat, Soo-Yol Ok, and Suk-Hwan Lee. "Hybrid Retrieval-Augmented Multi-Agent Framework for Semantic and Spatial Reasoning in CityGML-based Digital Twins." 2026년도 한국멀티미디어학회 학술발표대회 논문집 제29권 1호, 대전, 한국, 2026 - Online Presentation
-
-* Gu, Bon-Hyeon, Hoang-Khanh Lam, Tae-Kook Kim, Soo-Yol Ok, and Suk-Hwan Lee. “Observation-Metadata-Centric Digital Twin Ontology for Heterogeneous MultiSensor Data in Smart Cities.” IEEE Internet of Things Journal 13, no. 9 (2026): 18893-18908. https://doi.org/10.1109/JIOT.2026.3661277
 
 * Jo, Young-Hoon, Suk-Hwan Lee, and Soo-Yol Ok. “CityGML-Based 3D Scene Graph Representation for Smart Cities” The 2025 International Symposium on Nonlinear Theory and Its Applications (NOLTA2025), Okinawa, Japan, 2025 - Oral Presentation
 

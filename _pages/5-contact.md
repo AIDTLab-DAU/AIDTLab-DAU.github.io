@@ -18,13 +18,13 @@ description: Contact and recruitment information for the AI Digital Twin Lab, Do
   <tr>
      <td>
 			<ul>
-				<li> S06-620, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
+				<li> S06-614, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
 				<li><a href="mailto:sooyol@dau.ac.kr">sooyol@dau.ac.kr</a></li>
 			</ul>
 		</td>
     <td>
 			<ul>
-				<li> S06-614, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
+				<li> S06-620, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan, Korea</li>
 				<li><a href="mailto:skylee@dau.ac.kr">skylee@dau.ac.kr</a></li>
 			</ul>
 		</td>

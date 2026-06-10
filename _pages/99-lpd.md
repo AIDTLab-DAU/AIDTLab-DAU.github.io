@@ -29,6 +29,7 @@ toc: true
 
 # Awards & Grants
  
+* May 2026: Best Paper Award, The 2026 Korea Multimedia Society Spring Academic Conference (KMMS), Deajeon, Korea
 * May 2023: Best Paper Award, The 2023 Korea Multimedia Society Spring Academic Conference (KMMS), Suncheon, Korea
 
 ***
@@ -57,6 +58,10 @@ toc: true
 # Projects
  
 ## Participant
+
+* 2025~Present: Horizon Europe Partnership Programme, Ministry of Land, Infrastructure and Transport
+    - Passed the first pre-proposal stage and currently under the second-stage review.  
+    - Digital twin-based building lifecycle research under the CETPartnership with SDU(Denmark), ISEP(Portugal), POLITO(Italy), Dong-A University(Korea), and K-Water(Korea).
 * 2025~Present: Project of "Digital Columbus - Complex Disaster Management System - JAVIS(Joint Autonomous Resilience Virtual Intelligent System)" supported by the Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT)
 * 2022~2025: Project of "Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea
 

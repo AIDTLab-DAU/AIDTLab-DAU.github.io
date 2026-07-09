@@ -334,28 +334,6 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-  </div>
-  
-  <div style="width: 48%;">
-    <!-- Column 2: Students 7-11 -->
-
-	<a href="/member/kar">
-		<b>Ah-Reum Kim (김아름)</b> 
-	</a>
-    <table border="0">  
-      <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ah-Reum Kim.jpg"/></td>  
-        <td>
-          <ul>
-            <li>Research Field: Large Language Models</li>
-            <!-- <li><a href="mailto:2444277@donga.ac.kr">
-      <img alt="Static Badge" src="https://img.shields.io/badge/2444277@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li> -->
-          </ul>
-        </td>
-      </tr>
-    </table>
-
 	<a href="/member/hjk">
 		<b>Hae-Jin Kim (김해진)</b> 
 	</a>
@@ -372,6 +350,11 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         </td>
       </tr>
     </table>
+
+  </div>
+  
+  <div style="width: 48%;">
+    <!-- Column 2: Students 7-11 -->
 
 	<a href="/member/kyj">
 		<b>Ye-Jun Kim (김예준)</b> 
@@ -390,8 +373,93 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
+	<a href="/member/PageNotFound">
+		<b>Cheol-Ho Kim (김철호)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Cheol-Ho Kim.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: World Models</li>
+            <!-- <li><a href="mailto:hjkim_kr@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li> -->
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+	<a href="/member/PageNotFound">
+		<b>Min-Seo Kim (김민서)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Min-Seo Kim.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: World Models</li>
+            <!-- <li><a href="mailto:hjkim_kr@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li> -->
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+	<a href="/member/PageNotFound">
+		<b>Hyeon-Oh Jo (조현오)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Hyeon-Oh Jo.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: ESG RAG</li>
+            <!-- <li><a href="mailto:hjkim_kr@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li> -->
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+	<a href="/member/PageNotFound">
+		<b>Yun-Chan Jeong (정윤찬)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Yun-Chan Jeong.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: World Models</li>
+            <!-- <li><a href="mailto:hjkim_kr@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li> -->
+          </ul>
+        </td>
+      </tr>
+    </table>
+
   </div>
 </div>
+
+<!-- <a href="/member/kar">
+		<b>Ah-Reum Kim (김아름)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ah-Reum Kim.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Large Language Models</li>
+            <li><a href="mailto:2444277@donga.ac.kr">
+      <img alt="Static Badge" src="https://img.shields.io/badge/2444277@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li>
+          </ul>
+        </td>
+      </tr>
+    </table> -->
 
 <!-- ###### [Ji-Heon Kim (김지헌)](/member/PageNotFound)
 
@@ -407,8 +475,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 			</ul>
 		</td>
 	</tr>
-</table>
- -->
+</table> -->
 
 
 <!-- <a href="/member/ycy">

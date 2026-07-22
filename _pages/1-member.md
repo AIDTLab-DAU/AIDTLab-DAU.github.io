@@ -266,7 +266,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
   <div style="width: 48%;">
     <!-- Column 1: Students 1-6 -->
 	
-	<a href="/member/ljh">
+	<a href="/member/PageNotFound">
 		<b>Jong-Hyun Lee (이종현)</b> 
 	</a>
     <table border="0">  
@@ -283,7 +283,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/bjw">
+	<a href="/member/PageNotFound">
 	<b>Ji-Hwan Bae (배지환)</b> 
 	</a>
 	<table border="0">  
@@ -300,7 +300,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		</tr>
 	</table>
 
-	<a href="/member/ljhoon">
+	<a href="/member/PageNotFound">
 		<b>Ji-Hoon Lee (이지훈)</b> 
 	</a>
     <table border="0">  
@@ -317,7 +317,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/jhseol">
+	<a href="/member/PageNotFound">
 		<b>Jae-Hyeon Seol (설재현)</b> 
 	</a>
     <table border="0">  
@@ -334,7 +334,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/hjk">
+	<a href="/member/PageNotFound">
 		<b>Hae-Jin Kim (김해진)</b> 
 	</a>
     <table border="0">  
@@ -351,12 +351,29 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
+	<a href="/member/PageNotFound">
+		<b>Jun-Kyung Kim (김준경)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Jun-Kyung Kim.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Embedded System</li>
+            <!-- <li><a href="mailto:hjkim_kr@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li> -->
+          </ul>
+        </td>
+      </tr>
+    </table>
+
   </div>
   
   <div style="width: 48%;">
     <!-- Column 2: Students 7-11 -->
 
-	<a href="/member/kyj">
+	<a href="/member/PageNotFound">
 		<b>Ye-Jun Kim (김예준)</b> 
 	</a>
     <table border="0">  

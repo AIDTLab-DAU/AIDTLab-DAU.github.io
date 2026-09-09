@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Soo-yol Ok, Professor"
-permalink: /member/soyolok
+permalink: /member/professors/sooyolok
 image: 
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hyeon-Cheol Kim, Ph.D"
-permalink: /member/khc
+permalink: /member/phd/khc
 image: 
 description: "Curriculum vitae of Hyeon-Cheol Kim"
 toc: true

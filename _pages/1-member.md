@@ -11,7 +11,7 @@ toc: true
 
 # Supervisors
 
-### [Soo-Yol Ok](/member/sooyolok)
+### [Soo-Yol Ok](/member/professors/sooyolok)
 
 <img align="left" src="../images/syok1.png" style="width : 180px; height : 240px; margin : 10px">
 
@@ -43,7 +43,7 @@ He is currently working as a full professor in the Department of Computer Engine
 
 <br>
 
-### [Suk-Hwan Lee](/member/sukhwanlee)
+### [Suk-Hwan Lee](/member/professors/sukhwanlee)
 
 <img align="left" src="../images/shlee2.png" style="width : 180px; height : 240px; margin : 10px">
 
@@ -81,7 +81,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 ### Ph.D
 
-###### [Hyeon-Cheol Kim](/member/khc) (Mar 2020 -- Present)
+###### [Hyeon-Cheol Kim](/member/phd/khc) (Mar 2020 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -105,7 +105,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Sang-Hun Lee](/member/lsh) (Mar 2021 -- Present)
+###### [Sang-Hun Lee](/member/phd/lsh) (Mar 2021 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -127,7 +127,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </table>
 
 
-###### [Bon-Hyeon Gu](/member/gbh) (Sep 2022 -- Present)
+###### [Bon-Hyeon Gu](/member/phd/gbh) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -149,7 +149,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Phuoc-Dat Lam](/member/lpd) (Feb 2022 -- Present)
+###### [Phuoc-Dat Lam](/member/phd/lpd) (Feb 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -171,7 +171,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Hao-Xin Lyu](/member/lhx) (Sep 2024 -- Present)
+###### [Hao-Xin Lyu](/member/phd/lhx) (Sep 2024 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -193,7 +193,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Young-Hoon Jo](/member/jyh) (Mar 2023 -- Present)
+###### [Young-Hoon Jo](/member/phd/jyh) (Mar 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -203,7 +203,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li> Sep 2026 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Sep 2024 - Aug 2026: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Feb 2021 - Aug 2024: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Research Field: NeRF, 3D Reconstruction</li>
+				<li> Research Field: Semantic-Spatial Scene Graph, Scene Understanding, Digital Twin</li>
 				<li><a href="https://github.com/JOyagdol">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
@@ -217,7 +217,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 ### Master
 
-###### [Xing-Yi Tao](/member/txy) (Sep 2024 -- Present)
+###### [Xing-Yi Tao](/member/master/txy) (Sep 2024 -- Present)
 
 <table border="0">  
 	<tr valign="top">

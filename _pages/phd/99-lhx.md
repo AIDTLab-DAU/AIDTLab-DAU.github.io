@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LYU HAOXIN, Ph.D"
-permalink: /member/lhx
+permalink: /member/phd/lhx
 image: 
 toc: true
 ---

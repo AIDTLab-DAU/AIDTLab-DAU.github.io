@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Suk-Hwan Lee, Professor"
-permalink: /member/sukhwanlee
+permalink: /member/professors/sukhwanlee
 image: 
 toc: true
 ---

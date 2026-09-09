@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sang-Hoon Lee, Ph.D"
-permalink: /member/lsh
+permalink: /member/phd/lsh
 image: 
 toc: true
 ---

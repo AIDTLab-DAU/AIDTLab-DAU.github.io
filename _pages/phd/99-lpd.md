@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Phuoc-Dat Lam, Ph.D"
-permalink: /member/lpd
+permalink: /member/phd/lpd
 image: 
 description: "Curriculum vitae of Phuoc-Dat Lam"
 toc: true

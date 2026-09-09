@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bon-Hyeon Gu, Ph.D"
-permalink: /member/gbh
+permalink: /member/phd/gbh
 image: 
 description: "Curriculum vitae of Bon-Hyeon Gu"
 toc: true

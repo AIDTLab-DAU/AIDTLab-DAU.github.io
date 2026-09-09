@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Young-Hoon Jo, M.S"
-permalink: /member/jyh
+title: "Young-Hoon Jo, Ph.D"
+permalink: /member/phd/jyh
 image: 
 toc: true
 ---

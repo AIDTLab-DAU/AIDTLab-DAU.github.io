@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Xing-Yi Tao, M.S"
-permalink: /member/txy
+permalink: /member/master/txy
 image: 
 toc: true
 ---

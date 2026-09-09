@@ -193,8 +193,6 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-### Master
-
 ###### [Young-Hoon Jo](/member/jyh) (Mar 2023 -- Present)
 
 <table border="0">  
@@ -202,7 +200,8 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td width="120"><img align="left" width="100px" margin="10px" src="../images/yhjo1.png"/></td>  
 		<td>
 			<ul>
-				<li> Sep 2024 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Sep 2026 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+				<li> Sep 2024 - Aug 2026: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Feb 2021 - Aug 2024: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
 				<li> Research Field: NeRF, 3D Reconstruction</li>
 				<li><a href="https://github.com/JOyagdol">
@@ -215,6 +214,8 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		</td>
 	</tr>
 </table>
+
+### Master
 
 ###### [Xing-Yi Tao](/member/txy) (Sep 2024 -- Present)
 

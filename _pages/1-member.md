@@ -163,9 +163,9 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<li><a href="https://github.com/Phuocdat10">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<!-- <li><a href="mailto:datlam10006@gmail.com">
+				<li><a href="mailto:datlam10006@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/datlam10006@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a></li> -->
+</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -232,6 +232,27 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 				<!-- <li><a href="mailto: xingyitao62@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/ xingyitao62@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li> -->
+			</ul>
+		</td>
+	</tr>
+</table>
+
+###### [Phuc-Lam Lee](/member/master/lpl) (Sep 2026 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/lpl2.jpg"/></td>  
+		<td>
+			<ul>
+				<li> Sep 2026 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
+				<li> Aug 2021 - Feb 2026: Hanoi university of science and technology, Hanoi, VietNam <br> Bachelor, Major in Information Technology </li>
+				<li> Research Field: 3D information based on World Models, Computer Vison, Digital Twin</li>
+				<li><a href="https://github.com/phuclamlee">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+</a></li>
+				<li><a href="mailto: lephuclam08@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/lephuclam08@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
 			</ul>
 		</td>
 	</tr>

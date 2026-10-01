@@ -258,6 +258,27 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
+###### [Tien-Hieu Pham](/member/master/thp) (Sep 2026 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pth.jpg"/></td>  
+		<td>
+			<ul>
+				<li> Sep 2026 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
+				<li> Sep 2020 - Jun 2024: Hanoi university of science and technology, Hanoi, VietNam <br> Bachelor, Major in Information Technology </li>
+				<li> Research Field: 3D Visualization, Computer Vison, Digital Twin</li>
+				<li><a href="https://github.com/phamhieutn44">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+</a></li>
+				<li><a href="mailto: phamhieutn44@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/phamhieutn44@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
 <!-- ###### [Chang-Hun Park](/member/pch) (Feb 2025 -- Present)
 
 <table border="0">  

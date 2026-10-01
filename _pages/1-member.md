@@ -237,7 +237,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 	</tr>
 </table>
 
-###### [Phuc-Lam Lee](/member/master/lpl) (Sep 2026 -- Present)
+###### [Phuc-Lam Le](/member/master/lpl) (Sep 2026 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -472,6 +472,23 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
         <td>
           <ul>
             <li>Research Field: World Models</li>
+            <!-- <li><a href="mailto:hjkim_kr@naver.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+    </a></li> -->
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+	<a href="/member/PageNotFound">
+		<b>Na-young Kim (김나영)</b> 
+	</a>
+    <table border="0">  
+      <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Na-Young Kim.jpg"/></td>  
+        <td>
+          <ul>
+            <li>Research Field: Model Context Protocol</li>
             <!-- <li><a href="mailto:hjkim_kr@naver.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/hjkim_kr@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
     </a></li> -->

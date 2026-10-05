@@ -266,8 +266,7 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 		<td>
 			<ul>
 				<li> Sep 2026 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
-				<li> Sep 2020 - Jun 2024: Hanoi university of science and technology, Hanoi, VietNam <br> Bachelor, Major in Information Technology </li>
-				<li> Research Field: 3D Visualization, Computer Vison, Digital Twin</li>
+				<li> Sep 2020 - Jun 2024: B.S, Artificial Intelligence, FPT University, Hanoi, Vietnam</li>
 				<li><a href="https://github.com/phamhieutn44">
 	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>

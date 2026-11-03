@@ -7,9 +7,9 @@ description: Members, alumni and collaborators of the AI Digital Twin Lab, Dong-
 toc: true
 ---
 
-***
+---
 
-# Supervisors
+## Supervisors
 
 ### [Soo-Yol Ok](/member/professors/sooyolok)
 
@@ -23,23 +23,23 @@ He is currently working as a full professor in the Department of Computer Engine
 
 <br>
 
-##### Research Experience
+#### Research Experience
 
-* 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
-* 2004 - 2019: An Assistant, Associate, and Full Professor, Dept. of Game Engineering, Junior College of Information and Communication, Tongmyong University, Busan, South Korea
+- 2019 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
+- 2004 - 2019: An Assistant, Associate, and Full Professor, Dept. of Game Engineering, Junior College of Information and Communication, Tongmyong University, Busan, South Korea
 
-##### Education
+#### Education
 
-* 2001: Ph.D, Institute of Information Sciences and Electronics, Tsukuba University, Japan
-* 1998: M.S, Institute of Information Sciences and Electronics, Tsukuba University, Japan
-* 1994: B.S, Industrial Engineering, Dong-A University, Busan, South Korea
+- 2001: Ph.D, Institute of Information Sciences and Electronics, Tsukuba University, Japan
+- 1998: M.S, Institute of Information Sciences and Electronics, Tsukuba University, Japan
+- 1994: B.S, Industrial Engineering, Dong-A University, Busan, South Korea
 
-##### Contact
+#### Contact
 
-* <a href="mailto:sooyol@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/sooyol%40dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a>
-* Phone: +82
+- <a href="mailto:sooyol@dau.ac.kr">
+    <img alt="Static Badge" src="https://img.shields.io/badge/sooyol%40dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+  </a>
+- Phone: +82
 
 <br>
 
@@ -48,7 +48,7 @@ He is currently working as a full professor in the Department of Computer Engine
 <img align="left" src="../images/shlee2.png" style="width : 180px; height : 240px; margin : 10px">
 
 <div style="text-align: justify ">
-Suk-Hwan Lee received a B.S., an M.S., and a Ph.D. degree in Electrical Engineering from Kyungpook National University, Korea in 1999, 2001, and 2004 respectively. He worked as an assistant, associate, and full professor in the Department of Information Security at Tongmyong University from 2005 to 2019 and was the dean of the College of Software Engineering in 2019. Currently, he is a full professor in the Department of Computer Engineering at Dong-A University and has been the dean of the faculty of Computer & AI engineering at this since 2023. He has been researched in the field of multimedia security, image/video processing/compression and also digital twin platforms, AI-based computer vision, and AI security.             
+Suk-Hwan Lee received a B.S., an M.S., and a Ph.D. degree in Electrical Engineering from Kyungpook National University, Korea in 1999, 2001, and 2004 respectively. He worked as an assistant, associate, and full professor in the Department of Information Security at Tongmyong University from 2005 to 2019 and was the dean of the College of Software Engineering in 2019. Currently, he is a full professor in the Department of Computer Engineering at Dong-A University and has been the dean of the faculty of Computer & AI engineering at this since 2023. He has been researched in the field of multimedia security, image/video processing/compression and also digital twin platforms, AI-based computer vision, and AI security.
 
 He received the Achievement Award from Korea-Japan CCS (Complex Communication Society) in 2019 and best papers from KMMS (Korea Multimedia Society) in 2018, 2019 and also best lecture award from Tongmyong University in 2018, and a President Achievement Award from Dong-A University in 2023.
 
@@ -57,297 +57,262 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 <br>
 
-##### Research Experience
+#### Research Experience
 
-* 2020 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
-* 2015 - 2019: An Assistant, Associate, and Full Professor, Dept. of Information Security, Tongmyong University, Busan, South Korea
+- 2020 - Present: Full Professor, Dept. of Computer Engineering, Dong-A University, Busan, South Korea
+- 2015 - 2019: An Assistant, Associate, and Full Professor, Dept. of Information Security, Tongmyong University, Busan, South Korea
 
-##### Education
+#### Education
 
-* 2004: Ph.D, Electrical Engineering, Kyungpook National University, Deagu, South Korea
-* 2001: M.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
-* 1999: B.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
+- 2004: Ph.D, Electrical Engineering, Kyungpook National University, Deagu, South Korea
+- 2001: M.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
+- 1999: B.S, Electrical Engineering, Kyungpook National University, Deagu, South Korea
 
-##### Contact
+#### Contact
 
-* <a href="mailto:skylee@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/skylee@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-</a>
-* Phone: +82-51-200-7764
+- <a href="mailto:skylee@dau.ac.kr">
+    <img alt="Static Badge" src="https://img.shields.io/badge/skylee@dau.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+  </a>
+- Phone: +82-51-200-7764
 
-***
+---
 
 ## Researchers
 
 ### Ph.D
 
-###### [Hyeon-Cheol Kim](/member/phd/khc) (Mar 2020 -- Present)
+#### [Hyeon-Cheol Kim](/member/phd/khc) (Mar 2020 -- Present)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/hckim1.jpg"/></td>  
-		<td>
-			<ul>
-				<li> Mar 2022 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Mar 2020 - Feb 2022: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Mar 2016 - Feb 2020: B.S, Game Engineering, Tongmyong University, Busan, South Korea</li>
-				<li> Research Field: Digital twin based simulation, AI edge device</li>
-				<li>
-					<a href="https://github.com/AINukeHere" target="_blank">
-						<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
-					</a>
-				</li>
-				<!-- <li><a href="mailto:hckim0xdc@gmail.com">
-					<img alt="Static Badge" src="https://img.shields.io/badge/hckim0xdc@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-				</a></li> -->
-			</ul>
-		</td>
-	</tr>
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/hckim1.jpg"/></td>
+    <td>
+      <ul>
+        <li> Mar 2022 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Mar 2020 - Feb 2022: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Mar 2016 - Feb 2020: B.S, Game Engineering, Tongmyong University, Busan, South Korea</li>
+        <li> Research Field: Digital twin based simulation, AI edge device</li>
+        <li>
+          <a href="https://github.com/AINukeHere" target="_blank">
+            <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+          </a>
+        </li>
+        <!-- <li><a href="mailto:hckim0xdc@gmail.com">
+          <img alt="Static Badge" src="https://img.shields.io/badge/hckim0xdc@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+        </a></li> -->
+      </ul>
+    </td>
+  </tr>
 </table>
 
-###### [Sang-Hun Lee](/member/phd/lsh) (Mar 2021 -- Present)
+#### [Sang-Hun Lee](/member/phd/lsh) (Mar 2021 -- Present)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
-		<td>
-			<ul>
-				<li> Mar 2023 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Mar 2021 - Feb 2023: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Mar 2014 - Feb 2021: B.S, Game Engineering, Tongmyong University, Busan, South Korea</li>
-				<li><a href="https://github.com/monochromatics">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>
+    <td>
+      <ul>
+        <li> Mar 2023 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Mar 2021 - Feb 2023: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Mar 2014 - Feb 2021: B.S, Game Engineering, Tongmyong University, Busan, South Korea</li>
+        <li><a href="https://github.com/monochromatics">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<!-- <li><a href="mailto:monochromatic5150@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/monochromatic5150@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+        <!-- <li><a href="mailto:monochromatic5150@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/monochromatic5150@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li> -->
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table>
 
+#### [Bon-Hyeon Gu](/member/phd/gbh) (Sep 2022 -- Present)
 
-###### [Bon-Hyeon Gu](/member/phd/gbh) (Sep 2022 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/bhgu2.jpg"/></td>  
-		<td>
-			<ul>
-				<li> Mar 2023 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Mar 2016 - Feb 2023: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Research Field: Ontology, Semantic Web</li>
-				<li> Website: <a href = " https://bonhyeon.9bon.org/"> https://bonhyeon.9bon.org/</a></li>
-				<li><a href="https://github.com/BonhyeonGu">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/bhgu2.jpg"/></td>
+    <td>
+      <ul>
+        <li> Mar 2023 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Mar 2016 - Feb 2023: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Research Field: Ontology, Semantic Web</li>
+        <li> Website: <a href = " https://bonhyeon.9bon.org/"> https://bonhyeon.9bon.org/</a></li>
+        <li><a href="https://github.com/BonhyeonGu">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<!-- <li> <a href="mailto:bonhyeon.gu@9bon.org">
-	<img alt="Static Badge" src="https://img.shields.io/badge/bonhyeon.gu@9bon.org-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+        <!-- <li> <a href="mailto:bonhyeon.gu@9bon.org">
+  <img alt="Static Badge" src="https://img.shields.io/badge/bonhyeon.gu@9bon.org-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li> -->
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-###### [Phuoc-Dat Lam](/member/phd/lpd) (Feb 2022 -- Present)
+#### [Phuoc-Dat Lam](/member/phd/lpd) (Feb 2022 -- Present)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pdlam2.png"/></td>  
-		<td>
-			<ul>
-				<li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Feb 2022 - Aug 2024: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Sep 2017 - Aug 2021: B.S, Computer Science, Ho Chi Minh University of Education, HCMC, Viet Nam</li>
-				<li> Research Field: Smart City Ontology Domain, Data Transformation, AI Agent</li>
-				<li><a href="https://github.com/Phuocdat10">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/pdlam2.png"/></td>
+    <td>
+      <ul>
+        <li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Feb 2022 - Aug 2024: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Sep 2017 - Aug 2021: B.S, Computer Science, Ho Chi Minh University of Education, HCMC, Viet Nam</li>
+        <li> Research Field: Smart City Ontology Domain, Data Transformation, AI Agent</li>
+        <li><a href="https://github.com/Phuocdat10">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto:datlam10006@gmail.com">
+        <li><a href="mailto:datlam10006@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/datlam10006@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-###### [Hao-Xin Lyu](/member/phd/lhx) (Sep 2024 -- Present)
+#### [Hao-Xin Lyu](/member/phd/lhx) (Sep 2024 -- Present)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/hxlyu.jpg"/></td>  
-		<td>
-			<ul>
-				<li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea </li>
-				<li> Sep 2021 - Jun 2024: M.S, Mechanical Engineering, Dalian Polytechnic University, DaLian, China </li>
-				<li> Sep 2017 - Jun 2021: B.S, Mechanical Engineering, Qilu University of Technology, ShanDong, China</li>
-				<li> Research Field: Human Action Recognition</li>
-				<li><a href="https://github.com/lhx0917">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/hxlyu.jpg"/></td>
+    <td>
+      <ul>
+        <li> Sep 2024 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea </li>
+        <li> Sep 2021 - Jun 2024: M.S, Mechanical Engineering, Dalian Polytechnic University, DaLian, China </li>
+        <li> Sep 2017 - Jun 2021: B.S, Mechanical Engineering, Qilu University of Technology, ShanDong, China</li>
+        <li> Research Field: Human Action Recognition</li>
+        <li><a href="https://github.com/lhx0917">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<!-- <li><a href="mailto:lvhaoxin_99@163.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/lvhaoxin_99@163.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+        <!-- <li><a href="mailto:lvhaoxin_99@163.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/lvhaoxin_99@163.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li> -->
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-###### [Young-Hoon Jo](/member/phd/jyh) (Mar 2023 -- Present)
+#### [Young-Hoon Jo](/member/phd/jyh) (Mar 2023 -- Present)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/yhjo1.png"/></td>  
-		<td>
-			<ul>
-				<li> Sep 2026 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Sep 2024 - Aug 2026: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Feb 2021 - Aug 2024: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Research Field: Semantic-Spatial Scene Graph, Scene Understanding, Digital Twin</li>
-				<li><a href="https://github.com/JOyagdol">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/yhjo1.png"/></td>
+    <td>
+      <ul>
+        <li> Sep 2026 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Sep 2024 - Aug 2026: M.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Feb 2021 - Aug 2024: B.S, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Research Field: Semantic-Spatial Scene Graph, Scene Understanding, Digital Twin</li>
+        <li><a href="https://github.com/JOyagdol">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<!-- <li><a href="mailto:joyagdol1224@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/joyagdol1224@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+        <!-- <li><a href="mailto:joyagdol1224@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/joyagdol1224@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li> -->
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ### Master
 
-###### [Xing-Yi Tao](/member/master/txy) (Sep 2024 -- Present)
+#### [Xing-Yi Tao](/member/master/txy) (Sep 2024 -- Present)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/xytao.png"/></td>  
-		<td>
-			<ul>
-				<li> Sep 2024 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
-				<li> Sep 2020 - Jul 2024: B.S, Information Management and Information System, Liaoning University of International Business, Liaoning, China</li>
-				<li><a href="https://github.com/Taoxingyi">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/xytao.png"/></td>
+    <td>
+      <ul>
+        <li> Sep 2024 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
+        <li> Sep 2020 - Jul 2024: B.S, Information Management and Information System, Liaoning University of International Business, Liaoning, China</li>
+        <li><a href="https://github.com/Taoxingyi">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<!-- <li><a href="mailto: xingyitao62@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/ xingyitao62@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+        <!-- <li><a href="mailto: xingyitao62@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ xingyitao62@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li> -->
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-###### [Phuc-Lam Le](/member/master/lpl) (Sep 2026 -- Present)
+#### [Phuc-Lam Le](/member/master/lpl) (Sep 2026 -- Present)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/lpl2.jpg"/></td>  
-		<td>
-			<ul>
-				<li> Sep 2026 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
-				<li> Aug 2021 - Feb 2026: Hanoi university of science and technology, Hanoi, VietNam <br> Bachelor, Major in Information Technology </li>
-				<li> Research Field: 3D information based on World Models, Computer Vison, Digital Twin</li>
-				<li><a href="https://github.com/phuclamlee">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/lpl2.jpg"/></td>
+    <td>
+      <ul>
+        <li> Sep 2026 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
+        <li> Aug 2021 - Feb 2026: Hanoi university of science and technology, Hanoi, VietNam <br> Bachelor, Major in Information Technology </li>
+        <li> Research Field: 3D information based on World Models, Computer Vison, Digital Twin</li>
+        <li><a href="https://github.com/phuclamlee">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto: lephuclam08@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/lephuclam08@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+        <li><a href="mailto: lephuclam08@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/lephuclam08@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-###### [Tien-Hieu Pham](/member/master/thp) (Sep 2026 -- Present)
+#### [Tien-Hieu Pham](/member/master/thp) (Sep 2026 -- Present)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pth.jpg"/></td>  
-		<td>
-			<ul>
-				<li> Sep 2026 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
-				<li> Sep 2020 - Jun 2024: B.S, Artificial Intelligence, FPT University, Hanoi, Vietnam</li>
-				<li><a href="https://github.com/phamhieutn44">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/pth.jpg"/></td>
+    <td>
+      <ul>
+        <li> Sep 2026 - Present: M.S, Computer Engineering, Dong-A University, Busan, South Korea </li>
+        <li> Sep 2020 - Jun 2024: B.S, Artificial Intelligence, FPT University, Hanoi, Vietnam</li>
+        <li><a href="https://github.com/phamhieutn44">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<li><a href="mailto: phamhieutn44@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/phamhieutn44@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+        <li><a href="mailto: phamhieutn44@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/phamhieutn44@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <!-- ###### [Chang-Hun Park](/member/pch) (Feb 2025 -- Present)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/pch.jpg"/></td>  
-		<td>
-			<ul>
-				<li> Feb 2025 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
-				<li> Jan 2023 - Aug 2024: M.S, Computer Science, University of Illinois Urbana-Champaign, United States</li>
-				<li> Aug 2017 - Dec 2022: B.S, Mechanical Engineering, University of Illinois Urbana-Champaign, United States</li>
-				<li> Research Field: Machine Learning, Text Analysis</li>
-				<li><a href="https://github.com/chp2">
-	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/pch.jpg"/></td>
+    <td>
+      <ul>
+        <li> Feb 2025 - Present: Ph.D, Computer Engineering, Dong-A University, Busan, South Korea</li>
+        <li> Jan 2023 - Aug 2024: M.S, Computer Science, University of Illinois Urbana-Champaign, United States</li>
+        <li> Aug 2017 - Dec 2022: B.S, Mechanical Engineering, University of Illinois Urbana-Champaign, United States</li>
+        <li> Research Field: Machine Learning, Text Analysis</li>
+        <li><a href="https://github.com/chp2">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github">
 </a></li>
-				<!-- <li><a href="mailto:changhunpark0211@gmail.com">
+        <!-- <li><a href="mailto:changhunpark0211@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/changhunpark0211@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table> -->
 
-***
+---
 
 ### Undergraduate Research Assistants
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="width: 48%;">
     <!-- Column 1: Students 1-6 -->
-	
-	<a href="/member/PageNotFound">
-		<b>Jong-Hyun Lee (이종현)</b> 
-	</a>
-    <table border="0">  
-      <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongHyun Lee.jpeg"/></td>  
-        <td>
-          <ul>
-            <li>Research Field: Computer Vision (Object Detection, nErf)</li>
-            <!-- <li><a href="jh012403@gmail.com">
-      <img alt="Static Badge" src="https://img.shields.io/badge/jh012403@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-    </a></li> -->
-          </ul>
-        </td>
-      </tr>
-    </table>
 
-	<a href="/member/PageNotFound">
-	<b>Ji-Hwan Bae (배지환)</b> 
-	</a>
-	<table border="0">  
-		<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHwan Bae.jpg"/></td>  
-		<td>
-			<ul>
-			<li>Research Field: Computer Vision (Object Detection, nErf)</li>
-			<li><a href="mailto:qowlghks12345@naver.com">
-		<img alt="Static Badge" src="https://img.shields.io/badge/qowlghks12345@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
-	</a></li>
-			</ul>
-		</td>
-		</tr>
-	</table>
-
-	<a href="/member/PageNotFound">
-		<b>Ji-Hoon Lee (이지훈)</b> 
-	</a>
-    <table border="0">  
+  <a href="/member/PageNotFound">
+    <b>Ji-Hoon Lee (이지훈)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-Hoon Lee.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-Hoon Lee.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: Model Context Protocol</li>
@@ -359,15 +324,15 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/PageNotFound">
-		<b>Jae-Hyeon Seol (설재현)</b> 
-	</a>
-    <table border="0">  
+  <a href="/member/PageNotFound">
+    <b>Jae-Hyeon Seol (설재현)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Jea-Hyeon Seol.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Jea-Hyeon Seol.jpg"/></td>
         <td>
           <ul>
-		  	<li>Research Field: Internet of Things</li>
+        <li>Research Field: Internet of Things</li>
             <!-- <li><a href="mailto:qkstm03@donga.ac.kr">
       <img alt="Static Badge" src="https://img.shields.io/badge/qkstm03@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
     </a></li> -->
@@ -376,12 +341,12 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/PageNotFound">
-		<b>Hae-Jin Kim (김해진)</b> 
-	</a>
-    <table border="0">  
+  <a href="/member/PageNotFound">
+    <b>Hae-Jin Kim (김해진)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Hae-Jin Kim.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Hae-Jin Kim.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: Agentic AI</li>
@@ -393,12 +358,12 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/PageNotFound">
-		<b>Jun-Kyung Kim (김준경)</b> 
-	</a>
-    <table border="0">  
+  <a href="/member/PageNotFound">
+    <b>Jun-Kyung Kim (김준경)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Jun-Kyung Kim.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Jun-Kyung Kim.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: Embedded System</li>
@@ -410,17 +375,12 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-  </div>
-  
-  <div style="width: 48%;">
-    <!-- Column 2: Students 7-11 -->
-
-	<a href="/member/PageNotFound">
-		<b>Ye-Jun Kim (김예준)</b> 
-	</a>
-    <table border="0">  
+  <a href="/member/PageNotFound">
+    <b>Ye-Jun Kim (김예준)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ye-Jun Kim.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ye-Jun Kim.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: Digital Twin Agentic AI</li>
@@ -432,12 +392,17 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/PageNotFound">
-		<b>Cheol-Ho Kim (김철호)</b> 
-	</a>
-    <table border="0">  
+  </div>
+
+  <div style="width: 48%;">
+    <!-- Column 2: Students 7-11 -->
+
+  <a href="/member/PageNotFound">
+    <b>Cheol-Ho Kim (김철호)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Cheol-Ho Kim.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Cheol-Ho Kim.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: World Models</li>
@@ -449,12 +414,12 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/PageNotFound">
-		<b>Min-Seo Kim (김민서)</b> 
-	</a>
-    <table border="0">  
+  <a href="/member/PageNotFound">
+    <b>Min-Seo Kim (김민서)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Min-Seo Kim.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Min-Seo Kim.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: World Models</li>
@@ -466,12 +431,12 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/PageNotFound">
-		<b>Hyeon-Oh Jo (조현오)</b> 
-	</a>
-    <table border="0">  
+  <a href="/member/PageNotFound">
+    <b>Hyeon-Oh Jo (조현오)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Hyeon-Oh Jo.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Hyeon-Oh Jo.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: ESG RAG</li>
@@ -483,12 +448,12 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/PageNotFound">
-		<b>Yun-Chan Jeong (정윤찬)</b> 
-	</a>
-    <table border="0">  
+  <a href="/member/PageNotFound">
+    <b>Yun-Chan Jeong (정윤찬)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Yun-Chan Jeong.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Yun-Chan Jeong.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: World Models</li>
@@ -500,12 +465,12 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
       </tr>
     </table>
 
-	<a href="/member/PageNotFound">
-		<b>Na-young Kim (김나영)</b> 
-	</a>
-    <table border="0">  
+  <a href="/member/PageNotFound">
+    <b>Na-young Kim (김나영)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Na-Young Kim.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Na-Young Kim.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: Model Context Protocol</li>
@@ -521,11 +486,11 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 </div>
 
 <!-- <a href="/member/kar">
-		<b>Ah-Reum Kim (김아름)</b> 
-	</a>
-    <table border="0">  
+    <b>Ah-Reum Kim (김아름)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ah-Reum Kim.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ah-Reum Kim.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: Large Language Models</li>
@@ -539,112 +504,111 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
 
 <!-- ###### [Ji-Heon Kim (김지헌)](/member/PageNotFound)
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHeon Kim.jpeg"/></td>  
-		<td>
-			<ul>
-				<li>Research Field: Computer Vision (Anomaly Detection, Audio Event Detection)</li>
-				<li><a href="mailto:2243790@donga.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/2243790@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHeon Kim.jpeg"/></td>
+    <td>
+      <ul>
+        <li>Research Field: Computer Vision (Anomaly Detection, Audio Event Detection)</li>
+        <li><a href="mailto:2243790@donga.ac.kr">
+  <img alt="Static Badge" src="https://img.shields.io/badge/2243790@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table> -->
 
-
 <!-- <a href="/member/ycy">
-	<b>Chae-Young Yi (이채영)</b> 
+  <b>Chae-Young Yi (이채영)</b>
 </a>
-<table border="0">  
-	<tr valign="top">
-	<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/ChaeYoung Yi.jpeg"/></td>  
-	<td>
-		<ul>
-		<li>Research Field: Computer Vision(Anomaly Detection)</li>
-		<li><a href="mailto:2243487@donga.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/2243487@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+<table border="0">
+  <tr valign="top">
+  <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/ChaeYoung Yi.jpeg"/></td>
+  <td>
+    <ul>
+    <li>Research Field: Computer Vision(Anomaly Detection)</li>
+    <li><a href="mailto:2243487@donga.ac.kr">
+  <img alt="Static Badge" src="https://img.shields.io/badge/2243487@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-		</ul>
-	</td>
-	</tr>
+    </ul>
+  </td>
+  </tr>
 </table> -->
 
 <!-- <a href="/member/kjs">
-		<b>Jeong-Sik Kim (김정식)</b> 
-	</a>
-    <table border="0">  
+    <b>Jeong-Sik Kim (김정식)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JeonSik Kim.png"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JeonSik Kim.png"/></td>
         <td>
           <ul>
             <li>Research Field: Autonomous-Drone, Computer Vision</li>
             <!-- <li><a href="mailto:2343783@donga.ac.kr">
       <img alt="Static Badge" src="https://img.shields.io/badge/2343783@donga.ac.kr-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
     </a></li>
-		</ul>
-	</td>
-	</tr>
+    </ul>
+  </td>
+  </tr>
 </table> -->
 
 <!-- <a href="/member/jswoo">
-	<b>Jong-Woo Sung (성종우)</b> 
+  <b>Jong-Woo Sung (성종우)</b>
 </a>
-<table border="0">  
-	<tr valign="top">
-	<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongWoo Sung.jpeg"/></td>  
-	<td>
-		<ul>
-		<li>Research Field: Natural Language Processing (Multi Modal)</li>
-		<!-- <li><a href="mailto:mtplanthehuman@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/mtplanthehuman@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+<table border="0">
+  <tr valign="top">
+  <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongWoo Sung.jpeg"/></td>
+  <td>
+    <ul>
+    <li>Research Field: Natural Language Processing (Multi Modal)</li>
+    <!-- <li><a href="mailto:mtplanthehuman@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mtplanthehuman@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-		</ul>
-	</td>
-	</tr>
+    </ul>
+  </td>
+  </tr>
 </table> -->
 
 <!-- <a href="/member/bhj">
-	<b>Hyeon-Jun Bea (배현준)</b> 
+  <b>Hyeon-Jun Bea (배현준)</b>
 </a>
-<table border="0">  
-	<tr valign="top">
-	<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/HyeonJun Bae.jpg"/></td>  
-	<td>
-		<ul>
-		<li>Research Field: Natural Language Processing (Ontology)</li>
-		<!-- <li><a href="mailto:guli0624@naver.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/guli0624@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+<table border="0">
+  <tr valign="top">
+  <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/HyeonJun Bae.jpg"/></td>
+  <td>
+    <ul>
+    <li>Research Field: Natural Language Processing (Ontology)</li>
+    <!-- <li><a href="mailto:guli0624@naver.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/guli0624@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-		</ul>
-	</td>
-	</tr>
+    </ul>
+  </td>
+  </tr>
 </table> -->
 
 <!-- <a href="/member/jsw">
-	<b>Si-Woo Jang (장시우)</b> 
+  <b>Si-Woo Jang (장시우)</b>
 </a>
-<table border="0">  
-	<tr valign="top">
-	<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/SiWoo Jang.jpg"/></td>  
-	<td>
-		<ul>
-		<li>Research Field: Natural Language Processing(RLHF)</li>
-		<!-- <li><a href="mailto:jsw74092@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/jsw74092@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+<table border="0">
+  <tr valign="top">
+  <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/SiWoo Jang.jpg"/></td>
+  <td>
+    <ul>
+    <li>Research Field: Natural Language Processing(RLHF)</li>
+    <!-- <li><a href="mailto:jsw74092@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jsw74092@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-		</ul>
-	</td>
-	</tr>
+    </ul>
+  </td>
+  </tr>
 </table> -->
 
 <!-- <a href="/member/lja">
-		<b>Ji-An Lee (이지안)</b> 
-	</a>
-    <table border="0">  
+    <b>Ji-An Lee (이지안)</b>
+  </a>
+    <table border="0">
       <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-An Lee.jpg"/></td>  
+        <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Ji-An Lee.jpg"/></td>
         <td>
           <ul>
             <li>Research Field: Autonomous Driving, Emergency Medical Services, and Mntal Health.</li>
@@ -657,46 +621,80 @@ He has worked as a board member of IEEE R10 Busan section since 2015 and has wor
     </table>
 
 <a href="/member/kbr">
-	<b>Bo-Ryeon Kim (김보련)</b> 
+  <b>Bo-Ryeon Kim (김보련)</b>
 </a>
-<table border="0">  
-	<tr valign="top">
-	<td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Bo-Ryeon Kim.jpg"/></td>  
-	<td>
-		<ul>
-		<li>Research Field: AI-based System Development</li>
-		<li><a href="mailto:kimnbr0422@gmail.com">
-	<img alt="Static Badge" src="https://img.shields.io/badge/kimnbr0422@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+<table border="0">
+  <tr valign="top">
+  <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/Bo-Ryeon Kim.jpg"/></td>
+  <td>
+    <ul>
+    <li>Research Field: AI-based System Development</li>
+    <li><a href="mailto:kimnbr0422@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/kimnbr0422@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-		</ul>
-	</td>
-	</tr>
+    </ul>
+  </td>
+  </tr>
+</table> -->
+
+<!-- <a href="/member/PageNotFound">
+    <b>Jong-Hyun Lee (이종현)</b>
+</a>
+<table border="0">
+  <tr valign="top">
+  <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JongHyun Lee.jpeg"/></td>
+  <td>
+    <ul>
+    <li>Research Field: Computer Vision (Object Detection, nErf)</li>
+    <li><a href="jh012403@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jh012403@gmail.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+    </ul>
+  </td>
+  </tr>
+</table>
+
+<a href="/member/PageNotFound">
+<b>Ji-Hwan Bae (배지환)</b>
+</a>
+<table border="0">
+  <tr valign="top">
+  <td width="120"><img align="left" width="100px" margin="10px" src="../images/Undergrad/Lab_FOTO/JiHwan Bae.jpg"/></td>
+  <td>
+    <ul>
+    <li>Research Field: Computer Vision (Object Detection, nErf)</li>
+    <li><a href="mailto:qowlghks12345@naver.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/qowlghks12345@naver.com-%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
+</a></li>
+    </ul>
+  </td>
+  </tr>
 </table> -->
 ## Officer
 
-###### Ms. Kim
+### Ms. Kim
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>  
-		<td>
-			<ul>
-				<li><a href="mailto:voyage@dau.ac.kr">
-	<img alt="Static Badge" src="https://img.shields.io/badge/voyage@dau.ac.kr
+<table border="0">
+  <tr valign="top">
+    <td width="120"><img align="left" width="100px" margin="10px" src="../images/default-ava.jpg"/></td>
+    <td>
+      <ul>
+        <li><a href="mailto:voyage@dau.ac.kr">
+  <img alt="Static Badge" src="https://img.shields.io/badge/voyage@dau.ac.kr
 -%23003879?style=flat&logo=maildotcom&logoColor=%23003879&labelColor=C0C0C0">
 </a></li>
-			</ul>
-		</td>
-	</tr>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-***
+---
 
 ## Almuni
 
-* <a href="/member/lhk">Hoang-Khanh Lam</a> (Mar 2023 -- August 2025, PhD course at ChungBuk National University)
+- <a href="/member/lhk">Hoang-Khanh Lam</a> (Mar 2023 -- August 2025, PhD course at ChungBuk National University)
 
-***
+---
 
 <!-- # Collaborators
 

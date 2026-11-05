@@ -37,7 +37,7 @@ toc: true
 # Journal Publications
  
 ## International Journal
-* Lam, Phuoc-Dat, Ngoc-Giao Pham, Ji-Young Oh, Soo-Yol Ok, and Suk-Hwan Lee. "An Agent-Oriented Retrieval-Augmented Framework for Semantic and Geometric Reasoning over CityGML Models." Sensors (2026). (Under review).
+* Lam, Phuoc-Dat, Ngoc-Giao Pham, Jiyoung Oh, Soo-Yol Ok, and Suk-Hwan Lee. "An Agent-Oriented Retrieval-Augmented Framework for Semantic and Geometric Reasoning over CityGML Models." Sensors (2026). Sensors 26, no. 21 (2026): 6817.[https://doi.org/10.3390/s26216817](https://doi.org/10.3390/s26216817)
 * Lam, Phuoc-Dat, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." Sensors 24, no. 12 (2024): 3761.[https://doi.org/10.3390/s24123761](https://doi.org/10.3390/s24123761)
 * Lam, Hoang-Khanh, Phuoc-Dat Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City Visualization with MoE-Based Personal Thermal Comfort Analysis." Sensors 25, no. 3 (2025): 705. [https://doi.org/10.3390/s25030705](https://doi.org/10.3390/s25030705)
 

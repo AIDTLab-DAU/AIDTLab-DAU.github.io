@@ -8,6 +8,11 @@ toc: true
 ---
 
 # International Journal
+* Lam, Phuoc-Dat, Ngoc-Giao Pham, Ji-Young Oh, Soo-Yol Ok, and Suk-Hwan Lee. "An Agent-Oriented Retrieval-Augmented Framework for Semantic and Geometric Reasoning over CityGML Models." Sensors 26, no. 21 (2026): 6817.[https://doi.org/10.3390/s26216817](https://doi.org/10.3390/s26216817)
+
+* Lyu, Haoxin, Jiyoung Oh, Yang Liu, Soo-Yol Ok, and Suk-Hwan Lee. “A Topology-Aware Graph Learning Framework for Occlusion-Robust Skeleton-Based Human Action Recognition.” Applied Sciences 16, no. 19 (2026): 9852. [https://doi.org/10.3390/app16199852](https://doi.org/10.3390/app16199852)
+
+* Tao, Xingyi, Haoxin Lyu, Soo-Yol Ok, Jiyoung Oh, and Suk-Hwan Lee. “Chapter-Aware Retrieval-Augmented Generation for Complex ESG Data Extraction and Traceability.” IEEE Access 14 (2026): 163869–163882. [https://doi.org/10.1109/ACCESS.2026.3745456](https://doi.org/10.1109/ACCESS.2026.3745456)
 
 * Gu, Bon-Hyeon, Hoang-Khanh Lam, Tae-Kook Kim, Soo-Yol Ok, and Suk-Hwan Lee. “Observation-Metadata-Centric Digital Twin Ontology for Heterogeneous MultiSensor Data in Smart Cities.” IEEE Internet of Things Journal 13, no. 9 (2026): 18893-18908. [https://doi.org/10.1109/JIOT.2026.3661277](https://doi.org/10.1109/JIOT.2026.3661277)
 

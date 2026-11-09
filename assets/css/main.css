@@ -443,7 +443,7 @@ html[data-lang="ko"] .hero__title { font-size: clamp(2.2rem, 5.4vw, 4rem); lette
 .member-card__body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 4px; flex: 1; }
 .member-card__name { font-size: 1.02rem; margin: 0; }
 .member-card__name a { color: inherit; }
-.member-card__ko { font-weight: 500; color: var(--muted); font-size: .88rem; }
+.member-card__ko { display: block; margin-top: 2px; font-weight: 500; color: var(--muted); font-size: .88rem; }
 .member-card__meta { font-size: .72rem; color: var(--muted); margin: 0; }
 .member-card__field { font-size: .84rem; margin: 2px 0 6px; line-height: 1.45; }
 .member-card .icon-links { margin-top: auto; position: relative; z-index: 2; }

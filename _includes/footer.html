@@ -1,27 +1,33 @@
-<!-- begin footer -->
-<footer class="footer">
-  <div class="container">
-    <div style ="text-align:center";> 
-      {% include contact-link-footer.html %}
+{%- assign lab = site.data.lab -%}
+<footer class="site-footer">
+  <div class="wrap site-footer__grid">
+    <div class="site-footer__brand">
+      <a class="brand brand--footer" href="{{ '/' | relative_url }}">
+        <span class="brand__mark"><img src="{{ '/images/brand/emblem.png' | relative_url }}" alt="" width="48" height="48" loading="lazy"></span>
+        <span class="brand__text"><strong>{{ lab.name }}</strong><small lang="ko">{{ lab.name_ko }}</small></span>
+      </a>
+      <p class="muted">{% include bi.html en=lab.mission ko=lab.mission_ko %}</p>
+    </div>
+    <div>
+      <h2 class="footer-h">{% include t.html k="contact" %}</h2>
+      <ul class="footer-list">
+        <li>{% include icon.html n="pin" px=16 %} <span>{% include bi.html en=lab.address ko=lab.address_ko %}</span></li>
+        <li>{% include icon.html n="email" px=16 %} <a href="mailto:{{ lab.recruit.contact }}">{{ lab.recruit.contact }}</a></li>
+        <li>{% include icon.html n="github" px=16 %} <a href="{{ lab.github }}">github.com/AIDTLab-DAU</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="footer-h">{% include t.html k="lab_partners" %}</h2>
+      <div class="footer-partners">
+        <a class="footer-dau" href="{{ lab.university_url }}" aria-label="Dong-A University"><img src="{{ '/images/brand/dau.png' | relative_url }}" alt="Dong-A University" loading="lazy" width="120" height="130"></a>
+        <ul class="footer-list footer-list--plain">
+          {%- for f in lab.funders -%}<li>{{ f.name }}</li>{%- endfor -%}
+        </ul>
+      </div>
     </div>
   </div>
-  
-  <br>
-  
-  <div class="container">
-      <div style ="text-align:center";> 
-        <a href="https://aidtlab-dau.github.io/">
-          <img src="/images/Logo_Square.png" style="width: 280px; height: 220px; margin-right: 20px; margin-left: 20px; margin-top: 10px; margin-bottom: 10px;">
-        </a>
-
-        <a href="https://english.donga.ac.kr/english/Main.do">
-          <img src="/images/DAULogo.png" style="width: 200px; height: 220px; margin-right: 20px; margin-left: 20px; margin-top: 10px; margin-bottom: 10px;">
-        </a>
-      </div>
-  </div>
-
-  <div class="container">
-    <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.data.settings.title }}</a> — All right Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>.</div>
+  <div class="wrap site-footer__bottom">
+    <span>© {{ site.time | date: '%Y' }} {{ lab.name }}, {{ lab.university }}</span>
+    <span class="mono">LAT 35.1158 · LON 128.9663 · <a href="{{ '/feed/news.xml' | relative_url }}">RSS</a></span>
   </div>
 </footer>
-<!-- end footer -->

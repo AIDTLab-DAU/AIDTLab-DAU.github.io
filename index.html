@@ -1,12 +1,157 @@
 ---
 layout: default
-image: 220908_2.jpg
-title: AI Digital Twin Lab at DongA University, Busan, Korea
-description: Explore AI Digital Twin at Dong-A University (AIDT Lab@DAU). Cutting-edge research in AI, digital twins, and smart technologies driving future innovation.
+title: AI Digital Twin Lab
+description: AI Digital Twin Lab at Dong-A University (AIDT Lab@DAU), Busan — research on digital twins, smart cities, 3D vision, semantic ontologies and agentic AI.
+image: /images/lab/lab-members-1.jpg
+twin: true
+overlay_header: true
+body_class: is-home
 ---
+{%- assign lab = site.data.lab -%}
 
-{% include homepage-about.html %}
+<!-- ============ HERO · live digital twin ============ -->
+<section class="hero" data-twin-root>
+  <canvas class="hero__canvas" data-twin-canvas aria-hidden="true"></canvas>
+  <img class="hero__poster" src="{{ '/assets/twin/poster.webp' | relative_url }}" alt="" aria-hidden="true">
+  <div class="hero__shade" aria-hidden="true"></div>
 
-{% include homepage-recruit.html %}
+  <div class="wrap hero__inner">
+    <div class="hero__copy">
+      <p class="hud-chip mono"><span class="pulse-dot"></span>DIGITAL TWIN · LIVE</p>
+      <h1 class="hero__title">
+        <span class="en">We build the <em>digital twins</em> of tomorrow's cities.</span>
+        <span class="ko" lang="ko">미래 도시의 <em>디지털 트윈</em>을 만듭니다.</span>
+      </h1>
+      <p class="hero__lead">{% include bi.html en=lab.mission ko=lab.mission_ko %}</p>
+      <div class="btn-row">
+        <a class="btn btn--primary" href="{{ '/research/' | relative_url }}">{% include t.html k="explore_research" %} {% include icon.html n="arrow" px=18 %}</a>
+        <a class="btn btn--glass" href="{{ '/contact/#join' | relative_url }}">{% include t.html k="join_lab" %}</a>
+      </div>
+    </div>
+  </div>
 
-{% include homepage-news.html %}  
+  <aside class="hud hud--spec mono" aria-label="About this model">
+    <p class="hud__title"><span class="pulse-dot"></span>TWIN · SMART CITY LAB</p>
+    <dl>
+      <div><dt>SITE</dt><dd>Eco Delta City, Busan</dd></div>
+      <div><dt>MODEL</dt><dd>BIM · IFC 4x3</dd></div>
+      <div><dt>EDGES</dt><dd data-hud="edges">—</dd></div>
+      <div><dt>YAW</dt><dd data-hud="yaw">000.0°</dd></div>
+      <div><dt>SCAN</dt><dd><span class="hud__bar"><span data-hud="scanbar"></span></span><span data-hud="scan">0%</span></dd></div>
+    </dl>
+  </aside>
+  <p class="hud hud--foot mono" aria-hidden="true"><span>SMART CITY LAB · ECO DELTA CITY</span><span class="hud__hint">DRAG TO ROTATE</span></p>
+</section>
+
+<!-- ============ ABOUT ============ -->
+<section class="section" id="about">
+  <div class="wrap about">
+    <div class="about__text">
+      {% include section-head.html idx="01" kicker="ABOUT" k="about_lab" %}
+      {%- for para in lab.about %}
+      <p class="{% if forloop.first %}lead{% endif %}">{% include bi.html en=para.en ko=para.ko %}</p>
+      {%- endfor %}
+    </div>
+    <figure class="about__media frame">
+      <div class="carousel" data-carousel>
+        <img src="{{ '/images/lab/lab-members-1.jpg' | relative_url }}" alt="AI Digital Twin Lab members" loading="lazy">
+        <img src="{{ '/images/lab/lab-members-2.jpg' | relative_url }}" alt="AI Digital Twin Lab members" loading="lazy">
+      </div>
+      <figcaption class="mono">AIDT LAB · SEUNGHAK CAMPUS</figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- ============ RESEARCH AREAS ============ -->
+<section class="section section--alt" id="areas">
+  <div class="blueprint" aria-hidden="true"></div>
+  <div class="wrap">
+    {% include section-head.html idx="02" kicker="RESEARCH" k="research_areas" link="/research/" %}
+    <div class="areas">
+      {%- for a in site.data.research_areas %}
+      <article class="area-card">
+        <span class="area-card__icon">{% include icon.html n=a.icon px=28 %}</span>
+        <span class="area-card__idx mono">{{ forloop.index | prepend: "0" }}</span>
+        <h3>{% include bi.html en=a.title ko=a.title_ko %}</h3>
+        <p>{% include bi.html en=a.text ko=a.text_ko %}</p>
+        <ul class="kw">{% for k in a.keywords %}<li>{{ k }}</li>{% endfor %}</ul>
+      </article>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- ============ PROJECTS ============ -->
+<section class="section" id="projects">
+  <div class="wrap">
+    {% include section-head.html idx="03" kicker="PROJECTS" k="projects" link="/research/" %}
+    <div class="projects">
+      {%- for pr in site.data.projects %}
+      {%- assign href = pr.page | default: pr.news -%}
+      <article class="project-card">
+        <div class="project-card__media scan"><img src="{{ pr.image | relative_url }}" alt="" loading="lazy"></div>
+        <div class="project-card__body">
+          <p class="project-card__meta mono"><span class="status status--{{ pr.status }}">{{ pr.status }}</span>{{ pr.period }}</p>
+          <h3><a class="stretched" href="{{ href | relative_url }}">{% include bi.html en=pr.title ko=pr.title_ko %}</a></h3>
+          <p>{% include bi.html en=pr.summary ko=pr.summary_ko %}</p>
+          <p class="project-card__funder mono">{{ pr.funder }}</p>
+        </div>
+      </article>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- ============ NEWS ============ -->
+<section class="section section--alt" id="news">
+  <div class="blueprint" aria-hidden="true"></div>
+  <div class="wrap">
+    {% include section-head.html idx="04" kicker="NEWS" k="latest_news" link="/news/" %}
+    <div class="news-layout">
+      <div class="news-grid">
+        {%- assign latest = site.news | sort: "date" | reverse -%}
+        {%- for n in latest limit: 3 %}{% include news-card.html n=n %}{% endfor %}
+      </div>
+      <aside class="milestones">
+        <h3 class="milestones__title mono">{% include t.html k="milestones" %}</h3>
+        <ol class="timeline">
+          {%- for e in site.data.timeline limit: 6 %}
+          <li class="timeline__item">
+            <time class="mono">{{ e.date | date: "%Y.%m" }}</time>
+            <p>{% if e.url %}<a href="{{ e.url | relative_url }}">{% endif %}{% include bi.html en=e.en ko=e.ko %}{% if e.url %}</a>{% endif %}</p>
+          </li>
+          {%- endfor %}
+        </ol>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PUBLICATIONS ============ -->
+<section class="section" id="publications">
+  <div class="wrap">
+    {% include section-head.html idx="05" kicker="PUBLICATIONS" k="recent_pubs" link="/publication/" %}
+    {%- assign recent = site.data.publications | where: "type", "journal" -%}
+    <ol class="pub-list pub-list--compact">
+      {%- for p in recent limit: 4 %}{% include pub-item.html p=p %}{% endfor %}
+    </ol>
+  </div>
+</section>
+
+<!-- ============ JOIN ============ -->
+<section class="section">
+  <div class="wrap">
+    <div class="cta">
+      <div class="blueprint" aria-hidden="true"></div>
+      <div class="cta__text">
+        <p class="kicker"><span class="kicker__idx">06</span>RECRUIT</p>
+        <h2 class="section-title">{% include t.html k="join" %}</h2>
+        <p>{% include bi.html en=lab.recruit.intro ko=lab.recruit.intro_ko %}</p>
+      </div>
+      <div class="btn-row">
+        <a class="btn btn--primary" href="{{ '/contact/#join' | relative_url }}">{% include t.html k="how_to_apply" %} {% include icon.html n="arrow" px=18 %}</a>
+        <a class="btn btn--ghost" href="mailto:{{ lab.recruit.contact }}">{% include icon.html n="email" px=18 %} {{ lab.recruit.contact }}</a>
+      </div>
+    </div>
+  </div>
+</section>

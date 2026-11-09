@@ -1,12 +1,18 @@
 ---
-layout: page
+layout: default
 title: Page not found
-image: 
 permalink: /404.html
+sitemap: false
 ---
-
-<div class="page-box">
-  <h2>404</h2>
-  <p>The requested page could not be found.</p>
-  <p class="back-arrow"><i class="ion ion-md-arrow-back"></i> <a href="{{site.baseurl}}/">Back to the blog</a></p>
-</div>
+<section class="page-hero page-hero--404">
+  <div class="page-hero__grid" aria-hidden="true"></div>
+  <div class="wrap page-hero__inner">
+    <p class="kicker mono">ERROR 404 · SIGNAL LOST</p>
+    <h1 class="page-hero__title">{% include t.html k="not_found" %}</h1>
+    <div class="btn-row">
+      <a class="btn btn--primary" href="{{ '/' | relative_url }}">{% include t.html k="home" %}</a>
+      <a class="btn btn--ghost" href="{{ '/member/' | relative_url }}">{% include t.html k="members" %}</a>
+      <a class="btn btn--ghost" href="{{ '/publication/' | relative_url }}">{% include t.html k="publications" %}</a>
+    </div>
+  </div>
+</section>

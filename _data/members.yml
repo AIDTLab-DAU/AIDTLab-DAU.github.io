@@ -1,0 +1,198 @@
+# ---------------------------------------------------------------
+# Lab members — the single source of truth for the Members page,
+# profile headers and publication filters.
+#
+#   id:      short unique id; photo is /images/members/<id>.jpg
+#            (set `photo: default` if there is no picture yet)
+#   group:   faculty | phd | ms | undergrad | staff | alumni
+#   page:    URL of the member's CV page (optional)
+#   links:   email, github, scholar, orcid, researchid, website,
+#            ieee, researchgate, linkedin  (all optional)
+# Order inside a group = display order.
+# ---------------------------------------------------------------
+
+- id: sooyolok
+  name: Soo-Yol Ok
+  name_ko: 옥수열
+  group: faculty
+  title: Professor · Director, AI-Digital Twin-SW Demonstration Center
+  title_ko: 교수 · AI·디지털트윈·SW 실증센터장
+  field: Digital twins, GPU-based supercomputing, multiple-inference AI
+  page: /member/professors/sooyolok
+  links:
+    email: sooyol@dau.ac.kr
+  bio: >-
+    Soo-Yol Ok received a B.Sc. in industrial engineering from Dong-A University in 1994, and his M.Sc. and Ph.D.
+    from the Institute of Information Sciences and Electronics, University of Tsukuba, Japan, in 1998 and 2001. He was a
+    senior researcher at Japan's National Institute of Information and Communications Technology (NICT) from 2001 to 2003,
+    and from 2004 to 2019 an assistant, associate and full professor in the Department of Game Engineering at Tongmyong
+    University, where he founded the Center for Fusion and Application of Super-computing (GPU-accelerated computing) and the
+    Offshore Plant O&M Engineering Simulation Center. He served on the expert committee of the Busan Eco Delta Smart City
+    National Model City project (2018–2021). He is now a full professor of Computer Engineering at Dong-A University,
+    director of the AI-Digital Twin-SW Demonstration Center since 2022, and general manager of the MSIT
+    "Digital Twin Testbed Establishment" project.
+
+- id: sukhwanlee
+  name: Suk-Hwan Lee
+  group: faculty
+  title: Professor · Dean, College of Computer & AI Engineering
+  title_ko: 교수 · 컴퓨터·AI공학부 학장
+  field: Digital twin platforms, AI-based computer vision, multimedia & AI security
+  page: /member/professors/sukhwanlee
+  links:
+    email: skylee@dau.ac.kr
+    orcid: https://orcid.org/0000-0003-4779-2888
+    github: https://github.com/SukHwanLee
+    scholar: https://scholar.google.co.kr/citations?hl=ko&user=8fZ6XOoAAAAJ
+    ieee: https://ieeexplore.ieee.org/author/37293422800
+    researchgate: https://www.researchgate.net/profile/Suk-Hwan-Lee
+  bio: >-
+    Suk-Hwan Lee received his B.S., M.S. and Ph.D. in Electrical Engineering from Kyungpook National University in 1999,
+    2001 and 2004. He was an assistant, associate and full professor in the Department of Information Security at
+    Tongmyong University (2005–2019) and Dean of its College of Software Engineering in 2019. He is now a full professor
+    of Computer Engineering at Dong-A University and, since 2023, Dean of the College of Computer & AI Engineering. His
+    research covers multimedia security, image/video processing, digital twin platforms, AI-based computer vision and AI
+    security. He has been a board member of the IEEE R10 Busan Section since 2015, chief editor of the Korea Multimedia
+    Society since 2021, general manager of the "Software Centered University" project and practice head of the MSIT
+    "Digital Twin Testbed Establishment" project.
+
+# ---------------- Ph.D. ----------------
+- id: khc
+  name: Hyeon-Cheol Kim
+  group: phd
+  since: Mar 2020
+  field: Digital-twin-based simulation, AI edge devices
+  page: /member/phd/khc
+  links:
+    github: https://github.com/AINukeHere
+    orcid: https://orcid.org/0009-0000-8074-7750
+    scholar: https://scholar.google.co.kr/citations?user=SzBWb88AAAAJ&hl=ko
+    researchid: https://www.researchid.co/rid110093
+
+- id: lsh
+  name: Sang-Hun Lee
+  group: phd
+  since: Mar 2021
+  photo: default
+  page: /member/phd/lsh
+  links:
+    github: https://github.com/monochromatics
+
+- id: lpd
+  name: Phuoc-Dat Lam
+  group: phd
+  since: Feb 2022
+  field: Smart-city ontology, data transformation, AI agents
+  page: /member/phd/lpd
+  links:
+    email: datlam10006@gmail.com
+    github: https://github.com/Phuocdat10
+    orcid: https://orcid.org/0009-0002-7893-5642
+    scholar: https://scholar.google.com/citations?hl=en&user=wr_3pWAAAAAJ
+    researchid: https://www.researchid.co/rid93915
+
+- id: gbh
+  name: Bon-Hyeon Gu
+  group: phd
+  since: Sep 2022
+  field: Ontology, semantic web
+  page: /member/phd/gbh
+  links:
+    website: https://bonhyeon.9bon.org/
+    github: https://github.com/BonhyeonGu
+    orcid: https://orcid.org/0009-0004-3256-7949
+    scholar: https://scholar.google.com/citations?user=cWbRoPgAAAAJ
+
+- id: jyh
+  name: Young-Hoon Jo
+  group: phd
+  since: Mar 2023
+  field: Semantic-spatial scene graphs, scene understanding, digital twins
+  page: /member/phd/jyh
+  links:
+    github: https://github.com/JOyagdol
+    orcid: https://orcid.org/0009-0003-9858-7822
+
+- id: lhx
+  name: Hao-Xin Lyu
+  group: phd
+  since: Sep 2024
+  field: Human action recognition
+  page: /member/phd/lhx
+  links:
+    github: https://github.com/lhx0917
+    orcid: https://orcid.org/0009-0002-0011-895X
+    scholar: https://scholar.google.com/citations?hl=zh-CN&user=c9lUNCMAAAAJ
+    researchid: https://www.researchid.co/rid93300
+
+# ---------------- M.S. ----------------
+- id: txy
+  name: Xing-Yi Tao
+  group: ms
+  since: Sep 2024
+  page: /member/master/txy
+  links:
+    github: https://github.com/Taoxingyi
+    orcid: https://orcid.org/0009-0003-0212-9705
+    scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=qgKXA0cAAAAJ
+    researchid: https://www.researchid.co/rid93312
+
+- id: lpl
+  name: Phuc-Lam Le
+  group: ms
+  since: Sep 2026
+  field: World models for 3D information, computer vision, digital twins
+  page: /member/master/lpl
+  links:
+    email: lephuclam08@gmail.com
+    github: https://github.com/phuclamlee
+    orcid: https://orcid.org/0009-0005-9109-4413
+    researchid: https://www.researchid.co/rid171122
+
+- id: thp
+  name: Tien-Hieu Pham
+  group: ms
+  since: Sep 2026
+  page: /member/master/thp
+  links:
+    email: phamhieutn44@gmail.com
+    github: https://github.com/phamhieutn44
+    orcid: https://orcid.org/0009-0000-8096-4069
+    scholar: https://scholar.google.com/citations?user=Si_nE-UAAAAJ&hl=vi
+    researchid: https://researchid.co/phamhieutn44
+
+# ---------------- Undergraduate research assistants ----------------
+- { id: ljhoon, name: Ji-Hoon Lee,    name_ko: 이지훈, group: undergrad, field: Model Context Protocol, page: /member/ljhoon }
+- { id: jhseol, name: Jae-Hyeon Seol, name_ko: 설재현, group: undergrad, field: Internet of Things, page: /member/jhseol }
+- { id: hjk,    name: Hae-Jin Kim,    name_ko: 김해진, group: undergrad, field: Agentic AI, page: /member/hjk }
+- { id: kjk,    name: Jun-Kyung Kim,  name_ko: 김준경, group: undergrad, field: Embedded systems }
+- { id: kyj,    name: Ye-Jun Kim,     name_ko: 김예준, group: undergrad, field: Digital twin agentic AI, page: /member/kyj }
+- { id: kch,    name: Cheol-Ho Kim,   name_ko: 김철호, group: undergrad, field: World models }
+- { id: kms,    name: Min-Seo Kim,    name_ko: 김민서, group: undergrad, field: World models }
+- { id: jho,    name: Hyeon-Oh Jo,    name_ko: 조현오, group: undergrad, field: ESG RAG }
+- { id: jyc,    name: Yun-Chan Jeong, name_ko: 정윤찬, group: undergrad, field: World models }
+- { id: kny,    name: Na-Young Kim,   name_ko: 김나영, group: undergrad, field: Model Context Protocol }
+
+# ---------------- Staff ----------------
+- id: staff-kim
+  name: Ms. Kim
+  group: staff
+  title: Lab officer
+  title_ko: 행정 담당
+  photo: default
+  links:
+    email: voyage@dau.ac.kr
+
+# ---------------- Alumni & former members ----------------
+- id: lhk
+  name: Hoang-Khanh Lam
+  group: alumni
+  title: M.S.
+  since: Mar 2023
+  until: Aug 2025
+  note: Now Ph.D. student at Chungbuk National University
+  note_ko: 현재 충북대학교 박사과정
+  page: /member/lhk
+  links:
+    orcid: https://orcid.org/0009-0005-2116-4084
+    scholar: https://scholar.google.com/citations?user=DwingmkAAAAJ

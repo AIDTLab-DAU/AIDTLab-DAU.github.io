@@ -1,18 +1,11 @@
 ---
-layout: page
+layout: member
+member: lpd
 title: "Phuoc-Dat Lam, Ph.D"
 permalink: /member/phd/lpd
-image: 
 description: "Curriculum vitae of Phuoc-Dat Lam"
-toc: true
 ---
-  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0002-7893-5642) 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=wr_3pWAAAAAJ)
-[![Research ID](https://img.shields.io/badge/Research%20ID-gray?style=flat-square)](https://www.researchid.co/rid93915)
 
-<br>
-  
 # Research Experience
  
 * Sep 2022 - Present: Research student, AI Digital Twin Lab, Dong-A University, Busan, South Korea
@@ -66,6 +59,3 @@ toc: true
     - Digital twin-based building lifecycle research under the CETPartnership with SDU(Denmark), ISEP(Portugal), POLITO(Italy), Dong-A University(Korea), and K-Water(Korea).
 * 2025~Present: Project of "Digital Columbus - Complex Disaster Management System - JAVIS(Joint Autonomous Resilience Virtual Intelligent System)" supported by the Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT)
 * 2022~2025: Project of "Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea
-
-
-

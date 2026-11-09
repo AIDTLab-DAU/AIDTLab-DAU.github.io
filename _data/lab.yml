@@ -1,0 +1,59 @@
+# Lab-wide facts used by the header, footer, home and contact pages.
+name: AI Digital Twin Lab
+name_ko: AI-디지털 트윈 연구실
+short: AIDT Lab
+university: Dong-A University
+university_ko: 동아대학교
+university_url: https://english.donga.ac.kr/english/Main.do
+department: Department of Computer Engineering, College of Computer & AI Engineering
+department_ko: 컴퓨터·AI공학부 컴퓨터공학과
+founded: 2022
+github: https://github.com/AIDTLab-DAU
+
+mission: Building intelligent digital twins of cities — from 3D semantic models to agentic AI that predicts, explains and responds.
+mission_ko: 3D 시맨틱 모델부터 예측·설명·대응하는 에이전틱 AI까지, 도시를 위한 지능형 디지털 트윈을 연구합니다.
+
+about:
+  - en: The AI Digital Twin Lab at Dong-A University researches artificial intelligence for digital twins — with a strong emphasis on deep learning, 3D computer vision, semantic city models and agentic AI. Our work spans theoretical advances and real deployments, bridging academic research and real-world urban challenges.
+    ko: 동아대학교 AI-디지털 트윈 연구실은 딥러닝, 3D 컴퓨터 비전, 시맨틱 도시 모델, 에이전틱 AI를 중심으로 디지털 트윈을 위한 인공지능을 연구합니다. 이론적 성과와 실제 적용을 아우르며 학술 연구와 현실 도시 문제를 연결합니다.
+  - en: We foster an interdisciplinary environment where students, researchers and industry partners collaborate. Backed by advanced computing infrastructure and national research programs, we push the boundaries of AI-driven modeling, simulation and intelligent systems.
+    ko: 학생, 연구자, 산업 파트너가 함께하는 융합 연구 환경을 지향하며, 첨단 컴퓨팅 인프라와 국가 연구 과제를 바탕으로 AI 기반 모델링·시뮬레이션·지능형 시스템의 한계를 넓혀갑니다.
+
+address: 37 Nakdong-daero 550beon-gil, Saha-gu, Busan 49315, Korea
+address_ko: 부산광역시 사하구 낙동대로550번길 37 동아대학교 승학캠퍼스
+offices:
+  - name: Prof. Soo-Yol Ok
+    name_ko: 옥수열 교수
+    room: S06-614
+    email: sooyol@dau.ac.kr
+  - name: Prof. Suk-Hwan Lee
+    room: S06-620
+    email: skylee@dau.ac.kr
+    phone: +82-51-200-7764
+  - name: Laboratory & Office
+    name_ko: 연구실
+    room: S03-213
+map_embed: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203.97736381294206!2d128.96626538718166!3d35.115753622004185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3568c25d14c1764f%3A0x9f345b4d72a391e7!2sDong-a%20University%2C%20Seunghak%20Campus!5e0!3m2!1sen!2skr!4v1727409212799!5m2!1sen!2skr
+map_link: https://maps.google.com/?q=Dong-A+University+Seunghak+Campus
+
+recruit:
+  intro: We are looking for passionate students (Ph.D., M.S. and combined M.S.–Ph.D.) interested in AI, digital twins and smart-city technologies. If you want to work on cutting-edge research in a collaborative team, we'd love to hear from you.
+  intro_ko: AI, 디지털 트윈, 스마트시티 기술에 관심 있는 열정적인 대학원생(박사, 석사, 석박사 통합)을 모집합니다. 협력적인 팀에서 최첨단 연구를 하고 싶다면 언제든 연락 주세요.
+  apply:
+    - { en: CV, ko: 이력서 }
+    - { en: Academic transcript, ko: 성적증명서 }
+    - { en: List of publications (if any), ko: 논문 목록 (해당 시) }
+    - { en: English proficiency certificate, ko: 영어 능력 증명서 }
+  support:
+    - { en: Stipend for eligible students, ko: 자격 요건 충족 시 연구 장학금 }
+    - { en: Research assistantship, ko: 연구 조교 활동 }
+    - { en: Publication opportunities, ko: 논문 출판 기회 }
+    - { en: Conference travel support, ko: 학회 참가 지원 }
+  contact: skylee@dau.ac.kr
+
+partners:
+  - { name: Dong-A University, url: "https://english.donga.ac.kr/english/Main.do", logo: /images/brand/dau.png }
+funders:
+  - { name: "Ministry of Science and ICT (MSIT)", short: MSIT }
+  - { name: "Institute of Information & Communications Technology Planning & Evaluation (IITP)", short: IITP }
+  - { name: "Horizon Europe (European Union)", short: Horizon Europe }

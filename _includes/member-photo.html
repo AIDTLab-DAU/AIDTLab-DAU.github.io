@@ -1,0 +1,2 @@
+{%- if include.m.photo == "default" -%}{%- assign src = "/images/members/default.jpg" -%}{%- elsif include.m.photo -%}{%- assign src = include.m.photo -%}{%- else -%}{%- capture src -%}/images/members/{{ include.m.id }}.jpg{%- endcapture -%}{%- endif -%}
+<img src="{{ src | relative_url }}" alt="{{ include.m.name }}" loading="lazy" decoding="async">

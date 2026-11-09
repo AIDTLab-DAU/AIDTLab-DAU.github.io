@@ -1,0 +1,194 @@
+# ---------------------------------------------------------------
+# Publications — newest first within each year is nice but not
+# required (the page sorts by year).
+#   type:    journal (international) | domestic | conference
+#   members: ids from members.yml — powers the "member" filter
+#   doi / url: link (doi preferred);  note: e.g. "Oral presentation"
+#   award:   optional, shown as a badge
+# ---------------------------------------------------------------
+
+# ===== International journals =====
+- type: journal
+  year: 2026
+  title: An Agent-Oriented Retrieval-Augmented Framework for Semantic and Geometric Reasoning over CityGML Models
+  authors: Phuoc-Dat Lam, Ngoc-Giao Pham, Ji-Young Oh, Soo-Yol Ok, Suk-Hwan Lee
+  venue: Sensors
+  details: 26(21), 6817
+  doi: 10.3390/s26216817
+  members: [lpd, sooyolok, sukhwanlee]
+
+- type: journal
+  year: 2026
+  title: A Topology-Aware Graph Learning Framework for Occlusion-Robust Skeleton-Based Human Action Recognition
+  authors: Haoxin Lyu, Jiyoung Oh, Yang Liu, Soo-Yol Ok, Suk-Hwan Lee
+  venue: Applied Sciences
+  details: 16(19), 9852
+  doi: 10.3390/app16199852
+  members: [lhx, sooyolok, sukhwanlee]
+
+- type: journal
+  year: 2026
+  title: Chapter-Aware Retrieval-Augmented Generation for Complex ESG Data Extraction and Traceability
+  authors: Xingyi Tao, Haoxin Lyu, Soo-Yol Ok, Jiyoung Oh, Suk-Hwan Lee
+  venue: IEEE Access
+  details: 14, 163869–163882
+  doi: 10.1109/ACCESS.2026.3745456
+  members: [txy, lhx, sooyolok, sukhwanlee]
+
+- type: journal
+  year: 2026
+  title: Observation-Metadata-Centric Digital Twin Ontology for Heterogeneous Multi-Sensor Data in Smart Cities
+  authors: Bon-Hyeon Gu, Hoang-Khanh Lam, Tae-Kook Kim, Soo-Yol Ok, Suk-Hwan Lee
+  venue: IEEE Internet of Things Journal
+  details: 13(9), 18893–18908
+  doi: 10.1109/JIOT.2026.3661277
+  members: [gbh, lhk, sooyolok, sukhwanlee]
+
+- type: journal
+  year: 2025
+  title: Digital Twin Smart City Visualization with MoE-Based Personal Thermal Comfort Analysis
+  authors: Hoang-Khanh Lam, Phuoc-Dat Lam, Soo-Yol Ok, Suk-Hwan Lee
+  venue: Sensors
+  details: 25(3), 705
+  doi: 10.3390/s25030705
+  members: [lhk, lpd, sooyolok, sukhwanlee]
+
+- type: journal
+  year: 2024
+  title: "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization"
+  authors: Phuoc-Dat Lam, Bon-Hyeon Gu, Hoang-Khanh Lam, Soo-Yol Ok, Suk-Hwan Lee
+  venue: Sensors
+  details: 24(12), 3761
+  doi: 10.3390/s24123761
+  members: [lpd, gbh, lhk, sooyolok, sukhwanlee]
+
+- type: journal
+  year: 2024
+  title: Early Fire Detection System by Using Automatic Synthetic Dataset Generation Model Based on Digital Twins
+  authors: Hyeon-Cheol Kim, Hoang-Khanh Lam, Suk-Hwan Lee, Soo-Yol Ok
+  venue: Applied Sciences
+  details: 14(5), 1801
+  doi: 10.3390/app14051801
+  members: [khc, lhk, sukhwanlee, sooyolok]
+
+# ===== Domestic journals =====
+- type: domestic
+  year: 2024
+  title: A Digital Twin Ontology Based on Open Standards for Integrating Heterogeneous Smart City Metadata
+  authors: Bon-Hyeon Gu, Soo-Yol Ok, Suk-Hwan Lee
+  venue: Journal of Korea Multimedia Society
+  details: 27(11), 1326–1337
+  doi: 10.9717/kmms.2024.27.11.1326
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11991781
+  members: [gbh, sooyolok, sukhwanlee]
+
+- type: domestic
+  year: 2024
+  title: "Digital Twin: Smart City Platform Development with Personal Thermal Comfort"
+  authors: Hoang-Khanh Lam, Phuoc-Dat Lam, Bon-Hyeon Gu, Soo-Yol Ok, Suk-Hwan Lee
+  venue: Journal of Korea Multimedia Society
+  details: 27(11), 1298–1313
+  doi: 10.9717/kmms.2024.27.11.1298
+  url: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11991779
+  members: [lhk, lpd, gbh, sooyolok, sukhwanlee]
+
+- type: domestic
+  year: 2023
+  title: Early Fire Detection System by Synthetic Dataset Automatic Generation Model Based on Digital Twin
+  authors: Hyeon-Cheol Kim, Suk-Hwan Lee, Soo-Yol Ok
+  venue: Journal of Korea Multimedia Society
+  details: 26(8), 887–897
+  doi: 10.9717/kmms.2023.26.8.887
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11516289
+  members: [khc, sukhwanlee, sooyolok]
+
+- type: domestic
+  year: 2023
+  title: Semantic 3D City Model Data Visualization for Smart City Digital Twin
+  authors: Phuoc-Dat Lam, Jungkyu Han, Ki-Ryong Kwon, Soo-Yol Ok, Suk-Hwan Lee
+  venue: Journal of Korea Multimedia Society
+  details: 26(2), 116–130
+  doi: 10.9717/kmms.2023.26.2.116
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11219438
+  members: [lpd, sooyolok, sukhwanlee]
+
+# ===== Conferences =====
+- type: conference
+  year: 2026
+  title: Improving Skeleton-based Action Recognition via Semantic Disentanglement and Feature Compensation
+  authors: Haoxin Lyu, Suk-Hwan Lee, Soo-Yol Ok
+  venue: 2026 Korea Multimedia Society Spring Conference (한국멀티미디어학회 춘계학술발표대회), Vol. 29 No. 1, Daejeon, Korea
+  note: Online presentation
+  members: [lhx, sukhwanlee, sooyolok]
+
+- type: conference
+  year: 2026
+  title: Hybrid Retrieval-Augmented Multi-Agent Framework for Semantic and Spatial Reasoning in CityGML-based Digital Twins
+  authors: Phuoc-Dat Lam, Soo-Yol Ok, Suk-Hwan Lee
+  venue: 2026 Korea Multimedia Society Spring Conference (한국멀티미디어학회 춘계학술발표대회), Vol. 29 No. 1, Daejeon, Korea
+  note: Online presentation
+  members: [lpd, sooyolok, sukhwanlee]
+
+- type: conference
+  year: 2025
+  title: CityGML-Based 3D Scene Graph Representation for Smart Cities
+  authors: Young-Hoon Jo, Suk-Hwan Lee, Soo-Yol Ok
+  venue: 2025 International Symposium on Nonlinear Theory and Its Applications (NOLTA 2025), Okinawa, Japan
+  note: Oral presentation
+  members: [jyh, sukhwanlee, sooyolok]
+
+- type: conference
+  year: 2025
+  title: Point Cloud Preprocessing 3D Gaussian Splatting Initialization Method
+  authors: Young-Hoon Jo, Ji-Hwan Bae, Suk-Hwan Lee, Soo-Yol Ok
+  venue: 21st International Conference on Multimedia Information Technology and Applications (MITA 2025), Jeju, Korea
+  note: Oral presentation
+  award: Best Student Paper Award
+  members: [jyh, sukhwanlee, sooyolok]
+
+- type: conference
+  year: 2025
+  title: Latent Perturbation and Text-to-Audio Synthesis for Metadata-Free Anomalous Sound Detection
+  authors: Jeong-Sik Kim, Jong-Woo Sung, Hyeon-Jun Bae, Suk-Hwan Lee
+  venue: 21st International Conference on Multimedia Information Technology and Applications (MITA 2025), Jeju, Korea
+  note: Oral presentation
+  members: [sukhwanlee]
+
+- type: conference
+  year: 2025
+  title: An Ontology-Driven Framework for Semantic Integration of IFC and CityGML to Enable High-Fidelity Digital Twins in Smart City Environments
+  authors: Phuoc-Dat Lam, Hyeon-Cheol Kim, Young-Hoon Cho, Soo-Yol Ok, Suk-Hwan Lee
+  venue: 21st International Conference on Multimedia Information Technology and Applications (MITA 2025), Jeju, Korea
+  note: Oral presentation
+  members: [lpd, khc, jyh, sooyolok, sukhwanlee]
+
+- type: conference
+  year: 2025
+  title: "OTU: A Template-Based Framework for Real-Time Updates of Digital Twin Sensor Ontologies"
+  authors: Bon-Hyeon Gu, Tae-Kook Kim, Soo-Yol Ok, Suk-Hwan Lee
+  venue: 2025 Korea Multimedia Society Spring Conference (한국멀티미디어학회 춘계학술발표대회), Vol. 28 No. 1, Chung-Ang University, Seoul, Korea
+  note: Oral presentation
+  members: [gbh, sooyolok, sukhwanlee]
+
+- type: conference
+  year: 2025
+  title: Semantic Component Analysis between CityGML and IndoorGML
+  authors: Phuoc-Dat Lam, Soo-Yol Ok, Suk-Hwan Lee
+  venue: 2025 Korea Multimedia Society Spring Conference (한국멀티미디어학회 춘계학술발표대회), Vol. 28 No. 1, Chung-Ang University, Seoul, Korea
+  note: Oral presentation
+  members: [lpd, sooyolok, sukhwanlee]
+
+- type: conference
+  year: 2025
+  title: A Survey of Object Detection Performance on Traffic Light Recognition
+  authors: Chae-Young Yi, Jeong-Sik Kim, Soo-Yol Ok, Suk-Hwan Lee
+  venue: 2025 Korea Multimedia Society Spring Conference (한국멀티미디어학회 춘계학술발표대회), Vol. 28 No. 1, Chung-Ang University, Seoul, Korea
+  note: Poster presentation
+  members: [sooyolok, sukhwanlee]
+
+- type: conference
+  year: 2025
+  title: "Integrating BIM into GIS Domains for Enhanced Interoperability in Smart Digital Cities: CityGML-Based Ontology"
+  authors: Phuoc-Dat Lam, Hyeon-Cheol Kim, Bon-Hyeon Gu, Hoang-Khanh Lam, Soo-Yol Ok, Suk-Hwan Lee
+  venue: 2025 IEEE 5th International Conference on Digital Twins and Parallel Intelligence (DTPI)
+  members: [lpd, khc, gbh, lhk, sooyolok, sukhwanlee]

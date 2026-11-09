@@ -1,15 +1,10 @@
 ---
-layout: page
+layout: member
+member: jhseol
 title: "Jae-Hyeon Seol, Research Assistant"
 permalink: /member/jhseol
-image: 
 description: "Curriculum vitae of Jae-Hyeon Seol"
-toc: true
 ---
-
-[![Static Badge](https://img.shields.io/badge/CV-2AFFDA?logo=readdotcv&color=White)](../members/UnderGrad/)
-
-<br>
 
 # Research Experience
  

@@ -1,0 +1,13 @@
+{%- assign m = include.m -%}
+<article class="member-card{% if include.compact %} member-card--compact{% endif %}">
+  <div class="member-card__photo scan">{% include member-photo.html m=m %}</div>
+  <div class="member-card__body">
+    <h3 class="member-card__name">
+      {%- if m.page -%}<a href="{{ m.page | relative_url }}" class="stretched">{{ m.name }}</a>{%- else -%}{{ m.name }}{%- endif -%}
+      {%- if m.name_ko %} <span class="member-card__ko" lang="ko">{{ m.name_ko }}</span>{% endif -%}
+    </h3>
+    {%- if m.since %}<p class="member-card__meta mono">{{ m.since }} – {% if m.until %}{{ m.until }}{% else %}{% include t.html k="present" %}{% endif %}</p>{% elsif m.title %}<p class="member-card__meta">{% include bi.html en=m.title ko=m.title_ko %}</p>{% endif %}
+    {%- if m.field %}<p class="member-card__field">{{ m.field }}</p>{% endif %}
+    {% include member-links.html links=m.links px=16 %}
+  </div>
+</article>

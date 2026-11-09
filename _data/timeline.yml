@@ -1,0 +1,12 @@
+# Short milestones (home ticker + News page timeline). Newest first.
+# Full stories with photos go in _news/ instead; link them with `url`.
+- { date: 2026-02-02, tag: project, en: "Selected for the EU Horizon Europe joint research project EnergyBuilder", ko: "EU '호라이즌 유럽' 국제 공동연구 과제(에너지빌더) 선정", url: /news/2026/horizon-europe-energybuilder/ }
+- { date: 2025-08-20, tag: event, en: "Co-hosted the 2025 SW Industry–Academia Summer Festival at BEXCO", ko: "2025 SW 지산학 썸머 페스티벌 개최 (BEXCO)", url: /news/2025/sw-summer-festival/ }
+- { date: 2025-07-23, tag: award, en: "Young-Hoon Jo won the Best Student Paper Award at MITA 2025", ko: "Young-Hoon Jo 연구원, MITA 2025 최우수 학생 논문상 수상", url: /news/2025/mita-best-student-paper/ }
+- { date: 2025-07-15, tag: event, en: "Joined the Smart City – AI Convergence Strategy Forum", ko: "스마트시티-AI 융합 전략 포럼 참여", url: /news/2025/smart-city-ai-forum/ }
+- { date: 2025-06-30, tag: welcome, en: "Ji-Hoon and Ah-Reum joined the lab as undergraduate researchers", ko: "이지훈, 김아름 학부 연구생 합류" }
+- { date: 2025-04-04, tag: welcome, en: "Ji-An and Bo-Ryeon joined the lab as undergraduate researchers", ko: "이지안, 김보련 학부 연구생 합류" }
+- { date: 2025-04-01, tag: project, en: "Dong-A University selected for MSIT's Digital Columbus Project (JAVIS)", ko: "과기정통부 '디지털 콜럼버스 프로젝트' 선정 (JAVIS)", url: /news/2025/digital-columbus-project/ }
+- { date: 2025-02-17, tag: graduation, en: "Mr. Khanh and Mr. Gu completed their M.S. program", ko: "Khanh, Gu 연구원 석사 졸업", url: /news/2025/graduation-khanh-gu/ }
+- { date: 2024-09-27, tag: news, en: "Our official website went live", ko: "연구실 공식 웹사이트 오픈", url: /news/2024/website-launch/ }
+- { date: 2022-04-01, tag: project, en: "Started the Digital Twin Testbed (Digital Twin City Lab) project funded by MSIT", ko: "과기정통부 디지털 트윈 테스트베드(디지털 트윈 시티랩) 과제 착수" }

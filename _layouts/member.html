@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{%- assign m = site.data.members | where: "id", page.member | first -%}
+{%- assign mypubs = site.data.publications | where_exp: "p", "p.members contains page.member" -%}
+<section class="profile-hero">
+  <div class="page-hero__grid" aria-hidden="true"></div>
+  <div class="wrap profile-hero__inner">
+    <a class="back-link mono" href="{{ '/member/' | relative_url }}">← {% include t.html k="members" %}</a>
+    <div class="profile">
+      <div class="profile__photo scan">{% if m %}{% include member-photo.html m=m %}{% endif %}</div>
+      <div class="profile__info">
+        <p class="kicker">{% if m %}{% include t.html k=m.group %}{% endif %}</p>
+        <h1 class="profile__name">{{ m.name | default: page.title }}{% if m.name_ko %} <span lang="ko">{{ m.name_ko }}</span>{% endif %}</h1>
+        {%- if m.title %}<p class="profile__title">{% include bi.html en=m.title ko=m.title_ko %}</p>{% endif %}
+        {%- if m.since %}<p class="profile__meta mono">{{ m.since }} – {% if m.until %}{{ m.until }}{% else %}{% include t.html k="present" %}{% endif %}</p>{% endif %}
+        {%- if m.field %}<p class="profile__field">{{ m.field }}</p>{% endif %}
+        {%- if m.note %}<p class="profile__field">{% include bi.html en=m.note ko=m.note_ko %}</p>{% endif %}
+        {% include member-links.html links=m.links labels=true px=16 %}
+        {%- if mypubs.size > 0 %}
+        <a class="link-arrow" href="{{ '/publication/' | relative_url }}?member={{ m.id }}">{{ mypubs.size }} {% include t.html k="papers_by" %} {% include icon.html n="arrow" px=16 %}</a>
+        {%- endif %}
+      </div>
+    </div>
+  </div>
+</section>
+<div class="wrap page-body has-toc">
+  <aside class="toc" data-toc aria-label="Contents"><p class="toc__title mono">{% include t.html k="contents" %}</p><ol></ol></aside>
+  <article class="prose" data-prose data-hide-empty>
+    {%- if m.bio and page.show_bio %}<p class="lead">{{ m.bio }}</p>{% endif %}
+    {{ content }}
+  </article>
+</div>

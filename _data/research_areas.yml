@@ -1,0 +1,31 @@
+# Research areas shown on Home and Research. icon = name of an SVG in _includes/icon.html
+- icon: city
+  title: Digital Twin Smart Cities
+  title_ko: 디지털 트윈 스마트시티
+  text: Semantic 3D city models — integrating BIM/IFC and CityGML, 3DCityDB data management and city-scale visualization.
+  text_ko: BIM/IFC와 CityGML 통합, 3DCityDB 기반 데이터 관리, 도시 규모 시각화 등 시맨틱 3D 도시 모델을 연구합니다.
+  keywords: [CityGML, IFC, IndoorGML, 3DCityDB]
+- icon: graph
+  title: Semantic Ontologies & IoT
+  title_ko: 시맨틱 온톨로지 & IoT
+  text: Open-standard ontologies that link spatial models with heterogeneous sensor streams for interoperable, queryable digital twins.
+  text_ko: 공간 모델과 이기종 센서 데이터를 연결하는 개방형 표준 온톨로지로 상호운용 가능한 디지털 트윈을 구축합니다.
+  keywords: [SensorThings API, RDF, Knowledge graphs]
+- icon: agent
+  title: Agentic AI & RAG
+  title_ko: 에이전틱 AI & RAG
+  text: Multi-agent, retrieval-augmented reasoning over city models and documents — from CityGML Q&A to ESG data extraction and disaster response.
+  text_ko: 도시 모델과 문서를 대상으로 한 멀티 에이전트·검색 증강 추론 — CityGML 질의응답, ESG 데이터 추출, 재난 대응까지.
+  keywords: [LLM agents, RAG, MCP]
+- icon: cube
+  title: 3D Vision & World Models
+  title_ko: 3D 비전 & 월드 모델
+  text: Point clouds, 3D Gaussian Splatting, semantic-spatial scene graphs and world models for understanding real spaces.
+  text_ko: 포인트 클라우드, 3D 가우시안 스플래팅, 시맨틱-공간 장면 그래프, 월드 모델로 실제 공간을 이해합니다.
+  keywords: [3DGS, Scene graphs, Point clouds]
+- icon: pulse
+  title: Human-centric & Safety AI
+  title_ko: 사람 중심 · 안전 AI
+  text: Skeleton-based action recognition, personal thermal comfort, fire detection with synthetic data and anomalous sound detection.
+  text_ko: 골격 기반 행동 인식, 개인 열쾌적성, 합성 데이터 기반 화재 감지, 이상 소리 탐지를 연구합니다.
+  keywords: [Action recognition, Synthetic data, Anomaly detection]

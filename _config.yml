@@ -1,56 +1,65 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aidtlab-dau.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# ---------------------------------------------------------------
+# AI Digital Twin Lab @ Dong-A University — site configuration
+# Built by GitHub Pages (classic build, github-pages gem).
+# Lab content lives in _data/ (members, publications, projects…)
+# and _news/ — see README.md for how to update it.
+# ---------------------------------------------------------------
+title: AI Digital Twin Lab
+tagline: Dong-A University, Busan, Korea
+description: >-
+  Official website of the AI Digital Twin Lab at Dong-A University (AIDT Lab@DAU), Busan, Korea —
+  research on digital twins, smart cities, 3D vision, semantic ontologies and agentic AI.
+url: "https://aidtlab-dau.github.io"
+baseurl: ""
+lang: en
+logo: /images/brand/emblem.png
+author:
+  name: AIDT Lab@DAU
+social:
+  name: AI Digital Twin Lab, Dong-A University
+  links:
+    - https://github.com/AIDTLab-DAU
+google_analytics_id: G-3WYKVC20DN
 
-# Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
 permalink: pretty
+timezone: Asia/Seoul
+
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-toc
-  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
-paginate: 5
-paginate_path: "/page/:num"
-
-futrue: true
-
-# Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
+collections:
+  news:
+    output: true
+    permalink: /news/:year/:title/
 
 include:
   - _pages
 
-# Atom Feed
-author:
-  name: AIDT Lab@DAU
-
-logo: /images/Logo_Wide.png
-email: 
+defaults:
+  - scope: { path: "_pages" }
+    values: { layout: page }
+  - scope: { path: "", type: news }
+    values: { layout: news }
 
 feed:
-  path: atom.xml
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-analytics:
-  provider: google
-  google:
-    tracking_id: G-3WYKVC20DN
+  collections:
+    - news
 
 exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
   - .vscode/
   - .github/
+  - _tools/
+  - node_modules/

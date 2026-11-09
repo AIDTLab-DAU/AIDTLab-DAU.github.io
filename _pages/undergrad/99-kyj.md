@@ -1,15 +1,10 @@
 ---
-layout: page
+layout: member
+member: kyj
 title: "Ye-Jun Kim, Research Assistant"
 permalink: /member/kyj
-image: 
 description: "Curriculum vitae of Ye-Jun Kim"
-toc: true
 ---
-
-<!-- [![Static Badge](https://img.shields.io/badge/CV-2AFFDA?logo=readdotcv&color=White)](../members/UnderGrad/Yi-Chae-Young.pdf) -->
-
-<br>
 
 # Research Experience
  

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{%- assign pr = site.data.projects | where: "id", page.project | first -%}
+<section class="project-hero">
+  <div class="page-hero__grid" aria-hidden="true"></div>
+  <div class="wrap project-hero__inner">
+    <div>
+      <a class="back-link mono" href="{{ '/research/' | relative_url }}">← {% include t.html k="research" %}</a>
+      <p class="kicker">{{ pr.period }} · {% if pr.status == "ongoing" %}ONGOING{% else %}COMPLETED{% endif %}</p>
+      <h1 class="page-hero__title">{% include bi.html en=pr.title ko=pr.title_ko %}</h1>
+      <p class="page-hero__lead">{% include bi.html en=pr.summary ko=pr.summary_ko %}</p>
+      <dl class="facts">
+        <div><dt>{% include t.html k="period" %}</dt><dd class="mono">{{ pr.period }}</dd></div>
+        <div><dt>{% include t.html k="funding" %}</dt><dd>{% include bi.html en=pr.program ko=pr.program_ko %} · {{ pr.funder }}</dd></div>
+      </dl>
+    </div>
+    {%- if pr.image %}<figure class="project-hero__img scan"><img src="{{ pr.image | relative_url }}" alt="{{ pr.short }}"></figure>{% endif %}
+  </div>
+</section>
+<div class="wrap page-body has-toc">
+  <aside class="toc" data-toc aria-label="Contents"><p class="toc__title mono">{% include t.html k="contents" %}</p><ol></ol></aside>
+  <article class="prose" data-prose>
+    {{ content }}
+  </article>
+</div>

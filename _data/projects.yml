@@ -1,0 +1,46 @@
+# Funded research projects (Research page + home). Newest first.
+#   page: detail page URL (optional) — content lives in _pages/research-*.md
+- id: javis
+  title: "JAVIS — Joint Autonomous Resilience Virtual Intelligent System"
+  title_ko: "JAVIS — 복합재난 대응 자율 회복 가상 지능 시스템"
+  short: JAVIS
+  period: 2025 – 2032
+  status: ongoing
+  program: Digital Columbus Project (Disaster Safety)
+  program_ko: 디지털 콜럼버스 프로젝트 (재난안전 분야)
+  funder: MSIT · IITP
+  image: /images/research/JAVIS/JAVIS.jpg
+  page: /research/JAVIS
+  summary: A hierarchical agentic-AI digital twin platform that predicts, prevents and responds to complex disasters in smart cities, industrial complexes and coastal cities.
+  summary_ko: 스마트시티, 산업단지, 해안 복합도시에서 복합재난을 예측·예방·대응하는 계층형 에이전틱 AI 기반 디지털 트윈 플랫폼을 개발합니다.
+  tags: [Agentic AI, Digital Twin, Disaster Response]
+
+- id: energybuilder
+  title: EnergyBuilder — Digital-Twin Energy Optimization (Horizon Europe)
+  title_ko: 에너지빌더 — 디지털 트윈 기반 건물 에너지 최적화 (호라이즌 유럽)
+  short: EnergyBuilder
+  period: 2026 –
+  status: ongoing
+  program: Horizon Europe international joint research
+  program_ko: EU 호라이즌 유럽 국제 공동연구
+  funder: European Union
+  image: /images/news/2026-horizon-europe-1.jpg
+  news: /news/2026/horizon-europe-energybuilder/
+  summary: As Korean lead institution, we develop a digital-twin platform that maximizes building energy efficiency across design and operation, turning buildings into energy "prosumers" with AI, digital twins and virtual power plants — piloted at the Busan Eco Delta Smart Village and European living labs.
+  summary_ko: 국내 주관기관으로서 AI·디지털 트윈·가상발전소 기술을 활용해 건물의 설계·운영 단계 에너지 효율을 극대화하고 건물을 '프로슈머'로 전환하는 플랫폼을 개발하며, 부산 에코델타 스마트빌리지와 유럽 리빙랩에서 실증합니다.
+  tags: [Energy, Digital Twin, International]
+
+- id: dt-testbed
+  title: Digital Twin Testbed for Smart City Infrastructure
+  title_ko: 스마트시티 디지털 트윈 테스트베드 구축
+  short: Digital Twin Testbed
+  period: Apr 2022 – Dec 2025
+  status: completed
+  program: "Digital Twin Testbed Establishment (No. 2022-0-00622)"
+  program_ko: 디지털 트윈 테스트베드 구축 (No. 2022-0-00622)
+  funder: MSIT · IITP
+  image: /images/research/digital-twin-project.jpg
+  page: /research/digital-twin-smart-city
+  summary: A layered plug-in service platform, 3DCityDB-based city data management and an open-standard IoT ontology linking CityGML with SensorThings API — demonstrated at the Busan Eco Delta Smart City Lab.
+  summary_ko: 계층형 플러그인 서비스 플랫폼, 3DCityDB 기반 도시 데이터 관리, CityGML과 SensorThings API를 연결하는 개방형 표준 IoT 온톨로지를 개발하고 부산 에코델타 스마트시티 랩에서 실증했습니다.
+  tags: [Smart City, CityGML, Ontology]

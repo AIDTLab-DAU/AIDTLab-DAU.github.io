@@ -1,15 +1,10 @@
 ---
-layout: page
+layout: member
+member: hjk
 title: "Hae-Jin Kim, Research Assistant"
 permalink: /member/hjk
-image: 
 description: "Curriculum vitae of Hae-Jin Kim"
-toc: true
 ---
-
-[![Static Badge](https://img.shields.io/badge/CV-2AFFDA?logo=readdotcv&color=White)](../members/UnderGrad/)
-
-<br>
 
 # Research Experience
  

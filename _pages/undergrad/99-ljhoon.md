@@ -1,15 +1,10 @@
 ---
-layout: page
+layout: member
+member: ljhoon
 title: "Ji-Hoon Lee, Research Assistant"
 permalink: /member/ljhoon
-image: 
 description: "Curriculum vitae of Ji-Hoon Lee"
-toc: true
 ---
-
-[![Static Badge](https://img.shields.io/badge/CV-2AFFDA?logo=readdotcv&color=White)](../members/UnderGrad/)
-
-<br>
 
 # Research Experience
  

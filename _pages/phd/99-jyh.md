@@ -1,14 +1,9 @@
 ---
-layout: page
+layout: member
+member: jyh
 title: "Young-Hoon Jo, Ph.D"
 permalink: /member/phd/jyh
-image: 
-toc: true
 ---
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0003-9858-7822)
-
-<br>
 
 # Research Experience
 
@@ -168,4 +163,3 @@ toc: true
 - **ThisIs Smart Campus Platform**  
   - Developed and operated Dong-A University's official smart campus platform.  
   - Officially released on Google Play.
-

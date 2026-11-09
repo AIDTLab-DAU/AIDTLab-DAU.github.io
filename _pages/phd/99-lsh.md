@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: member
+member: lsh
 title: "Sang-Hoon Lee, Ph.D"
 permalink: /member/phd/lsh
-image: 
-toc: true
 ---
-
-<br>
 
 # Research Experience
 
@@ -24,5 +21,3 @@ toc: true
 ***
 
 # Projects
-
-

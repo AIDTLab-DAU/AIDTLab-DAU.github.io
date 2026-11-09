@@ -1,0 +1,39 @@
+{%- comment -%} Inline SVG icon: {% include icon.html n="github" %} {%- endcomment -%}
+{%- assign n = include.n -%}
+<svg class="icon icon-{{ n }}" viewBox="0 0 24 24" width="{{ include.px | default: 18 }}" height="{{ include.px | default: 18 }}" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+{%- case n -%}
+{%- when "github" -%}<path fill="currentColor" stroke="none" d="M12 .5C5.65.5.5 5.65.5 12a11.5 11.5 0 0 0 7.86 10.92c.58.1.79-.25.79-.56v-2c-3.2.7-3.87-1.37-3.87-1.37-.52-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.42-2.69 5.39-5.25 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z"/>
+{%- when "scholar" -%}<path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c0 1.5 2.7 3 6 3s6-1.5 6-3v-5M22 9v6"/>
+{%- when "orcid" -%}<circle cx="12" cy="12" r="10"/><path d="M8 8v.01M8 11v6M11 7h2.5a5 5 0 0 1 0 10H11z"/>
+{%- when "researchid" -%}<rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="11" r="2"/><path d="M6 16c.8-1.5 1.9-2 3-2s2.2.5 3 2M14 10h4M14 13h3"/>
+{%- when "website" -%}<circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/>
+{%- when "email" -%}<rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/>
+{%- when "ieee" -%}<path d="M4 19V5a2 2 0 0 1 2-2h14v16H6a2 2 0 0 0-2 2zM20 19v2H6"/>
+{%- when "researchgate" -%}<path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/>
+{%- when "linkedin" -%}<rect x="3" y="3" width="18" height="18" rx="2"/><path d="M8 10v7M8 7v.01M12 17v-4a2 2 0 0 1 4 0v4M12 10v7"/>
+{%- when "arrow" -%}<path d="M5 12h14M13 6l6 6-6 6"/>
+{%- when "external" -%}<path d="M14 4h6v6M20 4l-9 9M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/>
+{%- when "article" -%}<path d="M14 4h6v6M20 4l-9 9M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/>
+{%- when "file" -%}<path d="M14 3H6a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/>
+{%- when "download" -%}<path d="M12 3v12M7 10l5 5 5-5M5 21h14"/>
+{%- when "sun" -%}<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>
+{%- when "moon" -%}<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>
+{%- when "menu" -%}<path d="M4 7h16M4 12h16M4 17h16"/>
+{%- when "close" -%}<path d="M6 6l12 12M18 6 6 18"/>
+{%- when "video" -%}<circle cx="12" cy="12" r="10"/><path d="m10 8 6 4-6 4z"/>
+{%- when "award" -%}<circle cx="12" cy="9" r="6"/><path d="m8.5 14-1.5 8 5-3 5 3-1.5-8"/>
+{%- when "copy" -%}<rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/>
+{%- when "pin" -%}<path d="M12 22s7-6.3 7-12a7 7 0 1 0-14 0c0 5.7 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/>
+{%- when "phone" -%}<path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/>
+{%- when "search" -%}<circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/>
+{%- when "calendar" -%}<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>
+{%- when "users" -%}<circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0M16 4.5a3.5 3.5 0 0 1 0 7M18 14a6 6 0 0 1 3.5 6"/>
+{%- when "lang" -%}<path d="M4 5h8M8 3v2M6 5c0 4 3 7 6 8M10 5c0 3-3 7-7 8M13 21l4-9 4 9M14.5 18h5"/>
+{%- when "city" -%}<path d="M3 21h18M5 21V9l5-3v15M10 21V4l6 3v14M16 21v-9l4 2v7M7 12h1M7 15h1M13 9h1M13 12h1M13 15h1"/>
+{%- when "graph" -%}<circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><circle cx="12" cy="11" r="2"/><path d="M6.8 7l3.4 2.8M17.2 7l-3.4 2.8M12 13v4M5 8v6l5 4M19 8v6l-5 4"/>
+{%- when "agent" -%}<rect x="5" y="8" width="14" height="11" rx="3"/><path d="M12 5v3M9 13v.01M15 13v.01M9.5 16h5M2 13h3M19 13h3"/><circle cx="12" cy="4" r="1"/>
+{%- when "cube" -%}<path d="M12 2 3 7v10l9 5 9-5V7z"/><path d="M3 7l9 5 9-5M12 12v10"/>
+{%- when "pulse" -%}<path d="M3 12h4l2-6 4 12 2-6h6"/>
+{%- else -%}<circle cx="12" cy="12" r="9"/>
+{%- endcase -%}
+</svg>

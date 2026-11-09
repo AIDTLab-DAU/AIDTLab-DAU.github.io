@@ -1,0 +1,61 @@
+# UI strings. Usage: {% include t.html k="research" %}
+home: { en: Home, ko: 홈 }
+research: { en: Research, ko: 연구 }
+publications: { en: Publications, ko: 논문 }
+members: { en: Members, ko: 구성원 }
+news: { en: News, ko: 소식 }
+lectures: { en: Lectures, ko: 강의 }
+contact: { en: Contact, ko: 연락처 }
+join: { en: Join us, ko: 연구원 모집 }
+explore_research: { en: Explore our research, ko: 연구 살펴보기 }
+join_lab: { en: Join the lab, ko: 연구실 지원하기 }
+about_lab: { en: About the lab, ko: 연구실 소개 }
+research_areas: { en: Research areas, ko: 연구 분야 }
+projects: { en: Projects, ko: 연구 과제 }
+latest_news: { en: Latest news, ko: 최신 소식 }
+recent_pubs: { en: Recent publications, ko: 최근 논문 }
+view_all: { en: View all, ko: 전체 보기 }
+read_more: { en: Read more, ko: 자세히 보기 }
+read_article: { en: Read article, ko: 기사 보기 }
+watch_video: { en: Watch video, ko: 영상 보기 }
+milestones: { en: Milestones, ko: 주요 이력 }
+researchers: { en: Researchers, ko: 연구원 }
+papers: { en: Publications, ko: 논문 }
+funded_projects: { en: Funded projects, ko: 연구 과제 }
+since: { en: Since, ko: 설립 }
+faculty: { en: Faculty, ko: 지도 교수 }
+phd: { en: Ph.D. students, ko: 박사과정 }
+ms: { en: M.S. students, ko: 석사과정 }
+undergrad: { en: Undergraduate researchers, ko: 학부 연구생 }
+staff: { en: Staff, ko: 행정 }
+alumni: { en: Alumni, ko: 졸업생 · 이전 구성원 }
+profile: { en: Profile, ko: 프로필 }
+present: { en: Present, ko: 현재 }
+all: { en: All, ko: 전체 }
+journal: { en: International journal, ko: 국제 학술지 }
+domestic: { en: Domestic journal, ko: 국내 학술지 }
+conference: { en: Conference, ko: 학술대회 }
+search_pubs: { en: "Search title, author, venue…", ko: "제목, 저자, 학회 검색…" }
+any_member: { en: Any member, ko: 전체 구성원 }
+cite: { en: Cite, ko: 인용 }
+copied: { en: Copied!, ko: 복사됨! }
+no_results: { en: No matching publications., ko: 일치하는 논문이 없습니다. }
+contents: { en: Contents, ko: 목차 }
+how_to_apply: { en: How to apply, ko: 지원 방법 }
+support: { en: Support & scholarships, ko: 지원 및 장학 }
+address: { en: Address, ko: 주소 }
+offices: { en: Offices, ko: 연구실 위치 }
+campus_map: { en: Seunghak Campus map, ko: 승학캠퍼스 지도 }
+graduate_courses: { en: Graduate courses, ko: 대학원 과목 }
+undergrad_courses: { en: Undergraduate courses, ko: 학부 과목 }
+lectures_note: { en: Lecture materials are provided as PDF files — feel free to use them for study., ko: 강의 자료는 PDF로 제공되며 자유롭게 학습에 활용하실 수 있습니다. }
+funding: { en: Funding, ko: 지원 기관 }
+period: { en: Period, ko: 기간 }
+materials: { en: Materials, ko: 자료 }
+acknowledgement: { en: Acknowledgement, ko: 사사 }
+back: { en: Back, ko: 뒤로 }
+theme: { en: Toggle theme, ko: 테마 전환 }
+menu: { en: Menu, ko: 메뉴 }
+not_found: { en: This page drifted out of the twin., ko: 페이지를 찾을 수 없습니다. }
+papers_by: { en: papers in our list, ko: 편의 논문 }
+lab_partners: { en: Funding & partners, ko: 지원 기관 및 협력 }

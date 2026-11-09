@@ -1,0 +1,42 @@
+# Lecture materials. `file` paths are relative to the site root.
+graduate:
+  - course: Vision Transformer
+    items:
+      - { title: "DeiT — Data-efficient Image Transformers", file: "/lectures/Vision Transformer/DeiT (Data-efficient Image Transformers).pdf" }
+      - { title: Swin Transformer, file: "/lectures/Vision Transformer/Swin Transformer.pdf" }
+      - { title: The Illustrated Transformer, file: "/lectures/Vision Transformer/The Illustrated Transformer.pdf" }
+      - { title: Transformer, file: "/lectures/Vision Transformer/Transformer.pdf" }
+      - { title: "ViT — Vision Transformer", file: "/lectures/Vision Transformer/Vision Transformer - ViT.pdf" }
+  - course: Generative Image Models
+    items:
+      - { title: "01 · StyleGAN", file: "/lectures/Generative Image Model/Generative Model - 01 StyleGAN.pdf" }
+      - { title: "02 · Diffusion Models Overview (Lil'Log)", file: "/lectures/Generative Image Model/Generative Model - 02 Diffusion Models Overview - Lil'Long.pdf" }
+      - { title: "03 · DDPM — Denoising Diffusion Probabilistic Models", file: "/lectures/Generative Image Model/Generative Model - 03 DDPM Denosing Diffusion Probabilistic Model.pdf" }
+      - { title: "04 · Stable Diffusion — Latent Diffusion Models", file: "/lectures/Generative Image Model/Generative Model - 04 Stable Diffusion - High-Resolution Image Synthesis with Latent Diffusion Models.pdf" }
+      - { title: "05 · Score-Based Generative Modeling through SDEs", file: "/lectures/Generative Image Model/Generative Model - 05 Score-Based Generative Modeling through Stochastic Differential Equations.pdf" }
+      - { title: "06 · EDM — NVIDIA presentation", file: "/lectures/Generative Image Model/Generative Model - 06 EDM (Elucidating the Design Space of Diffusion-Based Generative Models) - Nvidia Presentation.pdf" }
+      - { title: "07 · EDM — Paper", file: "/lectures/Generative Image Model/Generative Model - 07 EDM (Elucidating the Design Space of Diffusion-Based Generative Models) - Paper.pdf" }
+      - { title: "08 · Consistency Models", file: "/lectures/Generative Image Model/Generative Model - 08 CM Consistency Models.pdf" }
+      - { title: "09 · LCM — Latent Consistency Models", file: "/lectures/Generative Image Model/Generative Model - 09 LCM Latent Consistency Model.pdf" }
+      - { title: "ControlNet & Stable Diffusion (Nhan Tran, 2024-01-22)", file: "/lectures/Generative Image Model/Generative Model - ControlNet Stable Diffusion - Nhan Tran Presentation240122.pdf" }
+      - { title: "CVPR 2022 — Denoising Diffusion-based Generative Modeling", file: "/lectures/Generative Image Model/CVPR 2022 - Denoising Diffusion-based Generative Modeling Foundations and Applications.pdf" }
+      - { title: "CVPR 2022 Tutorial — Diffusion and Score-Based Models (Yang Song)", file: "/lectures/Generative Image Model/CVPR2022 Tutorial - Yan Song - Diffusion and Score-Based Generative Models.pdf" }
+      - { title: "LLM — Alternatives to Transformer (Rev 1.0)", file: "/lectures/Generative Image Model/LLM-Alternatives to Transformer Rev1.0 (From 1.6 Ver).pdf" }
+      - { title: "Oxen.ai ArXiv Dive — Road to Sora reading list (2024)", file: "/lectures/Generative Image Model/OXENAI-ArXivDive- Road to Sora Paper Reading List - 2024.pdf" }
+  - course: Object Detection
+    items:
+      - { title: DETR, file: "/lectures/Object Detection Model/Object Detection Model - DETR.pdf" }
+      - { title: EfficientDet, file: "/lectures/Object Detection Model/Object Detection Model - EfficientDet.pdf" }
+      - { title: YOLO v1, file: "/lectures/Object Detection Model/Object Detection Model - Yolo v1.pdf" }
+      - { title: YOLO v2 – v4, file: "/lectures/Object Detection Model/Object Detection Model - Yolo v2-v4.pdf" }
+  - course: CNN Classification
+    items:
+      - { title: "Part 1 · Overview of the best CNN architectures", file: "/lectures/CNN Classification Model/Part1 - Overview Best CNN Architecture.pdf" }
+      - { title: "Part 2 · EfficientNet V1, V2", file: "/lectures/CNN Classification Model/Part2 - EfficientNet V1,V2.pdf" }
+      - { title: "Part 3 · Meta Pseudo Labels", file: "/lectures/CNN Classification Model/Part3 - Meta Pseudo Lables.pdf" }
+undergraduate:
+  - { title: Python, url: "https://github.com/SukHwanLee/Python-Lecture" }
+  - { title: OpenCV Tutorial, url: "https://github.com/SukHwanLee/OpenCV-Tutorial" }
+  - { title: OpenVINO Tutorial, url: "https://github.com/SukHwanLee/OpenVINO-Tutorial" }
+  - { title: Information Security, url: "https://github.com/SukHwanLee/Information_Security_Lecture" }
+  - { title: Probability & Statistics, url: "https://github.com/SukHwanLee/Probability-Statistics" }

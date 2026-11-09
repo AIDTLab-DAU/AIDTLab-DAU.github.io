@@ -1,16 +1,10 @@
 ---
-layout: page
+layout: member
+member: gbh
 title: "Bon-Hyeon Gu, Ph.D"
 permalink: /member/phd/gbh
-image: 
 description: "Curriculum vitae of Bon-Hyeon Gu"
-toc: true
 ---
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0004-3256-7949) 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=cWbRoPgAAAAJ)
-
-<br>
 
 # Research Experience
 

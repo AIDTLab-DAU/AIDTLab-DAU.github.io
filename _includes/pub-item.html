@@ -1,0 +1,17 @@
+{%- assign p = include.p -%}
+{%- capture href -%}{% if p.doi %}https://doi.org/{{ p.doi }}{% else %}{{ p.url }}{% endif %}{%- endcapture -%}
+<li class="pub" data-type="{{ p.type }}" data-year="{{ p.year }}" data-members="{{ p.members | join: ' ' }}">
+  <div class="pub__year mono">{{ p.year }}</div>
+  <div class="pub__body">
+    <h3 class="pub__title">{% if href != "" %}<a href="{{ href }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</h3>
+    <p class="pub__authors">{{ p.authors }}</p>
+    <p class="pub__venue"><em>{{ p.venue }}</em>{% if p.details %}, {{ p.details }}{% endif %}{% if p.note %} · <span class="muted">{{ p.note }}</span>{% endif %}</p>
+    <div class="pub__actions">
+      <span class="chip chip--{{ p.type }}">{% include t.html k=p.type %}</span>
+      {%- if p.award %}<span class="chip chip--award">{% include icon.html n="award" px=14 %} {{ p.award }}</span>{% endif -%}
+      {%- if p.doi %}<a class="chip chip--link mono" href="https://doi.org/{{ p.doi }}" target="_blank" rel="noopener">DOI {{ p.doi }}</a>{% elsif p.url %}<a class="chip chip--link" href="{{ p.url }}" target="_blank" rel="noopener">{% include icon.html n="external" px=14 %} Link</a>{% endif -%}
+      {%- if p.doi and p.url %}<a class="chip chip--link" href="{{ p.url }}" target="_blank" rel="noopener">DBpia</a>{% endif -%}
+      <button type="button" class="chip chip--btn" data-cite="{{ p.authors | escape }}. ({{ p.year }}). {{ p.title | escape }}. {{ p.venue | escape }}{% if p.details %}, {{ p.details }}{% endif %}.{% if p.doi %} https://doi.org/{{ p.doi }}{% endif %}">{% include icon.html n="copy" px=14 %} <span class="cite-label">{% include t.html k="cite" %}</span></button>
+    </div>
+  </div>
+</li>

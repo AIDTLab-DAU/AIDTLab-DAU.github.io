@@ -1,0 +1,13 @@
+{%- assign L = include.links -%}
+{%- if L -%}
+<ul class="icon-links" aria-label="Links">
+  {%- assign _list_kind = "email,cv,github,scholar,orcid,researchid,website,ieee,researchgate,linkedin" | split: "," -%}{%- for kind in _list_kind -%}
+    {%- assign url = L[kind] -%}{%- if kind == "cv" and url -%}{%- assign url = url | relative_url -%}{%- endif -%}
+    {%- if url -%}
+      {%- capture href -%}{% if kind == "email" %}mailto:{{ url }}{% else %}{{ url }}{% endif %}{%- endcapture -%}
+      {%- capture label -%}{% case kind %}{% when "scholar" %}Google Scholar{% when "orcid" %}ORCID{% when "researchid" %}ResearchID{% when "ieee" %}IEEE Xplore{% when "researchgate" %}ResearchGate{% when "linkedin" %}LinkedIn{% when "github" %}GitHub{% when "website" %}Website{% when "cv" %}CV (PDF){% else %}{{ url }}{% endcase %}{%- endcapture -%}
+      <li><a href="{{ href }}" title="{{ label }}" aria-label="{{ label }}"{% unless kind == "email" %} target="_blank" rel="noopener"{% endunless %}>{% if kind == "cv" %}{% include icon.html n="file" px=include.px %}{% else %}{% include icon.html n=kind px=include.px %}{% endif %}{% if include.labels %}<span>{{ label }}</span>{% endif %}</a></li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
+{%- endif -%}

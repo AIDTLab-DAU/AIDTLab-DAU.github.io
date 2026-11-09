@@ -1,0 +1,2 @@
+{%- comment -%} Bilingual value: {% include bi.html en=x ko=y %} — falls back to English when ko is empty. {%- endcomment -%}
+{%- if include.ko and include.ko != "" -%}<span class="en">{{ include.en }}</span><span class="ko" lang="ko">{{ include.ko }}</span>{%- else -%}{{ include.en }}{%- endif -%}

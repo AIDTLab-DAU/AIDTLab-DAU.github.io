@@ -1,16 +1,10 @@
 ---
-layout: page
+layout: member
+member: lhk
 title: "Hoang-Khanh Lam, Ms"
 permalink: /member/lhk
-image: 
 description: "Curriculum vitae of Hoang-Khanh Lam"
-toc: true
 ---
-  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0005-2116-4084) 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=DwingmkAAAAJ)
-
-<br>
 
 # Research Experience
 
@@ -54,5 +48,3 @@ toc: true
 ## Participant
 
 * Project of "Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea.
-
-

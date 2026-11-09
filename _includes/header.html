@@ -1,74 +1,34 @@
-<div class="container-fluid affix_header">
-    <div class="row">
-      <div class="col col-12">
-        <!-- begin header -->
-        <header class="header">
-
-          <!-- Start Google tag (gtag.js) -->
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-3WYKVC20DN"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'G-3WYKVC20DN');
-          </script>
-          <!-- End Google tag (gtag.js) -->
-          
-          <div class="logo">
-            <a class="logo__link" href="{{site.baseurl}}/">
-            {%if site.data.settings.logo %}
-              <img class="logo__image" src="{{ site.baseurl }}/images/{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
-            {% else %}
-              {{ site.data.settings.title }}
-            {% endif %}
-            </a>
-          </div>
-
-          <nav class="main-nav">
-
-            <div class="main-nav__box">
-              <div class="nav-icon__close">
-                <i class="ion ion-ios-close-circle-outline"></i>
-              </div>
-
-              <div class="nav__title">Menu</div>
-
-              <ul class="nav__list list-reset">
-                <li class="nav__item">
-                  <a href="{{site.url}}" class="nav__link">HOME</a>
-                </li>
-                <li class="nav__item">
-                  <a href="{{site.baseurl}}/research/" class="nav__link">Research</a>
-                </li>
-                <li class="nav__item">
-                  <a href="{{site.baseurl}}/publication/" class="nav__link">Publication</a>
-                </li>
-                <li class="nav__item">
-                  <a href="{{site.baseurl}}/member/" class="nav__link">Member</a>
-                </li>
-                <li class="nav__item">
-                  <a href="{{site.baseurl}}/lecture/" class="nav__link">Lecture</a>
-                </li>
-                <li class="nav__item">
-                  <a href="{{site.baseurl}}/contact/" class="nav__link">Contact</a>
-                </li>
-                <!-- <li class="nav__item">
-                  <a href="{{site.baseurl}}/gallery/" class="nav__link">Gallery</a>
-                </li> -->
-              </ul>
-
-            </div>
-          </nav>
-
-          <div class="nav-buttons">
-            <i class="nav__icon nav__icon-menu ion ion-md-menu" aria-label="Menu Icon"></i>
-            <i class="nav__icon nav__icon-search ion ion-md-search" aria-label="Search Icon"></i>
-          </div>
-
-          <div class="header__overlay"></div>
-        </header>
-        <!-- end header -->
-      </div>
+{%- assign nav = "research:/research/,publications:/publication/,members:/member/,news:/news/,lectures:/lecture/,contact:/contact/" | split: "," -%}
+<header class="site-header{% if include.overlay %} is-overlay{% endif %}" data-header>
+  <div class="wrap site-header__inner">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.data.lab.name }} — home">
+      <span class="brand__mark"><img src="{{ '/images/brand/emblem.png' | relative_url }}" alt="" width="40" height="40"></span>
+      <span class="brand__text">
+        <strong>AIDT Lab</strong>
+        <small><span class="en">Dong-A University</span><span class="ko" lang="ko">동아대학교</span></small>
+      </span>
+    </a>
+    <nav class="nav" id="site-nav" aria-label="Main">
+      <ul>
+        {%- for item in nav -%}
+          {%- assign p = item | split: ":" -%}{%- assign key = p[0] -%}{%- assign href = p[1] -%}
+          {%- assign active = false -%}
+          {%- if page.url contains href -%}{%- assign active = true -%}{%- endif -%}
+          {%- if href == "/member/" and page.url contains "/member" -%}{%- assign active = true -%}{%- endif -%}
+          <li><a href="{{ href | relative_url }}"{% if active %} aria-current="page"{% endif %}>{% include t.html k=key %}</a></li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+    <div class="site-header__tools">
+      <button class="tool-btn lang-btn" type="button" data-lang-toggle aria-label="Switch language / 언어 전환">
+        <span class="lang-btn__opt" data-l="en">EN</span><span class="lang-btn__sep">/</span><span class="lang-btn__opt" data-l="ko" lang="ko">한</span>
+      </button>
+      <button class="tool-btn" type="button" data-theme-toggle aria-label="Toggle dark mode">
+        <span class="theme-ico theme-ico--sun">{% include icon.html n="sun" %}</span><span class="theme-ico theme-ico--moon">{% include icon.html n="moon" %}</span>
+      </button>
+      <button class="tool-btn nav-toggle" type="button" data-nav-toggle aria-controls="site-nav" aria-expanded="false" aria-label="Menu">
+        <span class="nav-toggle__open">{% include icon.html n="menu" px=22 %}</span><span class="nav-toggle__close">{% include icon.html n="close" px=22 %}</span>
+      </button>
     </div>
-</div>
+  </div>
+</header>

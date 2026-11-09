@@ -1,16 +1,9 @@
 ---
-layout: page
+layout: member
+member: thp
 title: "Tien-Hieu Pham, M.S"
 permalink: /member/master/thp
-image: 
-toc: true
 ---
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0000-8096-4069) 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=Si_nE-UAAAAJ&hl=vi)
-[![Research ID](https://img.shields.io/badge/Research%20ID-gray?style=flat-square)](https://researchid.co/phamhieutn44)
-
-<br>
 
 # Research Experience
 
@@ -39,4 +32,3 @@ toc: true
 ***
 
 # Projects
-

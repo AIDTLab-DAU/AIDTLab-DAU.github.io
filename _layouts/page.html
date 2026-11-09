@@ -1,41 +1,18 @@
 ---
 layout: default
 ---
-<div class="container">
-	<div class="page-title-box">
-		<div class="row">
-			<div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
-				<h1 class="page-title">{{ page.title | escape }}</h1>
-			</div>
-		</div>
-	</div>
-
-	{% if page.image %}
-	<div class="page__head">
-		<div class="page-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
-	</div>
-	{% endif %}
+{% include page-hero.html kicker=page.kicker title=page.title title_ko=page.title_ko lead=page.description lead_ko=page.description_ko %}
+{%- if page.wide %}
+<div class="page-body page-body--wide">
+  {{ content }}
 </div>
-
-
-<div class="container">
-	<div class="row">
-		<!-- begin page -->
-		<article class="page col col-10 push-1 col-t-10 col-m-12">
-			<div class="page__content">
-				{% if page.toc %}
-				<div class="toc-wrapper">
-					<div class="inline_toc">
-						<div class="toc-title">CONTENTS</div>
-						{% include toc.html html=content sanitize=true class="toc-list" id="my_toc" h_min=1 h_max=3 %}
-					</div>
-				</div>
-				{% endif %}
-				{{ content }}
-			</div>
-		</article>
-		<!-- end page -->
-	</div>
+{%- else %}
+<div class="wrap page-body{% if page.toc %} has-toc{% endif %}">
+  {%- if page.toc %}
+  <aside class="toc" data-toc aria-label="Contents"><p class="toc__title mono">{% include t.html k="contents" %}</p><ol></ol></aside>
+  {%- endif %}
+  <article class="prose" data-prose>
+    {{ content }}
+  </article>
 </div>
-
-
+{%- endif %}

@@ -1,17 +1,10 @@
 ---
-layout: page
+layout: member
+member: khc
 title: "Hyeon-Cheol Kim, Ph.D"
 permalink: /member/phd/khc
-image: 
 description: "Curriculum vitae of Hyeon-Cheol Kim"
-toc: true
 ---
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0000-8074-7750) 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=SzBWb88AAAAJ&hl=ko)
-[![Research ID](https://img.shields.io/badge/Research%20ID-gray?style=flat-square)](https://www.researchid.co/rid110093)
-
-<br>
 
 # Research Experience
 
@@ -56,5 +49,3 @@ toc: true
 ## Participant
 * 2025~Present: Project of "Digital Columbus - Complex Disaster Management System - JAVIS(Joint Autonomous Resilience Virtual Intelligent System)" supported by the Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT).
 * 2022~2025: Project of "Digital Twin Testbed Establishment" funded by the Ministry of Science and ICT in Korea.
-
-

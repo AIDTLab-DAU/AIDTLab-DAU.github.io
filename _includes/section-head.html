@@ -1,0 +1,5 @@
+<div class="section-head">
+  <p class="kicker"><span class="kicker__idx">{{ include.idx }}</span>{{ include.kicker }}</p>
+  <h2 class="section-title">{% include t.html k=include.k %}</h2>
+  {%- if include.link %}<a class="link-arrow" href="{{ include.link | relative_url }}">{% include t.html k="view_all" %} {% include icon.html n="arrow" px=16 %}</a>{% endif %}
+</div>

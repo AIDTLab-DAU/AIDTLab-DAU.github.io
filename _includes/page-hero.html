@@ -1,0 +1,10 @@
+{%- comment -%} Blueprint-style page heading. params: kicker, title, title_ko, lead, lead_ko {%- endcomment -%}
+<section class="page-hero">
+  <div class="page-hero__grid" aria-hidden="true"></div>
+  <div class="wrap page-hero__inner">
+    {%- if include.kicker %}<p class="kicker">{{ include.kicker }}</p>{% endif %}
+    <h1 class="page-hero__title">{% include bi.html en=include.title ko=include.title_ko %}</h1>
+    {%- if include.lead %}<p class="page-hero__lead">{% include bi.html en=include.lead ko=include.lead_ko %}</p>{% endif %}
+    {{ include.extra }}
+  </div>
+</section>

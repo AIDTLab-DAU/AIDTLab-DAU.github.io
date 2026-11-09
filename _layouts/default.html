@@ -1,35 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
 {% include head.html %}
-
-
-<body>
-
-  {% if site.data.settings.google-analytics %}
-  {% include google-analytics.html %}
-  {% endif %}
-  
-  <div id="particles-js">
-  {% include header.html %}
-  
-
-  <!-- begin content -->
-  <main class="content" aria-label="Content">
+</head>
+<body class="{{ page.body_class }}">
+  <a class="skip-link" href="#main">Skip to content</a>
+  {% include header.html overlay=page.overlay_header %}
+  <main id="main">
     {{ content }}
   </main>
-  </div>
-  
-  <!-- end content -->
-
-  <div class="top ion ion-ios-arrow-up" title="Top"></div>
-
-  {% include search.html %}
-
   {% include footer.html %}
-
-  {% include javascripts.html %}
-
+  <div class="lightbox" data-lightbox hidden>
+    <button type="button" class="lightbox__close" data-lightbox-close aria-label="Close">{% include icon.html n="close" px=26 %}</button>
+    <img alt="">
+  </div>
+  <script src="{{ '/assets/js/main.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+  {%- if page.twin %}
+  <script type="module" src="{{ '/assets/js/twin.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+  {%- endif %}
 </body>
-  
 </html>

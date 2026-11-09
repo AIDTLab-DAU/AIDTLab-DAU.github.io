@@ -1,0 +1,12 @@
+{%- assign n = include.n -%}
+<article class="news-card">
+  <a class="news-card__media scan" href="{{ n.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    {%- if n.images %}<img src="{{ n.images[0] | relative_url }}" alt="" loading="lazy" decoding="async">{% endif -%}
+    {%- if n.images.size > 1 %}<span class="news-card__count mono">+{{ n.images.size | minus: 1 }}</span>{% endif -%}
+  </a>
+  <div class="news-card__body">
+    <p class="news-card__meta mono"><span class="tag tag--{{ n.tag }}">{{ n.tag }}</span><time datetime="{{ n.date | date_to_xmlschema }}">{{ n.date | date: "%Y.%m.%d" }}</time></p>
+    <h3 class="news-card__title"><a href="{{ n.url | relative_url }}" class="stretched">{% include bi.html en=n.title ko=n.title_ko %}</a></h3>
+    {%- unless include.short %}<p class="news-card__excerpt">{% include bi.html en=n.excerpt ko=n.excerpt_ko %}</p>{% endunless %}
+  </div>
+</article>

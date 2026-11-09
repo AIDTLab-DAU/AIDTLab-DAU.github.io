@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Phuc-Lam Le, M.S"
+title: "Tien-Hieu Pham, M.S"
 permalink: /member/master/thp
 image: 
 toc: true
